@@ -122,7 +122,42 @@
   </url>
   
   <url>
+    <loc>https://hy6xing.cn/tags/%E5%BE%AE%E4%BF%A1/</loc>
+    <lastmod>2022-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hy6xing.cn/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2022-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://hy6xing.cn/tags/%E6%97%A5%E8%AE%B0/</loc>
+    <lastmod>2022-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hy6xing.cn/tags/%E6%BA%90%E7%A0%81/</loc>
+    <lastmod>2022-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hy6xing.cn/tags/html/</loc>
+    <lastmod>2022-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hy6xing.cn/tags/hexo/</loc>
     <lastmod>2022-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -156,45 +191,24 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://hy6xing.cn/tags/%E6%BA%90%E7%A0%81/</loc>
-    <lastmod>2022-04-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hy6xing.cn/tags/html/</loc>
-    <lastmod>2022-04-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hy6xing.cn/tags/hexo/</loc>
-    <lastmod>2022-04-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hy6xing.cn/tags/%E5%BE%AE%E4%BF%A1/</loc>
-    <lastmod>2022-04-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hy6xing.cn/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-04-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
     <loc>https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2022-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/</loc>
+    <lastmod>2022-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hy6xing.cn/categories/%E7%BD%91%E7%AB%99/</loc>
     <lastmod>2022-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -209,20 +223,6 @@
   
   <url>
     <loc>https://hy6xing.cn/categories/PC%E7%AB%AF/</loc>
-    <lastmod>2022-04-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hy6xing.cn/categories/%E7%BD%91%E7%AB%99/</loc>
-    <lastmod>2022-04-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/</loc>
     <lastmod>2022-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

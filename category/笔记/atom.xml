@@ -4,14 +4,14 @@
     <title>六星虚拟网络 • Posts by &#34;笔记&#34; category</title>
     <link href="https://hy6xing.cn" />
     <updated>2022-04-01T14:40:01.000Z</updated>
+    <category term="介绍" />
+    <category term="笔记" />
+    <category term="站点" />
     <category term="美化" />
     <category term="Rainmeter" />
     <category term="主题" />
     <category term="雨滴皮肤" />
-    <category term="笔记" />
     <category term="日记" />
-    <category term="介绍" />
-    <category term="站点" />
     <category term="源码" />
     <category term="html" />
     <category term="hexo" />
@@ -37,8 +37,8 @@
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s&#34;&gt;Deployment&lt;/span&gt;&lt;/p&gt;
 </content>
-        <category term="笔记" />
         <category term="介绍" />
+        <category term="笔记" />
         <category term="站点" />
         <updated>2022-04-01T14:40:01.000Z</updated>
     </entry>

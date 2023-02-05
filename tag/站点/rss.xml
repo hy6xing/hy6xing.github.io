@@ -7,14 +7,14 @@
         <language>zh-CN</language>
         <pubDate>Sat, 23 Apr 2022 16:20:21 +0800</pubDate>
         <lastBuildDate>Sat, 23 Apr 2022 16:20:21 +0800</lastBuildDate>
+        <category>介绍</category>
+        <category>笔记</category>
+        <category>站点</category>
         <category>美化</category>
         <category>Rainmeter</category>
         <category>主题</category>
         <category>雨滴皮肤</category>
-        <category>笔记</category>
         <category>日记</category>
-        <category>介绍</category>
-        <category>站点</category>
         <category>源码</category>
         <category>html</category>
         <category>hexo</category>
@@ -54,8 +54,8 @@
             <guid isPermalink="true">https://hy6xing.cn/2022/04/01/hello-world/</guid>
             <title>Hello World</title>
             <link>https://hy6xing.cn/2022/04/01/hello-world/</link>
-            <category>笔记</category>
             <category>介绍</category>
+            <category>笔记</category>
             <category>站点</category>
             <pubDate>Fri, 01 Apr 2022 22:40:01 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;

@@ -147,7 +147,8 @@
   width: 2.8rem;
   height: 2.8rem;
   background: var(--grey-2);
-  object-fit: contain;
+  -o-object-fit: contain;
+     object-fit: contain;
 }
 .v .form .btn {
   cursor: pointer;
@@ -374,30 +375,6 @@
 }
 .v .spinner .r5 {
   animation-delay: -0.8s;
-}
-@-moz-keyframes sk-stretchdelay {
-  0%, 40%, 100% {
-    transform: scaleY(0.4);
-  }
-  20% {
-    transform: scaleY(1);
-  }
-}
-@-webkit-keyframes sk-stretchdelay {
-  0%, 40%, 100% {
-    transform: scaleY(0.4);
-  }
-  20% {
-    transform: scaleY(1);
-  }
-}
-@-o-keyframes sk-stretchdelay {
-  0%, 40%, 100% {
-    transform: scaleY(0.4);
-  }
-  20% {
-    transform: scaleY(1);
-  }
 }
 @keyframes sk-stretchdelay {
   0%, 40%, 100% {

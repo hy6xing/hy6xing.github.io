@@ -1,0 +1,43 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "六星虚拟网络 • All posts by \"笔记\" tag",
+    "description": "欢迎来到我的世界~这里你可以学到一些废话文学。何为‘废话’文学呢？比如说我现在就是在说'废话'。但是呢？我是真真的欢迎你来到我的博客网站(ಡωಡ)",
+    "home_page_url": "https://hy6xing.cn",
+    "items": [
+        {
+            "id": "https://hy6xing.cn/2022/08/07/%E6%89%8B%E6%9C%BA/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/",
+            "url": "https://hy6xing.cn/2022/08/07/%E6%89%8B%E6%9C%BA/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/",
+            "title": "资源分享",
+            "date_published": "2022-08-07T05:00:00.000Z",
+            "content_html": "<h2 id=\"最新资源分享\"><a class=\"markdownIt-Anchor\" href=\"#最新资源分享\">#</a> 最新资源分享</h2>\n<p>本网站分享均来自网络收集</p>\n<h3 id=\"酷我音乐\"><a class=\"markdownIt-Anchor\" href=\"#酷我音乐\">#</a> 酷我音乐</h3>\n<p>最新酷我音乐破解版 -10.1.6.0</p>\n<p>不支持微信 QQ 登录，仅支持手机登录</p>\n<p>去广告，去更新，试听所有歌曲</p>\n<p>夸克链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9wYW4ucXVhcmsuY24vcy80MWFlMzc3OTc0NzI=\">https://pan.quark.cn/s/41ae37797472</span></p>\n<h2 id=\"网易云音乐\"><a class=\"markdownIt-Anchor\" href=\"#网易云音乐\">#</a> 网易云音乐</h2>\n<p>网易 - 8.8.06-8008006 修改版</p>\n<p>夸克链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9wYW4ucXVhcmsuY24vcy84NWUxOWEzMGFiNTU=\">https://pan.quark.cn/s/85e19a30ab55</span></p>\n",
+            "tags": [
+                "笔记",
+                "教程",
+                "资源分享"
+            ]
+        },
+        {
+            "id": "https://hy6xing.cn/2022/04/04/%E6%97%A5%E8%AE%B0/2022-04-04/",
+            "url": "https://hy6xing.cn/2022/04/04/%E6%97%A5%E8%AE%B0/2022-04-04/",
+            "title": "第一篇日记",
+            "date_published": "2022-04-04T14:52:20.000Z",
+            "content_html": "<p>东莞：2022 年 4 月 4 日    晴   星期一</p>\n<p>这算是我第一篇网络日记吧。此站点历时 8 个晚上的下班时间，终于做好了。日记也不是天天写，更应该没人看，纯属自己写着玩，记录一下有点意义的事。</p>\n<p>13 年了，记得 09 年刚上初一的时候，每天都写着日记。写了 2 本，时隔十年。重新 <s>动起笔来</s>  ，好像不对，笔换成了键盘，纸质笔记本换成了 Markdown , 时代不同了。</p>\n<p>今年下来，准备的应该都准备，接下来该实行  <s>减肥计划了</s>（好像也不算肥吧，175+75kg🤣）减肚子。</p>\n<p>清明节，明天放假一天，该运动运动了。</p>\n",
+            "tags": [
+                "笔记",
+                "日记"
+            ]
+        },
+        {
+            "id": "https://hy6xing.cn/2022/04/01/hello-world/",
+            "url": "https://hy6xing.cn/2022/04/01/hello-world/",
+            "title": "Hello World",
+            "date_published": "2022-04-01T14:40:01.000Z",
+            "content_html": "<p>This is your very first post. Check <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv\">documentation</span> for more info. If you get any problems when using Hexo, you can find the answer in <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=\">troubleshooting</span> or you can ask me on <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==\">GitHub</span>.</p>\n<h2 id=\"quick-start\"><a class=\"markdownIt-Anchor\" href=\"#quick-start\">#</a> Quick Start</h2>\n<h3 id=\"create-a-new-post\"><a class=\"markdownIt-Anchor\" href=\"#create-a-new-post\">#</a> Create a new post</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo new <span class=\"string\">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s\">Writing</span></p>\n<h3 id=\"run-server\"><a class=\"markdownIt-Anchor\" href=\"#run-server\">#</a> Run server</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo server</span><br></pre></td></tr></table></figure>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=\">Server</span></p>\n<h3 id=\"generate-static-files\"><a class=\"markdownIt-Anchor\" href=\"#generate-static-files\">#</a> Generate static files</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo generate</span><br></pre></td></tr></table></figure>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s\">Generating</span></p>\n<h3 id=\"deploy-to-remote-sites\"><a class=\"markdownIt-Anchor\" href=\"#deploy-to-remote-sites\">#</a> Deploy to remote sites</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo deploy</span><br></pre></td></tr></table></figure>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s\">Deployment</span></p>\n",
+            "tags": [
+                "笔记",
+                "介绍",
+                "站点"
+            ]
+        }
+    ]
+}

@@ -7,15 +7,16 @@
         <language>zh-CN</language>
         <pubDate>Tue, 26 Apr 2022 21:45:20 +0800</pubDate>
         <lastBuildDate>Tue, 26 Apr 2022 21:45:20 +0800</lastBuildDate>
-        <category>介绍</category>
         <category>笔记</category>
+        <category>日记</category>
+        <category>介绍</category>
         <category>站点</category>
-        <category>微信</category>
-        <category>教程</category>
+        <category>资源分享</category>
+        <category>彩蛋</category>
+        <category>（｡ò ∀ ó｡）</category>
         <category>源码</category>
         <category>html</category>
         <category>hexo</category>
-        <category>资源分享</category>
         <category>美化</category>
         <category>Rainmeter</category>
         <category>主题</category>
@@ -23,9 +24,8 @@
         <category>奇葩事件</category>
         <category>新闻</category>
         <category>灵异事件</category>
-        <category>彩蛋</category>
-        <category>（｡ò ∀ ó｡）</category>
-        <category>日记</category>
+        <category>微信</category>
+        <category>教程</category>
         <item>
             <guid isPermalink="true">https://hy6xing.cn/2022/04/26/%E6%89%8B%E6%9C%BA/%E5%BE%AE%E4%BF%A1%E4%BB%A3%E7%A0%81/</guid>
             <title>好玩的微信代码</title>

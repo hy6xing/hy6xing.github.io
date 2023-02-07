@@ -7,15 +7,16 @@
         <language>zh-CN</language>
         <pubDate>Wed, 30 Mar 2022 00:33:10 +0800</pubDate>
         <lastBuildDate>Wed, 30 Mar 2022 00:33:10 +0800</lastBuildDate>
-        <category>介绍</category>
         <category>笔记</category>
+        <category>日记</category>
+        <category>介绍</category>
         <category>站点</category>
-        <category>微信</category>
-        <category>教程</category>
+        <category>资源分享</category>
+        <category>彩蛋</category>
+        <category>（｡ò ∀ ó｡）</category>
         <category>源码</category>
         <category>html</category>
         <category>hexo</category>
-        <category>资源分享</category>
         <category>美化</category>
         <category>Rainmeter</category>
         <category>主题</category>
@@ -23,16 +24,15 @@
         <category>奇葩事件</category>
         <category>新闻</category>
         <category>灵异事件</category>
-        <category>彩蛋</category>
-        <category>（｡ò ∀ ó｡）</category>
-        <category>日记</category>
+        <category>微信</category>
+        <category>教程</category>
         <item>
             <guid isPermalink="true">https://hy6xing.cn/2022/03/30/tupian/</guid>
             <title>tupian测试</title>
             <link>https://hy6xing.cn/2022/03/30/tupian/</link>
             <pubDate>Wed, 30 Mar 2022 00:33:10 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;试一下图片&lt;img data-src=&#34;/images/luotianyi.jpg&#34; alt=&#34;洛天依&#34;&gt;&lt;br&gt;
-这可是第一篇 md 文章，怎么也得留着（｡ò ∀ ó｡）&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;试一下图片&lt;img data-src=&#34;https://s2.loli.net/2023/02/05/8SmjcyZ9uCWLT3M.jpg&#34; alt=&#34;luotianyi.jpg&#34;&gt;&lt;br&gt;
+ 这可是第一篇 md 文章，怎么也得留着（｡ò ∀ ó｡）&lt;/p&gt;
  ]]></description>
         </item>
     </channel>

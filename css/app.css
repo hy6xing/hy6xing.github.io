@@ -2229,11 +2229,17 @@ main >.inner {
   top: -10%;
   left: -10%;
 }
-.social .item.::before {
-  background-color: ;
+.social .item.e::before {
+  background-color: ai;
 }
-.social .item. i {
-  color: ;
+.social .item.e i {
+  color: ai;
+}
+.social .item.1::before {
+  background-color: #55acd5;
+}
+.social .item.1 i {
+  color: #55acd5;
 }
 .social .item:focus i,
 .social .item:hover i {

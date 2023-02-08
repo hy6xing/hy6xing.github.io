@@ -5,27 +5,57 @@
         <link>https://hy6xing.cn</link>
         <description>欢迎来到我的世界~这里你可以学到一些废话文学。何为‘废话’文学呢？比如说我现在就是在说&#39;废话&#39;。但是呢？我是真真的欢迎你来到我的博客网站(ಡωಡ)</description>
         <language>zh-CN</language>
-        <pubDate>Sun, 05 Feb 2023 13:23:35 +0800</pubDate>
-        <lastBuildDate>Sun, 05 Feb 2023 13:23:35 +0800</lastBuildDate>
+        <pubDate>Wed, 08 Feb 2023 22:52:20 +0800</pubDate>
+        <lastBuildDate>Wed, 08 Feb 2023 22:52:20 +0800</lastBuildDate>
         <category>介绍</category>
         <category>笔记</category>
         <category>站点</category>
-        <category>源码</category>
-        <category>html</category>
-        <category>hexo</category>
+        <category>教程</category>
         <category>资源分享</category>
-        <category>彩蛋</category>
-        <category>（｡ò ∀ ó｡）</category>
         <category>美化</category>
         <category>Rainmeter</category>
         <category>主题</category>
         <category>雨滴皮肤</category>
+        <category>彩蛋</category>
+        <category>（｡ò ∀ ó｡）</category>
         <category>奇葩事件</category>
         <category>新闻</category>
         <category>灵异事件</category>
-        <category>日记</category>
+        <category>源码</category>
+        <category>html</category>
+        <category>hexo</category>
         <category>微信</category>
-        <category>教程</category>
+        <category>日记</category>
+        <item>
+            <guid isPermalink="true">https://hy6xing.cn/2023/02/08/PC/AGC%E7%9B%B8%E6%9C%BA/</guid>
+            <title>安卓AGC相机</title>
+            <link>https://hy6xing.cn/2023/02/08/PC/AGC%E7%9B%B8%E6%9C%BA/</link>
+            <category>笔记</category>
+            <category>教程</category>
+            <category>资源分享</category>
+            <pubDate>Wed, 08 Feb 2023 22:52:20 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;安卓端强大的第三方相机 AGC。&lt;br&gt;
+链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMXQ5VzJRSkFrRm9GUzhKZ3U0TUd2MVE/cHdkPWpjeWg=&#34;&gt;https://pan.baidu.com/s/1t9W2QJAkFoFS8Jgu4MGv1Q?pwd=jcyh&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;下载安装软件后将配置文件 超级长焦 v1.agc 移动至 /storage/emulated/0/Android/Download/AGC.8.4/configs 文件夹下即可&lt;br&gt;
+如果没有 AGC.8.4/configs 自己创建一下。&lt;br&gt;
+安装完打开软件也会自动生成 AGC.8.4 文件夹，但不会 /configs 还是要手动创建一下。&lt;br&gt;
+![动画教程](&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pLm5pdXBpYy5jb20vaW1hZ2VzLzIwMjMvMDIvMDgvYWpQOS5naWY=&#34;&gt;https://i.niupic.com/images/2023/02/08/ajP9.gif&lt;/span&gt;&lt;br&gt;
+ 视频教程可能会失效&lt;br&gt;
+！[视频教程](&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pLm5pdXBpYy5jb20vaW1hZ2VzLzIwMjMvMDIvMDgvYWpQOC5tcDQ=&#34;&gt;https://i.niupic.com/images/2023/02/08/ajP8.mp4&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;嫌麻烦也可以移动整个 AGC 文件夹到 /storage/emulated/0/Android/Download 下即可&lt;/p&gt;
+&lt;p&gt;移动配置文件后重新打开软件再设置里加载即可&lt;br&gt;
+！[1](&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pLm5pdXBpYy5jb20vaW1hZ2VzLzIwMjMvMDIvMDgvYWpQYi5qcGc=&#34;&gt;https://i.niupic.com/images/2023/02/08/ajPb.jpg&lt;/span&gt;&lt;br&gt;
+![2](&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pLm5pdXBpYy5jb20vaW1hZ2VzLzIwMjMvMDIvMDgvYWpQYy5qcGc=&#34;&gt;https://i.niupic.com/images/2023/02/08/ajPc.jpg&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;下面是小米 10S 的拍照&lt;br&gt;
+夜景效果&lt;br&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/08/RySqian1mg9JhcD.jpg&#34; alt=&#34;夜景1.jpg&#34;&gt;&lt;br&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/08/NDMaJjYIZsEb3e5.jpg&#34; alt=&#34;夜景2.jpg&#34;&gt;&lt;br&gt;
+ 图三奶茶店拍的&lt;br&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/08/urIWUOBeQoGC7zs.jpg&#34; alt=&#34;奶茶店.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;百度网盘提取码：jcyh&lt;/p&gt;
+&lt;p&gt;如果觉得百度网盘下载慢的，可以用置顶文章里推荐的工具 antdownload2 1.0.6&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://hy6xing.cn/2023/02/05/PC/%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/</guid>
             <title>静态资源</title>

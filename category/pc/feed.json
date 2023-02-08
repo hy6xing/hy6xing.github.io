@@ -5,6 +5,18 @@
     "home_page_url": "https://hy6xing.cn",
     "items": [
         {
+            "id": "https://hy6xing.cn/2023/02/08/PC/AGC%E7%9B%B8%E6%9C%BA/",
+            "url": "https://hy6xing.cn/2023/02/08/PC/AGC%E7%9B%B8%E6%9C%BA/",
+            "title": "安卓AGC相机",
+            "date_published": "2023-02-08T14:52:20.000Z",
+            "content_html": "<p>安卓端强大的第三方相机 AGC。<br>\n链接：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMXQ5VzJRSkFrRm9GUzhKZ3U0TUd2MVE/cHdkPWpjeWg=\">https://pan.baidu.com/s/1t9W2QJAkFoFS8Jgu4MGv1Q?pwd=jcyh</span></p>\n<p>下载安装软件后将配置文件 超级长焦 v1.agc 移动至 /storage/emulated/0/Android/Download/AGC.8.4/configs 文件夹下即可<br>\n如果没有 AGC.8.4/configs 自己创建一下。<br>\n安装完打开软件也会自动生成 AGC.8.4 文件夹，但不会 /configs 还是要手动创建一下。<br>\n![动画教程](<span class=\"exturl\" data-url=\"aHR0cHM6Ly9pLm5pdXBpYy5jb20vaW1hZ2VzLzIwMjMvMDIvMDgvYWpQOS5naWY=\">https://i.niupic.com/images/2023/02/08/ajP9.gif</span><br>\n 视频教程可能会失效<br>\n！[视频教程](<span class=\"exturl\" data-url=\"aHR0cHM6Ly9pLm5pdXBpYy5jb20vaW1hZ2VzLzIwMjMvMDIvMDgvYWpQOC5tcDQ=\">https://i.niupic.com/images/2023/02/08/ajP8.mp4</span></p>\n<p>嫌麻烦也可以移动整个 AGC 文件夹到 /storage/emulated/0/Android/Download 下即可</p>\n<p>移动配置文件后重新打开软件再设置里加载即可<br>\n！[1](<span class=\"exturl\" data-url=\"aHR0cHM6Ly9pLm5pdXBpYy5jb20vaW1hZ2VzLzIwMjMvMDIvMDgvYWpQYi5qcGc=\">https://i.niupic.com/images/2023/02/08/ajPb.jpg</span><br>\n![2](<span class=\"exturl\" data-url=\"aHR0cHM6Ly9pLm5pdXBpYy5jb20vaW1hZ2VzLzIwMjMvMDIvMDgvYWpQYy5qcGc=\">https://i.niupic.com/images/2023/02/08/ajPc.jpg</span></p>\n<p>下面是小米 10S 的拍照<br>\n夜景效果<br>\n<img data-src=\"https://s2.loli.net/2023/02/08/RySqian1mg9JhcD.jpg\" alt=\"夜景1.jpg\"><br>\n<img data-src=\"https://s2.loli.net/2023/02/08/NDMaJjYIZsEb3e5.jpg\" alt=\"夜景2.jpg\"><br>\n 图三奶茶店拍的<br>\n<img data-src=\"https://s2.loli.net/2023/02/08/urIWUOBeQoGC7zs.jpg\" alt=\"奶茶店.jpg\"></p>\n<p>百度网盘提取码：jcyh</p>\n<p>如果觉得百度网盘下载慢的，可以用置顶文章里推荐的工具 antdownload2 1.0.6</p>\n",
+            "tags": [
+                "笔记",
+                "教程",
+                "资源分享"
+            ]
+        },
+        {
             "id": "https://hy6xing.cn/2023/02/05/PC/%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/",
             "url": "https://hy6xing.cn/2023/02/05/PC/%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/",
             "title": "静态资源",

@@ -3,26 +3,56 @@
     <id>https://hy6xing.cn</id>
     <title>六星虚拟网络 • Posts by &#34;教程&#34; tag</title>
     <link href="https://hy6xing.cn" />
-    <updated>2022-08-07T05:00:00.000Z</updated>
+    <updated>2023-02-08T14:52:20.000Z</updated>
     <category term="介绍" />
     <category term="笔记" />
     <category term="站点" />
-    <category term="源码" />
-    <category term="html" />
-    <category term="hexo" />
+    <category term="教程" />
     <category term="资源分享" />
-    <category term="彩蛋" />
-    <category term="（｡ò ∀ ó｡）" />
     <category term="美化" />
     <category term="Rainmeter" />
     <category term="主题" />
     <category term="雨滴皮肤" />
+    <category term="彩蛋" />
+    <category term="（｡ò ∀ ó｡）" />
     <category term="奇葩事件" />
     <category term="新闻" />
     <category term="灵异事件" />
-    <category term="日记" />
+    <category term="源码" />
+    <category term="html" />
+    <category term="hexo" />
     <category term="微信" />
-    <category term="教程" />
+    <category term="日记" />
+    <entry>
+        <id>https://hy6xing.cn/2023/02/08/PC/AGC%E7%9B%B8%E6%9C%BA/</id>
+        <title>安卓AGC相机</title>
+        <link rel="alternate" href="https://hy6xing.cn/2023/02/08/PC/AGC%E7%9B%B8%E6%9C%BA/"/>
+        <content type="html">&lt;p&gt;安卓端强大的第三方相机 AGC。&lt;br&gt;
+链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMXQ5VzJRSkFrRm9GUzhKZ3U0TUd2MVE/cHdkPWpjeWg=&#34;&gt;https://pan.baidu.com/s/1t9W2QJAkFoFS8Jgu4MGv1Q?pwd=jcyh&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;下载安装软件后将配置文件 超级长焦 v1.agc 移动至 /storage/emulated/0/Android/Download/AGC.8.4/configs 文件夹下即可&lt;br&gt;
+如果没有 AGC.8.4/configs 自己创建一下。&lt;br&gt;
+安装完打开软件也会自动生成 AGC.8.4 文件夹，但不会 /configs 还是要手动创建一下。&lt;br&gt;
+![动画教程](&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pLm5pdXBpYy5jb20vaW1hZ2VzLzIwMjMvMDIvMDgvYWpQOS5naWY=&#34;&gt;https://i.niupic.com/images/2023/02/08/ajP9.gif&lt;/span&gt;&lt;br&gt;
+ 视频教程可能会失效&lt;br&gt;
+！[视频教程](&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pLm5pdXBpYy5jb20vaW1hZ2VzLzIwMjMvMDIvMDgvYWpQOC5tcDQ=&#34;&gt;https://i.niupic.com/images/2023/02/08/ajP8.mp4&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;嫌麻烦也可以移动整个 AGC 文件夹到 /storage/emulated/0/Android/Download 下即可&lt;/p&gt;
+&lt;p&gt;移动配置文件后重新打开软件再设置里加载即可&lt;br&gt;
+！[1](&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pLm5pdXBpYy5jb20vaW1hZ2VzLzIwMjMvMDIvMDgvYWpQYi5qcGc=&#34;&gt;https://i.niupic.com/images/2023/02/08/ajPb.jpg&lt;/span&gt;&lt;br&gt;
+![2](&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pLm5pdXBpYy5jb20vaW1hZ2VzLzIwMjMvMDIvMDgvYWpQYy5qcGc=&#34;&gt;https://i.niupic.com/images/2023/02/08/ajPc.jpg&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;下面是小米 10S 的拍照&lt;br&gt;
+夜景效果&lt;br&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/08/RySqian1mg9JhcD.jpg&#34; alt=&#34;夜景1.jpg&#34;&gt;&lt;br&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/08/NDMaJjYIZsEb3e5.jpg&#34; alt=&#34;夜景2.jpg&#34;&gt;&lt;br&gt;
+ 图三奶茶店拍的&lt;br&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/08/urIWUOBeQoGC7zs.jpg&#34; alt=&#34;奶茶店.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;百度网盘提取码：jcyh&lt;/p&gt;
+&lt;p&gt;如果觉得百度网盘下载慢的，可以用置顶文章里推荐的工具 antdownload2 1.0.6&lt;/p&gt;
+</content>
+        <category term="笔记" />
+        <category term="教程" />
+        <category term="资源分享" />
+        <updated>2023-02-08T14:52:20.000Z</updated>
+    </entry>
     <entry>
         <id>https://hy6xing.cn/2022/08/07/%E6%89%8B%E6%9C%BA/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/</id>
         <title>资源分享</title>
@@ -39,8 +69,8 @@
 &lt;p&gt;夸克链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4ucXVhcmsuY24vcy84NWUxOWEzMGFiNTU=&#34;&gt;https://pan.quark.cn/s/85e19a30ab55&lt;/span&gt;&lt;/p&gt;
 </content>
         <category term="笔记" />
-        <category term="资源分享" />
         <category term="教程" />
+        <category term="资源分享" />
         <updated>2022-08-07T05:00:00.000Z</updated>
     </entry>
     <entry>
@@ -67,8 +97,8 @@
 &lt;li&gt;发送 Te echo de menos (翻译：我想你）&lt;/li&gt;
 &lt;/ol&gt;
 </content>
-        <category term="微信" />
         <category term="教程" />
+        <category term="微信" />
         <updated>2022-04-26T13:45:20.000Z</updated>
     </entry>
 </feed>

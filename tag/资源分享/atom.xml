@@ -7,22 +7,22 @@
     <category term="介绍" />
     <category term="笔记" />
     <category term="站点" />
+    <category term="教程" />
+    <category term="资源分享" />
+    <category term="彩蛋" />
+    <category term="（｡ò ∀ ó｡）" />
     <category term="源码" />
     <category term="html" />
     <category term="hexo" />
-    <category term="教程" />
-    <category term="资源分享" />
     <category term="美化" />
     <category term="Rainmeter" />
     <category term="主题" />
     <category term="雨滴皮肤" />
-    <category term="彩蛋" />
-    <category term="（｡ò ∀ ó｡）" />
+    <category term="日记" />
     <category term="奇葩事件" />
     <category term="新闻" />
     <category term="灵异事件" />
     <category term="微信" />
-    <category term="日记" />
     <entry>
         <id>https://hy6xing.cn/2023/02/08/PC/AGC%E7%9B%B8%E6%9C%BA/</id>
         <title>安卓AGC相机</title>
@@ -88,7 +88,7 @@ OBS-Studio-26.1.1-Full-Installer-x64.exe&lt;br&gt;
 &lt;p&gt;geek 是我比较喜欢的 PC 端卸载工具。双击 geek.exe 即可运行无需安装。&lt;br&gt;
 打开 Geek Uninstaller 后，就显示了你电脑上当前安装的桌面软件：&lt;br&gt;
 &lt;img data-src=&#34;https://i.niupic.com/images/2023/02/09/ajSO.webp&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
-&lt;p&gt;下载链在软件条目上右键点击，即可卸载该软件：&lt;br&gt;
+&lt;p&gt;在软件条目上右键点击，即可卸载该软件：&lt;br&gt;
 &lt;img data-src=&#34;https://i.niupic.com/images/2023/02/09/ajSS.webp&#34; alt=&#34;2&#34;&gt;&lt;br&gt;
  卸载完成后，Geek Uninstaller 会自动扫描残留文件与注册表：&lt;br&gt;
 &lt;img data-src=&#34;https://i.niupic.com/images/2023/02/09/ajSX.jpg&#34; alt=&#34;3&#34;&gt;&lt;br&gt;

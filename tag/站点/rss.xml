@@ -10,22 +10,22 @@
         <category>介绍</category>
         <category>笔记</category>
         <category>站点</category>
+        <category>教程</category>
+        <category>资源分享</category>
+        <category>彩蛋</category>
+        <category>（｡ò ∀ ó｡）</category>
         <category>源码</category>
         <category>html</category>
         <category>hexo</category>
-        <category>教程</category>
-        <category>资源分享</category>
         <category>美化</category>
         <category>Rainmeter</category>
         <category>主题</category>
         <category>雨滴皮肤</category>
-        <category>彩蛋</category>
-        <category>（｡ò ∀ ó｡）</category>
+        <category>日记</category>
         <category>奇葩事件</category>
         <category>新闻</category>
         <category>灵异事件</category>
         <category>微信</category>
-        <category>日记</category>
         <item>
             <guid isPermalink="true">https://hy6xing.cn/2023/02/05/PC/%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/</guid>
             <title>静态资源</title>
@@ -64,7 +64,7 @@ OBS-Studio-26.1.1-Full-Installer-x64.exe&lt;br&gt;
 &lt;p&gt;geek 是我比较喜欢的 PC 端卸载工具。双击 geek.exe 即可运行无需安装。&lt;br&gt;
 打开 Geek Uninstaller 后，就显示了你电脑上当前安装的桌面软件：&lt;br&gt;
 &lt;img data-src=&#34;https://i.niupic.com/images/2023/02/09/ajSO.webp&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
-&lt;p&gt;下载链在软件条目上右键点击，即可卸载该软件：&lt;br&gt;
+&lt;p&gt;在软件条目上右键点击，即可卸载该软件：&lt;br&gt;
 &lt;img data-src=&#34;https://i.niupic.com/images/2023/02/09/ajSS.webp&#34; alt=&#34;2&#34;&gt;&lt;br&gt;
  卸载完成后，Geek Uninstaller 会自动扫描残留文件与注册表：&lt;br&gt;
 &lt;img data-src=&#34;https://i.niupic.com/images/2023/02/09/ajSX.jpg&#34; alt=&#34;3&#34;&gt;&lt;br&gt;

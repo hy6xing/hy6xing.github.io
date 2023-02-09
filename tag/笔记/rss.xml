@@ -10,17 +10,17 @@
         <category>介绍</category>
         <category>笔记</category>
         <category>站点</category>
-        <category>教程</category>
-        <category>资源分享</category>
         <category>源码</category>
         <category>html</category>
         <category>hexo</category>
-        <category>彩蛋</category>
-        <category>（｡ò ∀ ó｡）</category>
+        <category>教程</category>
+        <category>资源分享</category>
         <category>美化</category>
         <category>Rainmeter</category>
         <category>主题</category>
         <category>雨滴皮肤</category>
+        <category>彩蛋</category>
+        <category>（｡ò ∀ ó｡）</category>
         <category>奇葩事件</category>
         <category>新闻</category>
         <category>灵异事件</category>
@@ -37,13 +37,14 @@
             <description><![CDATA[ &lt;p&gt;安卓端强大的第三方相机 AGC。&lt;br&gt;
 链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMXQ5VzJRSkFrRm9GUzhKZ3U0TUd2MVE/cHdkPWpjeWg=&#34;&gt;https://pan.baidu.com/s/1t9W2QJAkFoFS8Jgu4MGv1Q?pwd=jcyh&lt;/span&gt;&lt;br&gt;
  提取码在后面&lt;br&gt;
-下载安装软件后将配置文件 超级长焦 v1.agc 移动至 /storage/emulated/0/Android/Download/AGC.8.4/configs 文件夹下即可&lt;br&gt;
+下载安装软件后将配置文件 超级长焦 v1.agc 移动至 /storage/emulated/0/Download/AGC.8.4/configs 文件夹下即可&lt;br&gt;
+（/storage/emulated/0/ 即是指 “手机内部存储 根目录” 有个 “下载” 文件夹，英文名 Download）&lt;br&gt;
 如果没有 AGC.8.4/configs 自己创建一下。&lt;br&gt;
 安装完打开软件也会自动生成 AGC.8.4 文件夹，但不会 /configs 还是要手动创建一下。&lt;br&gt;
 &lt;img data-src=&#34;https://i.niupic.com/images/2023/02/08/ajP9.gif&#34; alt=&#34;动画教程&#34;&gt;&lt;br&gt;
 视频教程可能会失效&lt;br&gt;
 &lt;img data-src=&#34;https://i.niupic.com/images/2023/02/08/ajP8.mp4&#34; alt=&#34;视频教程&#34;&gt;&lt;/p&gt;
-&lt;p&gt;嫌麻烦也可以移动整个 AGC 文件夹到 /storage/emulated/0/Android/Download 下即可&lt;/p&gt;
+&lt;p&gt;嫌麻烦也可以移动整个 AGC 文件夹到 /storage/emulated/0/Download 下即可&lt;/p&gt;
 &lt;p&gt;移动配置文件后重新打开软件再设置里加载即可&lt;br&gt;
 &lt;img data-src=&#34;https://i.niupic.com/images/2023/02/08/ajPb.jpg&#34; alt=&#34;1&#34;&gt;&lt;br&gt;
 &lt;img data-src=&#34;https://i.niupic.com/images/2023/02/08/ajPc.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
@@ -54,7 +55,7 @@
  图三奶茶店拍的&lt;br&gt;
 &lt;img data-src=&#34;https://s2.loli.net/2023/02/08/urIWUOBeQoGC7zs.jpg&#34; alt=&#34;奶茶店.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;百度网盘提取码：jcyh&lt;/p&gt;
-&lt;p&gt;如果觉得百度网盘下载慢的，可以用置顶文章里推荐的工具 antdownload2 1.0.6&lt;/p&gt;
+&lt;p&gt;如果觉得百度网盘下载慢的，可以用置顶文章里推荐的工具 antdownload2&lt;sup&gt;(PC 端的)&lt;/sup&gt; 1.0.6&lt;/p&gt;
  ]]></description>
         </item>
         <item>

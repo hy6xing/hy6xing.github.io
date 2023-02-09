@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://hy6xing.cn</id>
+    <title>六星虚拟网络 • Posts by &#34;小米手机&#34; tag</title>
+    <link href="https://hy6xing.cn" />
+    <updated>2023-02-09T13:52:01.000Z</updated>
+    <category term="介绍" />
+    <category term="笔记" />
+    <category term="站点" />
+    <category term="微信" />
+    <category term="教程" />
+    <category term="资源分享" />
+    <category term="小米手机" />
+    <category term="MIUI" />
+    <category term="源码" />
+    <category term="html" />
+    <category term="hexo" />
+    <category term="美化" />
+    <category term="Rainmeter" />
+    <category term="主题" />
+    <category term="雨滴皮肤" />
+    <category term="彩蛋" />
+    <category term="（｡ò ∀ ó｡）" />
+    <category term="奇葩事件" />
+    <category term="新闻" />
+    <category term="灵异事件" />
+    <category term="日记" />
+    <entry>
+        <id>https://hy6xing.cn/2023/02/09/%E6%89%8B%E6%9C%BA/MIUI%E5%85%B3%E9%97%AD%E7%B3%BB%E7%BB%9F%E5%B9%BF%E5%91%8A/</id>
+        <title>最全面的关闭小米miui系统广告</title>
+        <link rel="alternate" href="https://hy6xing.cn/2023/02/09/%E6%89%8B%E6%9C%BA/MIUI%E5%85%B3%E9%97%AD%E7%B3%BB%E7%BB%9F%E5%B9%BF%E5%91%8A/"/>
+        <content type="html">&lt;p&gt;   最全面的小米 miui 系统广告关闭。可能有人会问，这么简单的还有必要写个教程出来？&lt;br&gt;
+没错，对懂得人来说，再简单不过。所以，这是写给不会的人看的😂&lt;/p&gt;
+&lt;h3 id=&#34;正文开始&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#正文开始&#34;&gt;#&lt;/a&gt; 正文开始&lt;/h3&gt;
+&lt;h4 id=&#34;1进入设置&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1进入设置&#34;&gt;#&lt;/a&gt; 1. 进入设置&lt;/h4&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/Cib3rYDz5tx7V8J.jpg&#34; alt=&#34;系统.jpg&#34;&gt;&lt;br&gt;
+ 输入框里直接输入 &lt;mark&gt;广告&lt;/mark&gt; → 选 &lt;mark&gt;系统广告&lt;/mark&gt; 右边按钮关掉。&lt;br&gt;
+记住涉及应用以免等会漏掉，并非都要动。&lt;br&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/aFou5DY7er8JMKP.jpg&#34; alt=&#34;涉及应用.jpg&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;2天气&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#2天气&#34;&gt;#&lt;/a&gt; 2. 天气&lt;/h4&gt;
+&lt;p&gt;打开天气 - 右上角 3 个点里→选择&lt;mark&gt;设置&lt;/mark&gt;→下拉到&lt;mark&gt;用户体验计划&lt;/mark&gt;→关闭右边开关&lt;br&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/mod6ORZ1QGYBlWy.jpg&#34; alt=&#34;天气.jpg&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;3日历&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#3日历&#34;&gt;#&lt;/a&gt; 3. 日历&lt;/h4&gt;
+&lt;p&gt;同上操作：打开日历→右上角&lt;mark&gt;设置&lt;/mark&gt;→&lt;mark&gt;用户体验计划&lt;/mark&gt;→关掉开关&lt;br&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/KZPnWSAmjQc6X7F.png&#34; alt=&#34;日历.png&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;4手机管家&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#4手机管家&#34;&gt;#&lt;/a&gt; 4. 手机管家&lt;/h4&gt;
+&lt;p&gt;打开手机管家 → 右上角&lt;mark&gt;设置&lt;/mark&gt;→下拉到 &lt;mark&gt;内容推荐设置&lt;/mark&gt; → 关掉开关。&lt;br&gt;
+点击→  &lt;mark&gt;垃圾清理&lt;/mark&gt; 下拉到&lt;mark&gt;内容推荐设置&lt;/mark&gt; → 关掉开关。&lt;br&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/NhuR516pdj3oXec.png&#34; alt=&#34;管家.png&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;5下载管理&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#5下载管理&#34;&gt;#&lt;/a&gt; 5. 下载管理&lt;/h4&gt;
+&lt;p&gt;打开&lt;mark&gt;下载管理&lt;/mark&gt;&lt;sup&gt;（在桌面的&lt;mark&gt;系统工具&lt;/mark&gt;文件夹里）&lt;/sup&gt; → 右上角&lt;mark&gt;设置&lt;/mark&gt; → &lt;mark&gt;信息流设置&lt;/mark&gt; 3 个全部关掉&lt;/p&gt;
+&lt;h4 id=&#34;6应用商店&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#6应用商店&#34;&gt;#&lt;/a&gt; 6. 应用商店&lt;/h4&gt;
+&lt;p&gt;打开应用商店→ 右下角&lt;mark&gt;我的&lt;/mark&gt; → 右上角&lt;mark&gt;⚙&lt;/mark&gt;设置 →&lt;mark&gt;通知设置&lt;/mark&gt;看你的喜好选择性关掉&lt;br&gt;
+同样设置界面下拉→&lt;mark&gt;功能设置&lt;/mark&gt; 关掉福利活动&lt;br&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/zY2gJXRnZV9xmsE.png&#34; alt=&#34;应用商店.png&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;7自带浏览器&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#7自带浏览器&#34;&gt;#&lt;/a&gt; 7. 自带浏览器&lt;/h4&gt;
+&lt;p&gt;打开浏览器右下角&lt;mark&gt;菜单&lt;/mark&gt;→ &lt;mark&gt;⚙&lt;/mark&gt; → &lt;mark&gt;信息通知管理&lt;/mark&gt; → 可全部关掉&lt;br&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/o8RHizJX4fWq2Lw.png&#34; alt=&#34;浏览器.png&#34;&gt;&lt;br&gt;
+ 同样的&lt;mark&gt;⚙&lt;/mark&gt;设置里面上面的&lt;mark&gt;主页设置&lt;/mark&gt;  选中 &lt;mark&gt;简洁版&lt;/mark&gt; 即可，所有的&lt;mark&gt;推送&lt;/mark&gt;全部关掉&lt;br&gt;
+就可以得到下图简洁的浏览器界面&lt;br&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/aJxh1Y2uQZTNbXi.jpg&#34; alt=&#34;浏览器&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;8下拉类通知面广告&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#8下拉类通知面广告&#34;&gt;#&lt;/a&gt; 8. 下拉类通知面广告&lt;/h4&gt;
+&lt;p&gt;除去系统之外你也会遇到一些 &lt;mark&gt;下拉通知栏&lt;/mark&gt; （图下图）的第三方应用推送的广告&lt;br&gt;
+处理起来也很简单 &lt;mark&gt;长按&lt;/mark&gt; 你要管理的条条 弹出 &lt;mark&gt;更多设置&lt;/mark&gt; 通知类别 &lt;mark&gt;运营信息&lt;/mark&gt; 全部关掉或者选择性关掉。除了&lt;mark&gt;运营信息&lt;/mark&gt;外也还可能有别的 也可以选择性关闭。&lt;br&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/zeU7gPtXWKOhQq6.png&#34; alt=&#34;下拉.png&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;9软件的启动广告&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#9软件的启动广告&#34;&gt;#&lt;/a&gt; 9. 软件的启动广告&lt;/h4&gt;
+&lt;p&gt;  各种软件的启动广告估计各位都不喜欢的吧，要么等几秒钟，要么手动点跳过。&lt;br&gt;
+我可是记得以前各个厂家的手机发布会都吹自家的手机打开应用多快多快，看看现在，不提了吧。&lt;br&gt;
+  任你再牛逼的骁龙 8+++ + 多少都没有用，开屏启动广告欢迎您！&lt;br&gt;
+所以我们就需要一款能帮我们自动点击跳过广告的软件，以达到软件秒开 看不见开屏启动广告→&lt;mark&gt;李跳跳&lt;/mark&gt; app。当然也还有别的，这里不一一列举。&lt;br&gt;
+  这里以&lt;mark&gt; MissLee_派大星 2.01.apk&lt;/mark&gt;&lt;sup&gt;(李跳跳)&lt;/sup&gt;版本为例。需要到&lt;mark&gt;无障碍&lt;/mark&gt;功能选项。&lt;br&gt;
+首先下载安装后打开软件&lt;br&gt;
+ 1. 点击中间开关 → 按照提示 &lt;mark&gt;OK&lt;/mark&gt; → 选择 &lt;mark&gt;已下载的应用&lt;/mark&gt;&lt;br&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/yQ8RGVsxtzCJDrX.png&#34; alt=&#34;李.png&#34;&gt;&lt;br&gt;
+2. 继续找到 &lt;mark&gt;️️❤️李跳跳・new&lt;/mark&gt; ➡️上面一行 &lt;mark&gt;使用❤️李跳跳・new&lt;/mark&gt;➡️勾选读秒确定即可。&lt;br&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/xLmlENduc4RVUC9.png&#34; alt=&#34;李跳跳.png&#34;&gt;&lt;br&gt;
+ 蓝奏云下载链接： &lt;code&gt;https://hy6xing.lanzouw.com/ieIYG0mzqshe&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;  好了，就先到这里了。光编写这篇文章就用了 2 个多小时，主要是处理图片，手机截图完传电脑再拼接，再上传图床，最后再复制图片链接放 markdown 里。&lt;/p&gt;
+&lt;p&gt;😀&lt;mark&gt;完结&lt;/mark&gt; ✨撒花✨&lt;br&gt;
+✨✨&lt;/p&gt;
+</content>
+        <category term="笔记" />
+        <category term="教程" />
+        <category term="小米手机" />
+        <category term="MIUI" />
+        <updated>2023-02-09T13:52:01.000Z</updated>
+    </entry>
+</feed>

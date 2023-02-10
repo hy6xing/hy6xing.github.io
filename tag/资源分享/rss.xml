@@ -5,11 +5,12 @@
         <link>https://hy6xing.cn</link>
         <description>欢迎来到我的世界~这里你可以学到一些废话文学。何为‘废话’文学呢？比如说我现在就是在说&#39;废话&#39;。但是呢？我是真真的欢迎你来到我的博客网站(ಡωಡ)</description>
         <language>zh-CN</language>
-        <pubDate>Wed, 08 Feb 2023 22:52:20 +0800</pubDate>
-        <lastBuildDate>Wed, 08 Feb 2023 22:52:20 +0800</lastBuildDate>
+        <pubDate>Fri, 10 Feb 2023 12:48:45 +0800</pubDate>
+        <lastBuildDate>Fri, 10 Feb 2023 12:48:45 +0800</lastBuildDate>
         <category>介绍</category>
         <category>笔记</category>
         <category>站点</category>
+        <category>日记</category>
         <category>小米手机</category>
         <category>MIUI</category>
         <category>教程</category>
@@ -18,7 +19,6 @@
         <category>源码</category>
         <category>html</category>
         <category>hexo</category>
-        <category>日记</category>
         <category>美化</category>
         <category>Rainmeter</category>
         <category>主题</category>
@@ -28,6 +28,34 @@
         <category>奇葩事件</category>
         <category>新闻</category>
         <category>灵异事件</category>
+        <item>
+            <guid isPermalink="true">https://hy6xing.cn/2023/02/10/%E6%89%8B%E6%9C%BA/%E5%B0%8F%E7%B1%B3%E5%88%B7%E6%9C%BA%E5%B7%A5%E5%85%B7/</guid>
+            <title>小米线刷工具</title>
+            <link>https://hy6xing.cn/2023/02/10/%E6%89%8B%E6%9C%BA/%E5%B0%8F%E7%B1%B3%E5%88%B7%E6%9C%BA%E5%B7%A5%E5%85%B7/</link>
+            <category>笔记</category>
+            <category>小米手机</category>
+            <category>MIUI</category>
+            <category>资源分享</category>
+            <pubDate>Fri, 10 Feb 2023 12:48:45 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;  为防止以后找不到，💻备份一下两款小米📱专用刷机工具&lt;mark&gt;闪米&lt;/mark&gt;&lt;sup&gt;(miflash)&lt;/sup&gt;&lt;br&gt;
+1・miflash_pro   刷机工具更多，更全面。&lt;br&gt;
+2・MiFlash2020   单独的&lt;mark&gt; FASTBOOT 模式&lt;/mark&gt;线刷工具&lt;br&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/10/bEaimsOcB7yduN3.png&#34; alt=&#34;MiFlash.png&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;miflash_pro-7370621&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#miflash_pro-7370621&#34;&gt;#&lt;/a&gt; miflash_pro-7.3.706.21&lt;/h4&gt;
+&lt;p&gt;百度盘永久链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMU1vdi1aVnNsc21OMW9uN1FSRnI5OVE/cHdkPXlqazE=&#34;&gt;https://pan.baidu.com/s/1Mov-ZVslsmN1on7QRFr99Q?pwd=yjk1&lt;/span&gt;&lt;br&gt;
+ 提取码：yjk1&lt;br&gt;
+ 第三方网站链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taXVpdmVyLmNvbS9taWZsYXNoLXByby8=&#34;&gt;https://miuiver.com/miflash-pro/&lt;/span&gt;&lt;br&gt;
+ 下载可能更快一些，就是不知道网站存在多久，推荐各位养成自己备份的好习惯。&lt;/p&gt;
+&lt;h4 id=&#34;miflash2020-3-14-0&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#miflash2020-3-14-0&#34;&gt;#&lt;/a&gt; MiFlash2020-3-14-0&lt;/h4&gt;
+&lt;p&gt;链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMW9MTUhfNnU3MmJkSFJxZmRLN2JIQWc/cHdkPWdwYWU=&#34;&gt;https://pan.baidu.com/s/1oLMH_6u72bdHRqfdK7bHAg?pwd=gpae&lt;/span&gt;&lt;br&gt;
+ 提取码：gpae&lt;br&gt;
+ 第三方：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taXVpdmVyLmNvbS9taWZsYXNoLw==&#34;&gt;https://miuiver.com/miflash/&lt;/span&gt;&lt;/p&gt;
+&lt;h4 id=&#34;申请解锁小米手机&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#申请解锁小米手机&#34;&gt;#&lt;/a&gt; 申请解锁小米手机&lt;/h4&gt;
+&lt;p&gt;小米官方解锁申请：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubWl1aS5jb20vdW5sb2NrL2luZGV4Lmh0bWw=&#34;&gt;https://www.miui.com/unlock/index.html&lt;/span&gt;&lt;br&gt;
+⚠️&lt;br&gt;
+  就第一个下载快一点，还是推荐各位使用专用下载工具辅助解析下载。&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://hy6xing.cn/2023/02/08/PC/AGC%E7%9B%B8%E6%9C%BA/</guid>
             <title>安卓AGC相机</title>

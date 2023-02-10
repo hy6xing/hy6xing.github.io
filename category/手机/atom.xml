@@ -3,10 +3,11 @@
     <id>https://hy6xing.cn</id>
     <title>六星虚拟网络 • Posts by &#34;手机&#34; category</title>
     <link href="https://hy6xing.cn" />
-    <updated>2023-02-09T13:52:01.000Z</updated>
+    <updated>2023-02-10T04:48:45.000Z</updated>
     <category term="介绍" />
     <category term="笔记" />
     <category term="站点" />
+    <category term="日记" />
     <category term="小米手机" />
     <category term="MIUI" />
     <category term="教程" />
@@ -15,7 +16,6 @@
     <category term="源码" />
     <category term="html" />
     <category term="hexo" />
-    <category term="日记" />
     <category term="美化" />
     <category term="Rainmeter" />
     <category term="主题" />
@@ -25,6 +25,34 @@
     <category term="奇葩事件" />
     <category term="新闻" />
     <category term="灵异事件" />
+    <entry>
+        <id>https://hy6xing.cn/2023/02/10/%E6%89%8B%E6%9C%BA/%E5%B0%8F%E7%B1%B3%E5%88%B7%E6%9C%BA%E5%B7%A5%E5%85%B7/</id>
+        <title>小米线刷工具</title>
+        <link rel="alternate" href="https://hy6xing.cn/2023/02/10/%E6%89%8B%E6%9C%BA/%E5%B0%8F%E7%B1%B3%E5%88%B7%E6%9C%BA%E5%B7%A5%E5%85%B7/"/>
+        <content type="html">&lt;p&gt;  为防止以后找不到，💻备份一下两款小米📱专用刷机工具&lt;mark&gt;闪米&lt;/mark&gt;&lt;sup&gt;(miflash)&lt;/sup&gt;&lt;br&gt;
+1・miflash_pro   刷机工具更多，更全面。&lt;br&gt;
+2・MiFlash2020   单独的&lt;mark&gt; FASTBOOT 模式&lt;/mark&gt;线刷工具&lt;br&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/10/bEaimsOcB7yduN3.png&#34; alt=&#34;MiFlash.png&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;miflash_pro-7370621&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#miflash_pro-7370621&#34;&gt;#&lt;/a&gt; miflash_pro-7.3.706.21&lt;/h4&gt;
+&lt;p&gt;百度盘永久链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMU1vdi1aVnNsc21OMW9uN1FSRnI5OVE/cHdkPXlqazE=&#34;&gt;https://pan.baidu.com/s/1Mov-ZVslsmN1on7QRFr99Q?pwd=yjk1&lt;/span&gt;&lt;br&gt;
+ 提取码：yjk1&lt;br&gt;
+ 第三方网站链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taXVpdmVyLmNvbS9taWZsYXNoLXByby8=&#34;&gt;https://miuiver.com/miflash-pro/&lt;/span&gt;&lt;br&gt;
+ 下载可能更快一些，就是不知道网站存在多久，推荐各位养成自己备份的好习惯。&lt;/p&gt;
+&lt;h4 id=&#34;miflash2020-3-14-0&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#miflash2020-3-14-0&#34;&gt;#&lt;/a&gt; MiFlash2020-3-14-0&lt;/h4&gt;
+&lt;p&gt;链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMW9MTUhfNnU3MmJkSFJxZmRLN2JIQWc/cHdkPWdwYWU=&#34;&gt;https://pan.baidu.com/s/1oLMH_6u72bdHRqfdK7bHAg?pwd=gpae&lt;/span&gt;&lt;br&gt;
+ 提取码：gpae&lt;br&gt;
+ 第三方：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taXVpdmVyLmNvbS9taWZsYXNoLw==&#34;&gt;https://miuiver.com/miflash/&lt;/span&gt;&lt;/p&gt;
+&lt;h4 id=&#34;申请解锁小米手机&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#申请解锁小米手机&#34;&gt;#&lt;/a&gt; 申请解锁小米手机&lt;/h4&gt;
+&lt;p&gt;小米官方解锁申请：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubWl1aS5jb20vdW5sb2NrL2luZGV4Lmh0bWw=&#34;&gt;https://www.miui.com/unlock/index.html&lt;/span&gt;&lt;br&gt;
+⚠️&lt;br&gt;
+  就第一个下载快一点，还是推荐各位使用专用下载工具辅助解析下载。&lt;/p&gt;
+</content>
+        <category term="笔记" />
+        <category term="小米手机" />
+        <category term="MIUI" />
+        <category term="资源分享" />
+        <updated>2023-02-10T04:48:45.000Z</updated>
+    </entry>
     <entry>
         <id>https://hy6xing.cn/2023/02/09/%E6%89%8B%E6%9C%BA/MIUI%E5%85%B3%E9%97%AD%E7%B3%BB%E7%BB%9F%E5%B9%BF%E5%91%8A/</id>
         <title>最全面的关闭小米miui系统广告</title>

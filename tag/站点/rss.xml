@@ -7,33 +7,36 @@
         <language>zh-CN</language>
         <pubDate>Sun, 05 Feb 2023 13:23:35 +0800</pubDate>
         <lastBuildDate>Sun, 05 Feb 2023 13:23:35 +0800</lastBuildDate>
-        <category>介绍</category>
         <category>笔记</category>
-        <category>站点</category>
-        <category>小米手机</category>
-        <category>MIUI</category>
         <category>教程</category>
-        <category>微信</category>
         <category>资源分享</category>
+        <category>介绍</category>
+        <category>站点</category>
         <category>彩蛋</category>
         <category>（｡ò ∀ ó｡）</category>
+        <category>源码</category>
+        <category>html</category>
+        <category>hexo</category>
+        <category>小米手机</category>
+        <category>MIUI</category>
         <category>美化</category>
         <category>Rainmeter</category>
         <category>主题</category>
         <category>雨滴皮肤</category>
-        <category>源码</category>
-        <category>html</category>
-        <category>hexo</category>
         <category>奇葩事件</category>
         <category>新闻</category>
         <category>灵异事件</category>
+        <category>微信</category>
         <category>日记</category>
+        <category>记录生活</category>
+        <category>手机摄影</category>
+        <category>学校</category>
         <item>
             <guid isPermalink="true">https://hy6xing.cn/2023/02/05/PC/%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/</guid>
             <title>静态资源</title>
             <link>https://hy6xing.cn/2023/02/05/PC/%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/</link>
-            <category>站点</category>
             <category>资源分享</category>
+            <category>站点</category>
             <category>彩蛋</category>
             <category>（｡ò ∀ ó｡）</category>
             <pubDate>Sun, 05 Feb 2023 13:23:35 +0800</pubDate>
@@ -159,8 +162,8 @@ PS Touch: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxh
             <guid isPermalink="true">https://hy6xing.cn/2022/04/01/hello-world/</guid>
             <title>Hello World</title>
             <link>https://hy6xing.cn/2022/04/01/hello-world/</link>
-            <category>介绍</category>
             <category>笔记</category>
+            <category>介绍</category>
             <category>站点</category>
             <pubDate>Fri, 01 Apr 2022 22:40:01 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;

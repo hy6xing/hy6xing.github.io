@@ -7,24 +7,24 @@
     <category term="介绍" />
     <category term="笔记" />
     <category term="站点" />
-    <category term="日记" />
     <category term="小米手机" />
     <category term="MIUI" />
     <category term="教程" />
     <category term="微信" />
     <category term="资源分享" />
-    <category term="源码" />
-    <category term="html" />
-    <category term="hexo" />
+    <category term="彩蛋" />
+    <category term="（｡ò ∀ ó｡）" />
     <category term="美化" />
     <category term="Rainmeter" />
     <category term="主题" />
     <category term="雨滴皮肤" />
-    <category term="彩蛋" />
-    <category term="（｡ò ∀ ó｡）" />
+    <category term="源码" />
+    <category term="html" />
+    <category term="hexo" />
     <category term="奇葩事件" />
     <category term="新闻" />
     <category term="灵异事件" />
+    <category term="日记" />
     <entry>
         <id>https://hy6xing.cn/2023/02/10/%E6%89%8B%E6%9C%BA/%E5%B0%8F%E7%B1%B3%E5%88%B7%E6%9C%BA%E5%B7%A5%E5%85%B7/</id>
         <title>小米线刷工具</title>
@@ -58,8 +58,21 @@
         <title>最全面的关闭小米miui系统广告</title>
         <link rel="alternate" href="https://hy6xing.cn/2023/02/09/%E6%89%8B%E6%9C%BA/MIUI%E5%85%B3%E9%97%AD%E7%B3%BB%E7%BB%9F%E5%B9%BF%E5%91%8A/"/>
         <content type="html">&lt;p&gt;   最全面的小米 miui 系统广告关闭。可能有人会问，这么简单的还有必要写个教程出来？&lt;br&gt;
-没错，对懂得人来说，再简单不过。所以，这是写给不会的人看的😂&lt;/p&gt;
-&lt;h3 id=&#34;正文开始&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#正文开始&#34;&gt;#&lt;/a&gt; 正文开始&lt;/h3&gt;
+没错，对懂得人来说，再简单不过。&lt;br&gt;
+所以，这是写给不会的人看的😂&lt;/p&gt;
+&lt;h2 id=&#34;目录&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#目录&#34;&gt;#&lt;/a&gt; 目录&lt;/h2&gt;
+&lt;p&gt;点击以下即可跳至指定位置&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#1%E8%BF%9B%E5%85%A5%E8%AE%BE%E7%BD%AE&#34;&gt;1. 系统总广告开关&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;#2%E5%A4%A9%E6%B0%94&#34;&gt; 2. 天气&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;#3%E6%97%A5%E5%8E%86&#34;&gt; 3. 日历&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;#4%E6%89%8B%E6%9C%BA%E7%AE%A1%E5%AE%B6&#34;&gt; 4. 手机管家&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;#5%E4%B8%8B%E8%BD%BD%E7%AE%A1%E7%90%86&#34;&gt; 5. 下载管理&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;#6%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97&#34;&gt; 6. 应用商店&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;#7%E8%87%AA%E5%B8%A6%E6%B5%8F%E8%A7%88%E5%99%A8&#34;&gt; 7. 自带浏览器&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;#8%E4%B8%8B%E6%8B%89%E7%B1%BB%E9%80%9A%E7%9F%A5%E9%9D%A2%E5%B9%BF%E5%91%8A&#34;&gt; 8. 下拉通知栏&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;#9%E5%85%B3%E9%97%AD%E6%8C%87%E5%AE%9A%E5%BA%94%E7%94%A8%E9%80%9A%E7%9F%A5%E5%B9%BF%E5%91%8A%E7%9A%84%E6%8E%A8%E9%80%81&#34;&gt; 9. 关闭指定应用&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;#10%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%90%AF%E5%8A%A8%E5%B9%BF%E5%91%8A&#34;&gt; 10. 跳过启动广告&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;正文开始&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#正文开始&#34;&gt;#&lt;/a&gt; 正文开始&lt;/h2&gt;
 &lt;h4 id=&#34;1进入设置&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1进入设置&#34;&gt;#&lt;/a&gt; 1. 进入设置&lt;/h4&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/Cib3rYDz5tx7V8J.jpg&#34; alt=&#34;系统.jpg&#34;&gt;&lt;br&gt;
  输入框里直接输入 &lt;mark&gt;广告&lt;/mark&gt; ➡️ 选 &lt;mark&gt;系统广告&lt;/mark&gt; 右边按钮关掉。&lt;br&gt;
@@ -89,10 +102,16 @@
 就可以得到下图简洁的浏览器界面&lt;br&gt;
 &lt;img data-src=&#34;https://s2.loli.net/2023/02/09/aJxh1Y2uQZTNbXi.jpg&#34; alt=&#34;浏览器&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;8下拉类通知面广告&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#8下拉类通知面广告&#34;&gt;#&lt;/a&gt; 8. 下拉类通知面广告&lt;/h4&gt;
-&lt;p&gt;除去系统之外你也会遇到一些 &lt;mark&gt;下拉通知栏&lt;/mark&gt; （图下图）的第三方应用推送的广告&lt;br&gt;
-处理起来也很简单 &lt;mark&gt;长按&lt;/mark&gt; 你要管理的条条 弹出 &lt;mark&gt;更多设置&lt;/mark&gt; 通知类别 &lt;mark&gt;运营信息&lt;/mark&gt; 全部关掉或者选择性关掉。除了&lt;mark&gt;运营信息&lt;/mark&gt;外也还可能有别的 也可以选择性关闭。&lt;br&gt;
+&lt;p&gt;除去系统之外你也会遇到一些 &lt;mark&gt;下拉通知栏&lt;/mark&gt; （图下图）的第三方应用推送的广告。&lt;br&gt;
+每次都要点❌   关键是点完下次还会有。&lt;br&gt;
+&lt;img data-src=&#34;https://i.niupic.com/images/2023/02/10/ajXk.jpg&#34; alt=&#34;下拉&#34;&gt;&lt;br&gt;
+处理起来也很简单 &lt;mark&gt;长按&lt;/mark&gt; 你要管理的条条 弹出 &lt;mark&gt;更多设置&lt;/mark&gt; 通知类别 &lt;mark&gt;运营信息&lt;/mark&gt; 全部关掉或者选择性关掉。除了&lt;mark&gt;运营信息&lt;/mark&gt;外也还可能有别的 也可以选择性关闭。以后就不会再弹啦😁&lt;br&gt;
 &lt;img data-src=&#34;https://s2.loli.net/2023/02/09/zeU7gPtXWKOhQq6.png&#34; alt=&#34;下拉.png&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;9软件的启动广告&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#9软件的启动广告&#34;&gt;#&lt;/a&gt; 9. 软件的启动广告&lt;/h4&gt;
+&lt;h4 id=&#34;9关闭指定应用通知广告的推送&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#9关闭指定应用通知广告的推送&#34;&gt;#&lt;/a&gt; 9・关闭指定应用通知广告的推送&lt;/h4&gt;
+&lt;p&gt;这里以 &lt;mark&gt;快手&lt;/mark&gt; 为例&lt;br&gt;
+桌面 &lt;mark&gt;长按快手 app&lt;/mark&gt; 图标➡️&lt;mark&gt;应用信息&lt;/mark&gt;➡️ &lt;mark&gt;通知管理&lt;/mark&gt; ➡️ &lt;mark&gt;通知类别&lt;/mark&gt;里的推送可以全部关闭，也可以选择性关闭&lt;sup&gt;(除去重要外推荐全部关闭)&lt;/sup&gt;。&lt;br&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/10/oLDvC1XyYJf8IzM.jpg&#34; alt=&#34;kuaishou.JPG&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;10软件的启动广告&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#10软件的启动广告&#34;&gt;#&lt;/a&gt; 10. 软件的启动广告&lt;/h4&gt;
 &lt;p&gt;  各种软件的启动广告估计各位都不喜欢的吧，要么等几秒钟，要么手动点跳过。&lt;br&gt;
 我可是记得以前各个厂家的手机发布会都吹自家的手机打开应用多快多快，看看现在，不提了吧。&lt;br&gt;
   任你再牛逼的骁龙 8+++ + 多少都没有用，开屏启动广告欢迎您！&lt;br&gt;
@@ -105,8 +124,8 @@
 &lt;img data-src=&#34;https://s2.loli.net/2023/02/09/xLmlENduc4RVUC9.png&#34; alt=&#34;李跳跳.png&#34;&gt;&lt;br&gt;
  蓝奏云下载链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2llSVlHMG16cXNoZQ==&#34;&gt;https://hy6xing.lanzouw.com/ieIYG0mzqshe&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;  好了，就先到这里了。光编写这篇文章就用了 2 个多小时，主要是处理图片，手机截图完传电脑再拼接，再上传图床，最后再复制图片链接放 markdown 里。&lt;/p&gt;
-&lt;p&gt;😀&lt;mark&gt;完结&lt;/mark&gt; ✨撒花✨&lt;br&gt;
-✨✨&lt;/p&gt;
+&lt;h2 id=&#34;完结-撒花&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#完结-撒花&#34;&gt;#&lt;/a&gt; 😀&lt;mark&gt;完结&lt;/mark&gt; ✨撒花✨&lt;/h2&gt;
+&lt;p&gt;✨✨&lt;/p&gt;
 </content>
         <category term="笔记" />
         <category term="小米手机" />
@@ -121,8 +140,9 @@
         <content type="html">&lt;p&gt;安卓端强大的第三方相机 AGC。&lt;br&gt;
 链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMXQ5VzJRSkFrRm9GUzhKZ3U0TUd2MVE/cHdkPWpjeWg=&#34;&gt;https://pan.baidu.com/s/1t9W2QJAkFoFS8Jgu4MGv1Q?pwd=jcyh&lt;/span&gt;&lt;br&gt;
  提取码在后面&lt;br&gt;
-下载安装软件后将配置文件 超级长焦 v1.agc 移动至 /storage/emulated/0/Download/AGC.8.4/configs 文件夹下即可&lt;br&gt;
-（/storage/emulated/0/ 即是指 “手机内部存储 根目录” 有个 “下载” 文件夹，英文名 Download）&lt;br&gt;
+下载安装软件后将配置文件 超级长焦 v1.agc&lt;br&gt;
+ 移动至 /storage/emulated/0/Download/AGC.8.4/configs 文件夹下即可&lt;br&gt;
+ /storage/emulated/0/Download 即是指 “手机内部存储 根目录” 有个 “下载” 文件夹，英文名 Download）&lt;br&gt;
 如果没有 AGC.8.4/configs 自己创建一下。&lt;br&gt;
 安装完打开软件也会自动生成 AGC.8.4 文件夹，但不会 /configs 还是要手动创建一下。&lt;br&gt;
 &lt;img data-src=&#34;https://i.niupic.com/images/2023/02/08/ajP9.gif&#34; alt=&#34;动画教程&#34;&gt;&lt;br&gt;
@@ -139,7 +159,8 @@
  图三奶茶店拍的&lt;br&gt;
 &lt;img data-src=&#34;https://s2.loli.net/2023/02/08/urIWUOBeQoGC7zs.jpg&#34; alt=&#34;奶茶店.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;百度网盘提取码：jcyh&lt;/p&gt;
-&lt;p&gt;如果觉得百度网盘下载慢的，可以用置顶文章里推荐的工具 antdownload2&lt;sup&gt;(PC 端的)&lt;/sup&gt; 1.0.6&lt;/p&gt;
+&lt;p&gt;如果觉得百度网盘下载慢的，&lt;br&gt;
+可以用置顶文章里推荐的工具 antdownload2&lt;sup&gt;(PC 端的)&lt;/sup&gt; 1.0.6&lt;/p&gt;
 </content>
         <category term="笔记" />
         <category term="教程" />

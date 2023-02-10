@@ -7,34 +7,48 @@
     <category term="介绍" />
     <category term="笔记" />
     <category term="站点" />
-    <category term="日记" />
     <category term="小米手机" />
     <category term="MIUI" />
     <category term="教程" />
     <category term="微信" />
     <category term="资源分享" />
-    <category term="源码" />
-    <category term="html" />
-    <category term="hexo" />
+    <category term="彩蛋" />
+    <category term="（｡ò ∀ ó｡）" />
     <category term="美化" />
     <category term="Rainmeter" />
     <category term="主题" />
     <category term="雨滴皮肤" />
-    <category term="彩蛋" />
-    <category term="（｡ò ∀ ó｡）" />
+    <category term="源码" />
+    <category term="html" />
+    <category term="hexo" />
     <category term="奇葩事件" />
     <category term="新闻" />
     <category term="灵异事件" />
+    <category term="日记" />
     <entry>
         <id>https://hy6xing.cn/2023/02/05/PC/%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/</id>
         <title>静态资源</title>
         <link rel="alternate" href="https://hy6xing.cn/2023/02/05/PC/%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/"/>
-        <content type="html">&lt;p&gt;前提说明一下，因为有些网盘有文件格式限制或者不支持分享，所以这里大多还是以百度网盘为主。&lt;br&gt;
+        <content type="html">&lt;p&gt;  前提说明一下，因为有些网盘有文件格式限制或者不支持分享，所以这里大多还是以百度网盘为主。&lt;br&gt;
 大家也不用怕下载慢，有很多下载工具都可以跑 &lt;s&gt;慢速&lt;/s&gt; 满速 下载。&lt;br&gt;
 这里以 AntDownload2&lt;sup&gt;（第二代）&lt;/sup&gt; 版本为 1.0.6 为例。&lt;br&gt;
 蓝奏云盘：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lMZmtuMG1udTczZw==&#34;&gt;https://hy6xing.lanzouw.com/iLfkn0mnu73g&lt;/span&gt;&lt;br&gt;
- 解压至本地 双击 antdownload.exe 运行，免安装。有更新就更新，体验好一点。&lt;br&gt;
+ 解压至本地 双击 antdownload.exe 运行，免安装。&lt;br&gt;
+有更新就更新，体验好一点。&lt;br&gt;
 链接有失效过期的都可以联系我。&lt;/p&gt;
+&lt;h2 id=&#34;目录&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#目录&#34;&gt;#&lt;/a&gt; 目录&lt;/h2&gt;
+&lt;p&gt;点击下面可跳至指定位置&lt;br&gt;
+&lt;a href=&#34;#%E8%A7%86%E9%A2%91%E5%BD%95%E5%88%B6&#34;&gt; 1. pc 录屏软件&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;#%E8%BF%85%E9%9B%B7%E7%BB%BF%E8%89%B2%E6%9C%AC%E5%9C%B0%E7%89%88%E6%9C%AC&#34;&gt; 2. pc 迅雷绿色版&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;#adobe%E5%85%A8%E5%AE%B6%E6%A1%B6win%E7%B3%BB%E7%BB%9F%E6%96%87%E4%BB%B6%E6%80%BB%E5%85%B187g&#34;&gt; 3. Adobe 全家桶 Win 系统&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;#%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8pot_player64_1721862_public_20221226&#34;&gt; 4. pc 视频播放器 Pot_Player&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;#geek&#34;&gt;5. pc 强大的卸载软件&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;#%E6%96%87%E4%BB%B6%E8%A7%A3%E9%94%81%E5%B7%A5%E5%85%B7-iobit-unlocker&#34;&gt; 6. 文件解锁工具 IObit Unlocker&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;#%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE_10210&#34;&gt;7. 📱百度地图&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;#%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%9010160&#34;&gt; 8. 📱酷我音乐 vip 版&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;#pc&#34;&gt; 9. 📱PS&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;#mx-player-14812&#34;&gt;10. 📱MX Player&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;#tor-browser_10221-release1156&#34;&gt;11. 📱洋葱浏览器&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;pc&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#pc&#34;&gt;#&lt;/a&gt; PC&lt;/h2&gt;
 &lt;h3 id=&#34;视频录制&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#视频录制&#34;&gt;#&lt;/a&gt; 视频录制&lt;/h3&gt;
 &lt;p&gt;OBS  录制和直播一体化神器，各大平台主播好像都喜欢用这个。&lt;br&gt;

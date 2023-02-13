@@ -10,24 +10,24 @@
     <category term="源码" />
     <category term="html" />
     <category term="hexo" />
+    <category term="教程" />
+    <category term="资源分享" />
     <category term="美化" />
     <category term="Rainmeter" />
     <category term="主题" />
     <category term="雨滴皮肤" />
-    <category term="教程" />
-    <category term="资源分享" />
-    <category term="日记" />
     <category term="彩蛋" />
     <category term="（｡ò ∀ ó｡）" />
-    <category term="记录生活" />
-    <category term="手机摄影" />
-    <category term="学校" />
-    <category term="小米手机" />
-    <category term="MIUI" />
-    <category term="微信" />
     <category term="奇葩事件" />
     <category term="新闻" />
     <category term="灵异事件" />
+    <category term="小米手机" />
+    <category term="MIUI" />
+    <category term="微信" />
+    <category term="日记" />
+    <category term="记录生活" />
+    <category term="手机摄影" />
+    <category term="学校" />
     <entry>
         <id>https://hy6xing.cn/2023/02/10/%E6%89%8B%E6%9C%BA/%E5%B0%8F%E7%B1%B3%E5%88%B7%E6%9C%BA%E5%B7%A5%E5%85%B7/</id>
         <title>小米线刷工具</title>
@@ -92,11 +92,11 @@
     </entry>
     <entry>
         <id>https://hy6xing.cn/2023/02/05/PC/%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/</id>
-        <title>静态资源</title>
+        <title>静态资源集合</title>
         <link rel="alternate" href="https://hy6xing.cn/2023/02/05/PC/%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/"/>
         <content type="html">&lt;p&gt;  前提说明一下，因为有些网盘有文件格式限制或者不支持分享，所以这里大多还是以百度网盘为主。&lt;br&gt;
-大家也不用怕下载慢，有很多下载工具都可以跑 &lt;s&gt;慢速&lt;/s&gt; 满速 下载。&lt;br&gt;
-&lt;img data-src=&#34;https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg3.doubanio.com%2Fview%2Fgroup_topic%2Fraw%2Fpublic%2Fp442720751.jpg&amp;amp;refer=http%3A%2F%2Fimg3.doubanio.com&amp;amp;app=2002&amp;amp;size=f9999,10000&amp;amp;q=a80&amp;amp;n=0&amp;amp;g=0n&amp;amp;fmt=auto?sec=1678873661&amp;amp;t=a9a5e0ab71822635ad2fb16822129cf1&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+大家也不用怕下载慢，&lt;br&gt;
+有很多下载工具都可以跑 &lt;s&gt;慢速&lt;/s&gt; 满速 下载&lt;img data-src=&#34;https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg3.doubanio.com%2Fview%2Fgroup_topic%2Fraw%2Fpublic%2Fp442720751.jpg&amp;refer=http%3A%2F%2Fimg3.doubanio.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto?sec=1678873661&amp;t=a9a5e0ab71822635ad2fb16822129cf1&#34; width=50/&gt;&lt;/p&gt;
 &lt;p&gt;这里以 AntDownload2&lt;sup&gt;（第二代）&lt;/sup&gt; 版本为 1.0.6 为例。&lt;br&gt;
 蓝奏云盘：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lMZmtuMG1udTczZw==&#34;&gt;https://hy6xing.lanzouw.com/iLfkn0mnu73g&lt;/span&gt;&lt;br&gt;
  解压至本地 双击 antdownload.exe 运行，免安装。&lt;br&gt;
@@ -139,17 +139,17 @@ OBS-Studio-26.1.1-Full-Installer-x64.exe&lt;br&gt;
 &lt;h3 id=&#34;geek&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#geek&#34;&gt;#&lt;/a&gt; geek&lt;/h3&gt;
 &lt;p&gt;geek 是我比较喜欢的 PC 端卸载工具。双击 geek.exe 即可运行无需安装。&lt;br&gt;
 打开 Geek Uninstaller 后，就显示了你电脑上当前安装的桌面软件：&lt;br&gt;
-&lt;img data-src=&#34;https://i.niupic.com/images/2023/02/09/ajSO.webp&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;img data-src=https://i.niupic.com/images/2023/02/09/ajSO.webp width=240/&gt;&lt;/p&gt;
 &lt;p&gt;在软件条目上右键点击，即可卸载该软件：&lt;br&gt;
-&lt;img data-src=&#34;https://i.niupic.com/images/2023/02/09/ajSS.webp&#34; alt=&#34;2&#34;&gt;&lt;br&gt;
- 卸载完成后，Geek Uninstaller 会自动扫描残留文件与注册表：&lt;br&gt;
-&lt;img data-src=&#34;https://i.niupic.com/images/2023/02/09/ajSX.jpg&#34; alt=&#34;3&#34;&gt;&lt;br&gt;
- 点击完成即可清理掉这些残留垃圾。&lt;br&gt;
+&lt;img data-src=https://i.niupic.com/images/2023/02/09/ajSS.webp width=240/&gt;&lt;br&gt;
+卸载完成后，Geek Uninstaller 会自动扫描残留文件与注册表：&lt;br&gt;
+&lt;img data-src=https://i.niupic.com/images/2023/02/09/ajSX.jpg width=240/&gt;&lt;br&gt;
+点击完成即可清理掉这些残留垃圾。&lt;br&gt;
 下载链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2l2M2d0MG16czZnZA==&#34;&gt;https://hy6xing.lanzouw.com/iv3gt0mzs6gd&lt;/span&gt;&lt;/p&gt;
 &lt;h3 id=&#34;文件解锁工具-iobit-unlocker&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#文件解锁工具-iobit-unlocker&#34;&gt;#&lt;/a&gt; 文件解锁工具 IObit Unlocker&lt;/h3&gt;
 &lt;p&gt;更好地解锁顽固文件&lt;br&gt;
  IObit Unlocker 在解决 “无法删除文件”，“访问被拒绝”，“文件正被另一个程序或用户使用” 或 “存在共享冲突” 问题方面表现良好。使用 IObit 解锁器，您可以按照自己的方式管理所有文件。&lt;br&gt;
-&lt;img data-src=&#34;https://i.niupic.com/images/2023/02/09/ajSJ.JPG&#34; alt=&#34;示例图&#34;&gt;&lt;br&gt;
+&lt;img data-src=https://i.niupic.com/images/2023/02/09/ajSJ.JPG width=370/&gt;&lt;br&gt;
 找到 “无法删除文件” 后，只需将它们拖放到 IObit 解锁器即可。然后，您可以根据需要快速解锁，重命名，复制或移动它们。无需复杂的操作。&lt;br&gt;
 官网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaW9iaXQuY29tL2VuL2lvYml0LXVubG9ja2VyLnBocA==&#34;&gt;https://www.iobit.com/en/iobit-unlocker.php&lt;/span&gt;&lt;br&gt;
  下载速度慢可以用站长准备好的&lt;br&gt;
@@ -185,8 +185,8 @@ PS Touch: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxh
 &lt;p&gt;无介绍・・・・・・・・・・・・・&lt;/p&gt;
 &lt;h3 id=&#34;待更新~&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#待更新~&#34;&gt;#&lt;/a&gt; 待更新～&lt;/h3&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg9.doubanio.com%2Fview%2Fgroup_topic%2Fraw%2Fpublic%2Fp281812384.jpg&amp;amp;refer=http%3A%2F%2Fimg9.doubanio.com&amp;amp;app=2002&amp;amp;size=f9999,10000&amp;amp;q=a80&amp;amp;n=0&amp;amp;g=0n&amp;amp;fmt=auto?sec=1678872874&amp;amp;t=a5b0587da2559da9029c5ae1fff0d352&#34; alt=&#34;持续更新&#34;&gt;&lt;br&gt;
-&lt;img data-src=&#34;https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg1.doubanio.com%2Fview%2Fgroup_topic%2Fraw%2Fpublic%2Fp281812147.jpg&amp;amp;refer=http%3A%2F%2Fimg1.doubanio.com&amp;amp;app=2002&amp;amp;size=f9999,10000&amp;amp;q=a80&amp;amp;n=0&amp;amp;g=0n&amp;amp;fmt=auto?sec=1678872851&amp;amp;t=c0040838fa1983502b24b7283f2037fb&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img data-src=&#34;https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg9.doubanio.com%2Fview%2Fgroup_topic%2Fraw%2Fpublic%2Fp281812384.jpg&amp;refer=http%3A%2F%2Fimg9.doubanio.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto?sec=1678872874&amp;t=a5b0587da2559da9029c5ae1fff0d352&#34; width=270/&gt;  
+&lt;img data-src=&#34;https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg1.doubanio.com%2Fview%2Fgroup_topic%2Fraw%2Fpublic%2Fp281812147.jpg&amp;refer=http%3A%2F%2Fimg1.doubanio.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto?sec=1678872851&amp;t=c0040838fa1983502b24b7283f2037fb&#34; width=200/&gt;  
 &lt;h2 id=&#34;&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; ！&lt;/h2&gt;
 &lt;h2 id=&#34;最后更新日期&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#最后更新日期&#34;&gt;#&lt;/a&gt; 最后更新日期&lt;/h2&gt;
 &lt;ul&gt;

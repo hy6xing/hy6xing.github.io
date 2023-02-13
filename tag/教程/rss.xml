@@ -13,24 +13,24 @@
         <category>源码</category>
         <category>html</category>
         <category>hexo</category>
+        <category>教程</category>
+        <category>资源分享</category>
         <category>美化</category>
         <category>Rainmeter</category>
         <category>主题</category>
         <category>雨滴皮肤</category>
-        <category>教程</category>
-        <category>资源分享</category>
-        <category>日记</category>
         <category>彩蛋</category>
         <category>（｡ò ∀ ó｡）</category>
-        <category>记录生活</category>
-        <category>手机摄影</category>
-        <category>学校</category>
-        <category>小米手机</category>
-        <category>MIUI</category>
-        <category>微信</category>
         <category>奇葩事件</category>
         <category>新闻</category>
         <category>灵异事件</category>
+        <category>小米手机</category>
+        <category>MIUI</category>
+        <category>微信</category>
+        <category>日记</category>
+        <category>记录生活</category>
+        <category>手机摄影</category>
+        <category>学校</category>
         <item>
             <guid isPermalink="true">https://hy6xing.cn/2023/02/09/%E6%89%8B%E6%9C%BA/MIUI%E5%85%B3%E9%97%AD%E7%B3%BB%E7%BB%9F%E5%B9%BF%E5%91%8A/</guid>
             <title>最全面的关闭小米miui系统广告</title>
@@ -63,8 +63,9 @@
 &lt;p&gt;&lt;mark&gt;系统总开关&lt;/mark&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/Cib3rYDz5tx7V8J.jpg&#34; alt=&#34;系统.jpg&#34;&gt;&lt;br&gt;
  输入框里直接输入 &lt;mark&gt;广告&lt;/mark&gt; ➡️ 选 &lt;mark&gt;系统广告&lt;/mark&gt; 右边按钮关掉。&lt;br&gt;
-记住涉及应用以免等会漏掉，并非都要动。&lt;br&gt;
-&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/aFou5DY7er8JMKP.jpg&#34; alt=&#34;涉及应用.jpg&#34;&gt;&lt;/p&gt;
+记住涉及应用以免等会漏掉，并非都要动。&lt;/p&gt;
+&lt;p&gt;涉及应用&lt;br&gt;
+&lt;img data-src=https://s2.loli.net/2023/02/09/aFou5DY7er8JMKP.jpg width= 300/&gt;&lt;/p&gt;
 &lt;h4 id=&#34;天气&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#天气&#34;&gt;#&lt;/a&gt; 天气&lt;/h4&gt;
 &lt;p&gt;打开天气 - 右上角 3 个点里➡️选择&lt;mark&gt;设置&lt;/mark&gt;➡️下拉到&lt;mark&gt;用户体验计划&lt;/mark&gt;➡️关闭右边开关&lt;br&gt;
 &lt;img data-src=&#34;https://s2.loli.net/2023/02/09/mod6ORZ1QGYBlWy.jpg&#34; alt=&#34;天气.jpg&#34;&gt;&lt;/p&gt;
@@ -89,12 +90,12 @@
 &lt;p&gt;打开浏览器右下角&lt;mark&gt;菜单&lt;/mark&gt; ➡️&lt;mark&gt;⚙&lt;/mark&gt; ➡️ &lt;mark&gt;信息通知管理&lt;/mark&gt; ➡️ 可全部关掉&lt;br&gt;
 &lt;img data-src=&#34;https://s2.loli.net/2023/02/09/o8RHizJX4fWq2Lw.png&#34; alt=&#34;浏览器.png&#34;&gt;&lt;br&gt;
  同样的&lt;mark&gt;⚙&lt;/mark&gt;设置里面上面的&lt;mark&gt;主页设置&lt;/mark&gt;  选中 &lt;mark&gt;简洁版&lt;/mark&gt; 即可，所有的&lt;mark&gt;推送&lt;/mark&gt;全部关掉&lt;br&gt;
-就可以得到下图简洁的浏览器界面&lt;br&gt;
-&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/aJxh1Y2uQZTNbXi.jpg&#34; alt=&#34;浏览器&#34;&gt;&lt;/p&gt;
+就可以得到下图简洁的浏览器界面&lt;/p&gt;
+&lt;p&gt;浏览器界面&lt;img data-src=https://s2.loli.net/2023/02/09/aJxh1Y2uQZTNbXi.jpg width=180/&gt;&lt;/p&gt;
 &lt;h4 id=&#34;下拉类通知面广告&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#下拉类通知面广告&#34;&gt;#&lt;/a&gt; 下拉类通知面广告&lt;/h4&gt;
 &lt;p&gt;除去系统之外你也会遇到一些 &lt;mark&gt;下拉通知栏&lt;/mark&gt; （图下图）的第三方应用推送的广告。&lt;br&gt;
 每次都要点❌   关键是点完下次还会有。&lt;br&gt;
-&lt;img data-src=&#34;https://i.niupic.com/images/2023/02/10/ajXk.jpg&#34; alt=&#34;下拉&#34;&gt;&lt;br&gt;
+![下拉图例]&lt;img data-src=https://i.niupic.com/images/2023/02/10/ajXk.jpg width=200/&gt;&lt;br&gt;
 处理起来也很简单 &lt;mark&gt;长按&lt;/mark&gt; 你要管理的条条 弹出 &lt;mark&gt;更多设置&lt;/mark&gt; 通知类别 &lt;mark&gt;运营信息&lt;/mark&gt; 全部关掉或者选择性关掉。除了&lt;mark&gt;运营信息&lt;/mark&gt;外也还可能有别的 也可以选择性关闭。以后就不会再弹啦😁&lt;br&gt;
 &lt;img data-src=&#34;https://s2.loli.net/2023/02/09/zeU7gPtXWKOhQq6.png&#34; alt=&#34;下拉.png&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;关闭指定应用通知广告的推送&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#关闭指定应用通知广告的推送&#34;&gt;#&lt;/a&gt; 关闭指定应用通知广告的推送&lt;/h4&gt;

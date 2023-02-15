@@ -2,13 +2,13 @@
 <rss version="2.0">
     <channel>
         <title>六星虚拟网络</title>
-        <subtitle>在通往牛笔的路上，在意的只是远方</subtitle>
+        <subtitle>资源分享·博客网站</subtitle>
         <icon>https://hy6xing.cn/images/favicon.ico</icon>
         <link>https://hy6xing.cn</link>
         <author>
           <name>零躺躺&amp;夜灵</name>
         </author>
-        <description>欢迎来到我的世界~这里你可以学到一些废话文学。何为‘废话’文学呢？比如说我现在就是在说&#39;废话&#39;。但是呢？我是真真的欢迎你来到我的博客网站(ಡωಡ)</description>
+        <description>我这个人呢，还不错，除了长的帅点以外，也没什么缺点了！我有时觉得，自己其实不太帅。但有一天，我被一群女孩子围住，她们说我帅，我不承认，她们就打我，还说我虚伪。(ಡωಡ)</description>
         <language>zh-CN</language>
         <pubDate>Fri, 10 Feb 2023 20:23:45 +0800</pubDate>
         <lastBuildDate>Fri, 10 Feb 2023 20:23:45 +0800</lastBuildDate>
@@ -251,8 +251,8 @@
             <title>静态资源集合</title>
             <link>https://hy6xing.cn/2023/02/05/PC/%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/</link>
             <category term="PC" scheme="https://hy6xing.cn/categories/PC/" />
-            <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
             <category term="站点" scheme="https://hy6xing.cn/tags/%E7%AB%99%E7%82%B9/" />
+            <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
             <category term="彩蛋" scheme="https://hy6xing.cn/tags/%E5%BD%A9%E8%9B%8B/" />
             <category term="（｡ò ∀ ó｡）" scheme="https://hy6xing.cn/tags/%EF%BC%88%EF%BD%A1o-%E2%88%80-o%EF%BD%A1%EF%BC%89/" />
             <pubDate>Sun, 05 Feb 2023 13:23:35 +0800</pubDate>
@@ -485,8 +485,8 @@ PS Touch: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxh
             <title>Hello World</title>
             <link>https://hy6xing.cn/2022/04/01/hello-world/</link>
             <category term="日记" scheme="https://hy6xing.cn/categories/%E6%97%A5%E8%AE%B0/" />
-            <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
             <category term="介绍" scheme="https://hy6xing.cn/tags/%E4%BB%8B%E7%BB%8D/" />
+            <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
             <category term="站点" scheme="https://hy6xing.cn/tags/%E7%AB%99%E7%82%B9/" />
             <pubDate>Fri, 01 Apr 2022 22:40:01 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;

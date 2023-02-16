@@ -194,6 +194,20 @@
   </url>
   
   <url>
+    <loc>https://hy6xing.cn/tags/%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA/</loc>
+    <lastmod>2023-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hy6xing.cn/tags/MIUI/</loc>
+    <lastmod>2023-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://hy6xing.cn/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-02-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -202,6 +216,13 @@
   
   <url>
     <loc>https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/</loc>
+    <lastmod>2023-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hy6xing.cn/tags/%E5%BE%AE%E4%BF%A1/</loc>
     <lastmod>2023-02-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -257,20 +278,6 @@
   </url>
   
   <url>
-    <loc>https://hy6xing.cn/tags/%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA/</loc>
-    <lastmod>2023-02-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hy6xing.cn/tags/MIUI/</loc>
-    <lastmod>2023-02-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hy6xing.cn/tags/%E5%BD%A9%E8%9B%8B/</loc>
     <lastmod>2023-02-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -285,7 +292,21 @@
   </url>
   
   <url>
-    <loc>https://hy6xing.cn/tags/%E5%BE%AE%E4%BF%A1/</loc>
+    <loc>https://hy6xing.cn/tags/%E5%A5%87%E8%91%A9%E4%BA%8B%E4%BB%B6/</loc>
+    <lastmod>2023-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hy6xing.cn/tags/%E6%96%B0%E9%97%BB/</loc>
+    <lastmod>2023-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hy6xing.cn/tags/%E7%81%B5%E5%BC%82%E4%BA%8B%E4%BB%B6/</loc>
     <lastmod>2023-02-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -319,27 +340,6 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://hy6xing.cn/tags/%E5%A5%87%E8%91%A9%E4%BA%8B%E4%BB%B6/</loc>
-    <lastmod>2023-02-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hy6xing.cn/tags/%E6%96%B0%E9%97%BB/</loc>
-    <lastmod>2023-02-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hy6xing.cn/tags/%E7%81%B5%E5%BC%82%E4%BA%8B%E4%BB%B6/</loc>
-    <lastmod>2023-02-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
@@ -357,14 +357,14 @@
   </url>
   
   <url>
-    <loc>https://hy6xing.cn/categories/PC/</loc>
+    <loc>https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/</loc>
     <lastmod>2023-02-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/</loc>
+    <loc>https://hy6xing.cn/categories/PC/</loc>
     <lastmod>2023-02-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

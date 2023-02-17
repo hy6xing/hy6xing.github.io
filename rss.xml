@@ -10,10 +10,140 @@
         </author>
         <description>我这个人呢，还不错，除了长的帅点以外，也没什么缺点了！我有时觉得，自己其实不太帅。但有一天，我被一群女孩子围住，她们说我帅，我不承认，她们就打我，还说我虚伪。(ಡωಡ)</description>
         <language>zh-CN</language>
-        <pubDate>Fri, 10 Feb 2023 20:23:45 +0800</pubDate>
-        <lastBuildDate>Fri, 10 Feb 2023 20:23:45 +0800</lastBuildDate>
+        <pubDate>Fri, 17 Feb 2023 20:18:11 +0800</pubDate>
+        <lastBuildDate>Fri, 17 Feb 2023 20:18:11 +0800</lastBuildDate>
         <category term="六星虚拟网络，hy6xing" />
         <category term="零躺躺，六星，博客，博客网站，个人博客，win10美化，雨滴，雨滴桌面，雨滴皮肤，教程" />
+        <item>
+            <guid isPermalink="true">https://hy6xing.cn/2023/02/17/PC/AIMP%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/</guid>
+            <title>AIMP本地音乐播放器-初音皮肤</title>
+            <link>https://hy6xing.cn/2023/02/17/PC/AIMP%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/</link>
+            <category term="PC" scheme="https://hy6xing.cn/categories/PC/" />
+            <category term="笔记" scheme="https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/" />
+            <category term="手机" scheme="https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/" />
+            <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
+            <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
+            <category term="美化" scheme="https://hy6xing.cn/tags/%E7%BE%8E%E5%8C%96/" />
+            <category term="主题" scheme="https://hy6xing.cn/tags/%E4%B8%BB%E9%A2%98/" />
+            <category term="彩蛋" scheme="https://hy6xing.cn/tags/%E5%BD%A9%E8%9B%8B/" />
+            <pubDate>Fri, 17 Feb 2023 20:18:11 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;初音aimp-pc皮肤&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#初音aimp-pc皮肤&#34;&gt;#&lt;/a&gt; 初音 AIMP - PC 皮肤&lt;/h1&gt;
+&lt;p&gt;  &lt;span class=&#34;rainbow&#34;&gt;AIMP 音乐播放 + 初音皮肤&lt;/span&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://i.niupic.com/images/2023/02/17/akpq.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;蓝奏云 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lLVkZnMG52ejNuZw==&#34;&gt;下载链接&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;官网 aimp 下载太慢 (没道具情况下)&lt;br /&gt;
+&lt;img data-src=&#34;https://i.niupic.com/images/2023/02/17/akpp.JPG&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+ 也一起和皮肤压缩放蓝奏云了。&lt;/p&gt;
+&lt;p&gt;有道具也可以去墙外下载最新版 ———— &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYWltcC5ydS8=&#34;&gt;官方网站&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;累积更新&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#累积更新&#34;&gt;#&lt;/a&gt; 累积更新&lt;/h1&gt;
+&lt;p&gt;Artem |2023-02-01 20:53:32 | 观点： 784824&lt;/p&gt;
+&lt;h2 id=&#34;适用于-pc-的-aimp-v511&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#适用于-pc-的-aimp-v511&#34;&gt;#&lt;/a&gt; 适用于 PC 的 AIMP v5.11&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;常规：支持 utf8 编码字符串中的代理项字符&lt;/li&gt;
+&lt;li&gt;常规：WavPack 编解码器已更新到 v5.6&lt;/li&gt;
+&lt;li&gt;播放器：网络电台 - 支持 24 位（或更高）流&lt;/li&gt;
+&lt;li&gt;播放器：互联网电台 - 支持基于 JSON 的元数据&lt;/li&gt;
+&lt;li&gt;播放列表：支持 “评论” 标签字段&lt;/li&gt;
+&lt;li&gt;播放列表：Linux - 通过拖放重新排序的项目不起作用&lt;/li&gt;
+&lt;li&gt;音频转换器：支持 QAAC64 命令行编码器&lt;/li&gt;
+&lt;li&gt;音乐库：按父文件夹对表项目进行分组（为此使用文件名列）&lt;br /&gt;
+&lt;img data-src=&#34;https://www.aimp.ru/v2/pages/features/afw_main-7.png&#34; alt=&#34;&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;有什么新变化&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#有什么新变化&#34;&gt;#&lt;/a&gt; 有什么新变化？&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;常规：应用程序可以在 Windows Vista 和 Windows XP 上再次运行&lt;/li&gt;
+&lt;li&gt;一般：与 Linux 思想的兼容性 Wine&lt;/li&gt;
+&lt;li&gt;声音引擎：增加了对系统解码器的支持（可选）&lt;/li&gt;
+&lt;li&gt;声音引擎：支持 MDZ、ITZ、S3Z 和 XMZ 文件格式&lt;/li&gt;
+&lt;li&gt;声音引擎：支持 WavPack 的校正文件（WVC）&lt;/li&gt;
+&lt;li&gt;声音引擎：支持 WavPack 容器中的 DSD 流&lt;/li&gt;
+&lt;li&gt;播放器：在屏幕上固定窗口位置的能力&lt;/li&gt;
+&lt;li&gt;播放器：扩展集成到航空窥视功能&lt;/li&gt;
+&lt;li&gt;播放列表：添加了一些用于从外部应用程序导入单个文件的新选项&lt;/li&gt;
+&lt;li&gt;播放列表：添加了几个新的随机化模式&lt;/li&gt;
+&lt;li&gt;播放列表：播放列表分组模板列表&lt;/li&gt;
+&lt;/ul&gt;
+&lt;details&gt;&lt;summary&gt;还有更多&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;高级搜索：添加了 “发送到...” 菜单项&lt;/p&gt;
+&lt;p&gt;音频转换器：支持 QAAC64 命令行编码器&lt;/p&gt;
+&lt;p&gt;DSP 管理器：使用键盘输入效果值的功能&lt;/p&gt;
+&lt;p&gt;常规：能够将设置重置为默认值&lt;/p&gt;
+&lt;p&gt;常规：应用程序可以在 Windows Vista 和 Windows XP 上再次运行&lt;/p&gt;
+&lt;p&gt;常规：减小运行时库的大小&lt;/p&gt;
+&lt;p&gt;常规：第三方库已更新&lt;/p&gt;
+&lt;p&gt;常规：提高与 Linux 的兼容性（Wine）&lt;/p&gt;
+&lt;p&gt;常规：本地化已更新&lt;/p&gt;
+&lt;p&gt;常规：支持 utf8 流中的代理项字符&lt;/p&gt;
+&lt;p&gt;常规：WavPack 编解码器已更新到 v5.5.0&lt;/p&gt;
+&lt;p&gt;常规：WavPack 编解码器已更新到 v5.6&lt;/p&gt;
+&lt;p&gt;音乐库：能够按父文件夹对表中的项目进行分组（为此使用文件名列）&lt;/p&gt;
+&lt;p&gt;音乐库：使用自动生成的名称对树预设进行分组现在支持本地化&lt;/p&gt;
+&lt;p&gt;“选项” 对话框：外观选择器框架中的缩略图视图&lt;/p&gt;
+&lt;p&gt;播放器：将最近的文件列表添加到应用程序任务栏按钮的上下文菜单中&lt;/p&gt;
+&lt;p&gt;播放器：航空窥视 - 在导航按钮提示中添加了有关上一首 / 下一首曲目的信息&lt;/p&gt;
+&lt;p&gt;播放器：添加了 “将主窗口置于顶部” 命令的热键&lt;/p&gt;
+&lt;p&gt;播放器：添加了 “上一个书签”/“下一个书签” 命令的热键&lt;/p&gt;
+&lt;p&gt;播放器：网络电台 - 支持每个样本 24 位或以上的流&lt;/p&gt;
+&lt;p&gt;播放器：互联网电台 - 支持基于 JSON 的元数据&lt;/p&gt;
+&lt;p&gt;播放器：支持快速标签编辑器中的批处理模式（可选，应在应用设置中启用）&lt;/p&gt;
+&lt;p&gt;播放列表：添加了一些用于从外部应用程序导入单个文件的新选项&lt;/p&gt;
+&lt;p&gt;播放列表：添加了几个新的随机化模式&lt;/p&gt;
+&lt;p&gt;播放列表：在播放列表中聚焦播放曲目成为可选&lt;/p&gt;
+&lt;p&gt;播放列表：播放列表分组模板列表&lt;/p&gt;
+&lt;p&gt;播放列表：快速搜索框的最近字符串&lt;/p&gt;
+&lt;p&gt;播放列表：支持 “评论” 标签字段&lt;/p&gt;
+&lt;p&gt;播放列表：如果项目已手动重新排序，则新文件现在会在同步期间添加到播放列表的末尾&lt;/p&gt;
+&lt;p&gt;插件：SACD - 在 WavPack 中支持 DSD&lt;/p&gt;
+&lt;p&gt;插件：MyClouds - 支持 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL0JveC5jb20=&#34;&gt;Box.com&lt;/span&gt; 服务的 API 更改&lt;/p&gt;
+&lt;p&gt;插件：网络歌词 - 现在可以用作专辑封面提供商&lt;/p&gt;
+&lt;p&gt;插件：网页歌词 - 规则语法已扩展&lt;/p&gt;
+&lt;p&gt;插件：播客 - 从分组树 “创建智能播放列表” 的能力&lt;/p&gt;
+&lt;p&gt;皮肤引擎：文本渲染所需的内存消耗减少了 33%&lt;/p&gt;
+&lt;p&gt;声音引擎：支持 WavPack 的校正文件（WVC）&lt;/p&gt;
+&lt;p&gt;声音引擎：增加了对系统解码器的支持（可选）&lt;/p&gt;
+&lt;p&gt;声音引擎：支持 MDZ、ITZ、S3Z 和 XMZ 文件格式&lt;/p&gt;
+&lt;p&gt;声音引擎：错误时重新启动 ASIO 驱动程序，而无需重新启动应用程序&lt;/p&gt;
+&lt;p&gt;声音引擎：卸载未使用的 ASIO 驱动程序，无需重新启动应用程序&lt;/p&gt;
+&lt;p&gt;标记编辑器：添加了最近使用的就地表达式列表&lt;/p&gt;
+&lt;p&gt;标记编辑器：现在默认启用就地表达式&lt;/p&gt;
+&lt;p&gt;标签： 编码检测算法已改进&lt;/p&gt;
+&lt;p&gt;UI：在屏幕上固定窗口位置的功能（防止用户意外移动）&lt;/p&gt;
+&lt;p&gt;修复：音频转换器 - 始终应用抖动（回归）&lt;/p&gt;
+&lt;p&gt;修复：小错误和缺陷&lt;/p&gt;
+&lt;p&gt;修复：音乐库 - 如果书签源和播放播放列表不可用，则尝试开始书签播放时出错&lt;/p&gt;
+&lt;p&gt;修复：音乐库 - 查找放错位置的文件 - 搜索按钮处于非活动状态，直到您选择至少一个条目&lt;/p&gt;
+&lt;p&gt;修复：音乐库 - 首次启动时缺少分组模板名称（5.10 回归）&lt;/p&gt;
+&lt;p&gt;修复：音乐库 - 评级无法存储到播放文件的标签（回归）&lt;/p&gt;
+&lt;p&gt;修复：音乐库 - 重建分组树时视点位置重置&lt;/p&gt;
+&lt;p&gt;修复：播放器 - *.iso.wv 无法再播放（回归 5.03）&lt;/p&gt;
+&lt;p&gt;修复：播放器 - 4 位应用程序版本无法读取 QuickTime 格式（MP64）的章节&lt;/p&gt;
+&lt;p&gt;修复：播放器 - 无法从.iso.wv 图像中捕获 CUE 文件&lt;/p&gt;
+&lt;p&gt;修复：播放器 - 在随机播放队列末尾查询下一首曲目的信息，忽略播放设置，从头开始播放播放列表&lt;/p&gt;
+&lt;p&gt;修复：播放器 - 如果在下一首曲目预加载时调用 “上一首 / 下一首曲目” 命令，将被忽略&lt;/p&gt;
+&lt;p&gt;修复：播放列表 - Linux - 通过拖放重新排序的项目不起作用&lt;/p&gt;
+&lt;p&gt;修复：播放列表 - 在标签编辑器中重命名文件后在 “加载” 阶段挂起（回归 5.10）&lt;/p&gt;
+&lt;p&gt;修复：播放列表 - 队列不保存对播放列表的引用（回归 5.10）&lt;/p&gt;
+&lt;p&gt;修复：播放列表 - 队列不保存对名称包含 “=” 字符的播放列表的引用&lt;/p&gt;
+&lt;p&gt;修复：播放列表 - “自动合并相似组” 与批量模式下的标签编辑器冲突&lt;/p&gt;
+&lt;p&gt;修复播放列表 - “移动到” 命令调用 “复制到” 对话框（回归 5.10）&lt;/p&gt;
+&lt;p&gt;修复：插件 - MyClouds - 如果引用名称相同但扩展名不同的文件，则跳过 CUE&lt;/p&gt;
+&lt;p&gt;修复：插件 - 网页歌词 - 缓存冲突导致并发请求中断的问题&lt;/p&gt;
+&lt;p&gt;修复：插件 - 网络歌词 - 尝试获取广播流的专辑封面时崩溃&lt;/p&gt;
+&lt;p&gt;修复：插件 - 信息栏 - 在某些情况下不会在超时时隐藏（回归）&lt;/p&gt;
+&lt;p&gt;修复：插件 - 播客 - 分组树上下文菜单中没有播客相关命令&lt;/p&gt;
+&lt;p&gt;修复：插件 - 调度程序 - 如果用户破坏自动创建的播放队列，操作将挂起在 “正在运行” 状态&lt;/p&gt;
+&lt;p&gt;修复：插件 - 调度程序 - 带有 “全天重复” 选项的事件一次执行 5 次操作（回归 5.10）&lt;/p&gt;
+&lt;p&gt;修复：插件 - 拼音器 - 艺术家字段没有链接&lt;/p&gt;
+&lt;p&gt;修复：调度程序 - “文件末尾暂停播放” 命令与 “在轨道之间添加暂停” 选项冲突&lt;/p&gt;
+&lt;p&gt;修复：皮肤引擎 - 尝试在空大小区域中绘制文本时出错（回归）&lt;/p&gt;
+&lt;p&gt;已修复：声音引擎 - 尝试播放超过 8 个通道的文件时出错&lt;/p&gt;
+&lt;p&gt;修复：声音引擎 - 尝试打开某些互联网流时出现 “无法分配内存” 错误&lt;/p&gt;
+&lt;p&gt;修复：标签编辑器 - FLAC - 使用 JPEG MIME 类型的缩短版本而不是完整版本&lt;/p&gt;
+&lt;p&gt;修复：标签编辑器 - OPUS - 如果缺少专辑或曲目增益信息，则重播增益信息错误地存储到文件头&lt;/p&gt;
+&lt;p&gt;修复：标签编辑器 - 在线搜索 - 迪斯科 - 如果条目没有 “注释” 字段，则不显示搜索结果。&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://hy6xing.cn/2023/02/10/%E6%97%A5%E8%AE%B0/%E5%AD%A6%E6%A0%A1%E4%B9%8B%E6%97%852023-02-10/</guid>
             <title>学校1小时之旅</title>
@@ -251,8 +381,8 @@
             <title>静态资源集合</title>
             <link>https://hy6xing.cn/2023/02/05/PC/%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/</link>
             <category term="PC" scheme="https://hy6xing.cn/categories/PC/" />
-            <category term="站点" scheme="https://hy6xing.cn/tags/%E7%AB%99%E7%82%B9/" />
             <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
+            <category term="站点" scheme="https://hy6xing.cn/tags/%E7%AB%99%E7%82%B9/" />
             <category term="彩蛋" scheme="https://hy6xing.cn/tags/%E5%BD%A9%E8%9B%8B/" />
             <category term="（｡ò ∀ ó｡）" scheme="https://hy6xing.cn/tags/%EF%BC%88%EF%BD%A1o-%E2%88%80-o%EF%BD%A1%EF%BC%89/" />
             <pubDate>Sun, 05 Feb 2023 13:23:35 +0800</pubDate>
@@ -481,13 +611,14 @@ PS Touch: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxh
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://hy6xing.cn/2022/04/01/hello-world/</guid>
+            <guid isPermalink="true">https://hy6xing.cn/2022/04/01/%E7%AC%94%E8%AE%B0/hello-world/</guid>
             <title>Hello World</title>
-            <link>https://hy6xing.cn/2022/04/01/hello-world/</link>
+            <link>https://hy6xing.cn/2022/04/01/%E7%AC%94%E8%AE%B0/hello-world/</link>
+            <category term="笔记" scheme="https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/" />
             <category term="日记" scheme="https://hy6xing.cn/categories/%E6%97%A5%E8%AE%B0/" />
-            <category term="介绍" scheme="https://hy6xing.cn/tags/%E4%BB%8B%E7%BB%8D/" />
             <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
             <category term="站点" scheme="https://hy6xing.cn/tags/%E7%AB%99%E7%82%B9/" />
+            <category term="介绍" scheme="https://hy6xing.cn/tags/%E4%BB%8B%E7%BB%8D/" />
             <pubDate>Fri, 01 Apr 2022 22:40:01 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;

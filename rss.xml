@@ -23,9 +23,9 @@
             <category term="手机" scheme="https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/" />
             <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
             <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
-            <category term="美化" scheme="https://hy6xing.cn/tags/%E7%BE%8E%E5%8C%96/" />
             <category term="主题" scheme="https://hy6xing.cn/tags/%E4%B8%BB%E9%A2%98/" />
             <category term="彩蛋" scheme="https://hy6xing.cn/tags/%E5%BD%A9%E8%9B%8B/" />
+            <category term="美化" scheme="https://hy6xing.cn/tags/%E7%BE%8E%E5%8C%96/" />
             <pubDate>Fri, 17 Feb 2023 20:18:11 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;初音aimp-pc皮肤&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#初音aimp-pc皮肤&#34;&gt;#&lt;/a&gt; 初音 AIMP - PC 皮肤&lt;/h1&gt;
 &lt;p&gt;  &lt;span class=&#34;rainbow&#34;&gt;AIMP 音乐播放 + 初音皮肤&lt;/span&gt;&lt;br /&gt;
@@ -263,39 +263,67 @@
 &lt;hr /&gt;
 &lt;h2 id=&#34;正文开始&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#正文开始&#34;&gt;#&lt;/a&gt; 正文开始&lt;/h2&gt;
 &lt;h4 id=&#34;进入设置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#进入设置&#34;&gt;#&lt;/a&gt; 进入设置&lt;/h4&gt;
-&lt;p&gt;&lt;mark&gt;系统总开关&lt;/mark&gt;&lt;/p&gt;
+&lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;系统总开关&lt;/p&gt;
+&lt;/div&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/Cib3rYDz5tx7V8J.jpg&#34; alt=&#34;系统.jpg&#34; /&gt;&lt;br /&gt;
  输入框里直接输入 &lt;mark&gt;广告&lt;/mark&gt; ➡️ 选 &lt;mark&gt;系统广告&lt;/mark&gt; 右边按钮关掉。&lt;br /&gt;
 记住涉及应用以免等会漏掉，并非都要动。&lt;/p&gt;
-&lt;p&gt;涉及应用&lt;br /&gt;
-&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/aFou5DY7er8JMKP.jpg&#34; alt=&#34;&#34; width=&#34;300px&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;涉及应用&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/aFou5DY7er8JMKP.jpg&#34; alt=&#34;&#34; width=&#34;300px&#34; /&gt;&lt;/p&gt;
 &lt;h4 id=&#34;天气&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#天气&#34;&gt;#&lt;/a&gt; 天气&lt;/h4&gt;
+&lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;天气&lt;/p&gt;
+&lt;/div&gt;
 &lt;p&gt;打开天气 - 右上角 3 个点里➡️选择&lt;mark&gt;设置&lt;/mark&gt;➡️下拉到&lt;mark&gt;用户体验计划&lt;/mark&gt;➡️关闭右边开关&lt;br /&gt;
 &lt;img data-src=&#34;https://s2.loli.net/2023/02/09/mod6ORZ1QGYBlWy.jpg&#34; alt=&#34;天气.jpg&#34; /&gt;&lt;/p&gt;
 &lt;h4 id=&#34;日历&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#日历&#34;&gt;#&lt;/a&gt; 日历&lt;/h4&gt;
+&lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;日历&lt;/p&gt;
+&lt;/div&gt;
 &lt;p&gt;同上操作：打开日历➡️右上角&lt;mark&gt;设置&lt;/mark&gt;➡️&lt;mark&gt;用户体验计划&lt;/mark&gt;➡️关掉开关&lt;br /&gt;
 &lt;img data-src=&#34;https://s2.loli.net/2023/02/09/KZPnWSAmjQc6X7F.png&#34; alt=&#34;日历.png&#34; /&gt;&lt;/p&gt;
 &lt;h4 id=&#34;手机管家&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#手机管家&#34;&gt;#&lt;/a&gt; 手机管家&lt;/h4&gt;
+&lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;手机管家&lt;/p&gt;
+&lt;/div&gt;
 &lt;p&gt;打开手机管家 ➡️ 右上角&lt;mark&gt;设置&lt;/mark&gt;➡️下拉到 &lt;mark&gt;内容推荐设置&lt;/mark&gt; ➡️ 关掉开关。&lt;br /&gt;
 点击 ➡️ &lt;mark&gt;垃圾清理&lt;/mark&gt; 下拉到&lt;mark&gt;内容推荐设置&lt;/mark&gt; ➡️ 关掉开关。&lt;br /&gt;
 &lt;img data-src=&#34;https://s2.loli.net/2023/02/09/NhuR516pdj3oXec.png&#34; alt=&#34;管家.png&#34; /&gt;&lt;/p&gt;
 &lt;h4 id=&#34;下载管理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#下载管理&#34;&gt;#&lt;/a&gt; 下载管理&lt;/h4&gt;
+&lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;下载管理&lt;/p&gt;
+&lt;/div&gt;
 &lt;p&gt;打开&lt;mark&gt;下载管理&lt;/mark&gt;&lt;sup&gt; (在桌面的 == 系统工具 == 文件夹里)&lt;/sup&gt; ➡️ 右上角&lt;mark&gt;设置&lt;/mark&gt; ➡️ &lt;mark&gt;信息流设置&lt;/mark&gt; 3 个全部关掉&lt;br /&gt;
 &lt;img data-src=&#34;https://s2.loli.net/2023/02/10/AHr9BapPh1VniwW.png&#34; alt=&#34;下载.png&#34; /&gt;&lt;/p&gt;
 &lt;h4 id=&#34;应用安装器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用安装器&#34;&gt;#&lt;/a&gt; 应用安装器&lt;/h4&gt;
+&lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;应用安装器&lt;/p&gt;
+&lt;/div&gt;
 &lt;p&gt;安装应用的时候如果有广告，就点右上角 &lt;mark&gt;⚙&lt;/mark&gt; 设置里关掉推荐&lt;br /&gt;
 &lt;img data-src=&#34;https://s2.loli.net/2023/02/13/GgZhXU6vr4udwF5.jpg&#34; alt=&#34;应该安装界面.jpg&#34; /&gt;&lt;/p&gt;
 &lt;h4 id=&#34;应用商店&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用商店&#34;&gt;#&lt;/a&gt; 应用商店&lt;/h4&gt;
+&lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;应用商店&lt;/p&gt;
+&lt;/div&gt;
 &lt;p&gt;打开应用商店 ➡️右下角&lt;mark&gt;我的&lt;/mark&gt; ➡️ 右上角&lt;mark&gt;⚙&lt;/mark&gt;设置 ➡️&lt;mark&gt;通知设置&lt;/mark&gt;看你的喜好选择性关掉&lt;br /&gt;
 同样设置界面下拉→&lt;mark&gt;功能设置&lt;/mark&gt; 关掉福利活动&lt;br /&gt;
 &lt;img data-src=&#34;https://s2.loli.net/2023/02/09/zY2gJXRnZV9xmsE.png&#34; alt=&#34;应用商店.png&#34; /&gt;&lt;/p&gt;
 &lt;h4 id=&#34;自带浏览器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自带浏览器&#34;&gt;#&lt;/a&gt; 自带浏览器&lt;/h4&gt;
+&lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;浏览器&lt;/p&gt;
+&lt;/div&gt;
 &lt;p&gt;打开浏览器右下角&lt;mark&gt;菜单&lt;/mark&gt; ➡️&lt;mark&gt;⚙&lt;/mark&gt; ➡️ &lt;mark&gt;信息通知管理&lt;/mark&gt; ➡️ 可全部关掉&lt;br /&gt;
 &lt;img data-src=&#34;https://s2.loli.net/2023/02/09/o8RHizJX4fWq2Lw.png&#34; alt=&#34;浏览器.png&#34; /&gt;&lt;br /&gt;
  同样的&lt;mark&gt;⚙&lt;/mark&gt;设置里面上面的&lt;mark&gt;主页设置&lt;/mark&gt;  选中 &lt;mark&gt;简洁版&lt;/mark&gt; 即可，所有的&lt;mark&gt;推送&lt;/mark&gt;全部关掉&lt;br /&gt;
 就可以得到下图简洁的浏览器界面&lt;/p&gt;
 &lt;p&gt;浏览器界面&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/aJxh1Y2uQZTNbXi.jpg&#34; alt=&#34;&#34; width=&#34;180&#34; /&gt;&lt;/p&gt;
 &lt;h4 id=&#34;下拉类通知面广告&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#下拉类通知面广告&#34;&gt;#&lt;/a&gt; 下拉类通知面广告&lt;/h4&gt;
+&lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;状态栏下拉&lt;/p&gt;
+&lt;/div&gt;
 &lt;p&gt;除去系统之外你也会遇到一些 &lt;mark&gt;下拉通知栏&lt;/mark&gt; （图下图）的第三方应用推送的广告。&lt;br /&gt;
 每次都要点❌   关键是点完下次还会有。&lt;br /&gt;
 &lt;img data-src=&#34;https://i.niupic.com/images/2023/02/10/ajXk.jpg&#34; alt=&#34;下拉图例&#34; width=&#34;200&#34; /&gt;&lt;br /&gt;
@@ -382,8 +410,8 @@
             <link>https://hy6xing.cn/2023/02/05/PC/%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/</link>
             <category term="PC" scheme="https://hy6xing.cn/categories/PC/" />
             <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
-            <category term="站点" scheme="https://hy6xing.cn/tags/%E7%AB%99%E7%82%B9/" />
             <category term="彩蛋" scheme="https://hy6xing.cn/tags/%E5%BD%A9%E8%9B%8B/" />
+            <category term="站点" scheme="https://hy6xing.cn/tags/%E7%AB%99%E7%82%B9/" />
             <category term="（｡ò ∀ ó｡）" scheme="https://hy6xing.cn/tags/%EF%BC%88%EF%BD%A1o-%E2%88%80-o%EF%BD%A1%EF%BC%89/" />
             <pubDate>Sun, 05 Feb 2023 13:23:35 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;  前提说明一下，因为有些网盘有文件格式限制或者不支持分享，所以这里大多还是以百度网盘为主。&lt;br /&gt;
@@ -570,9 +598,9 @@ PS Touch: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxh
             <title>simplux主题及插件</title>
             <link>https://hy6xing.cn/2022/04/05/PC/%E9%9B%A8%E6%BB%B4%E7%9A%AE%E8%82%A4simplux_2%E5%8F%8A%E6%8F%92%E4%BB%B6/</link>
             <category term="PC" scheme="https://hy6xing.cn/categories/PC/" />
+            <category term="主题" scheme="https://hy6xing.cn/tags/%E4%B8%BB%E9%A2%98/" />
             <category term="美化" scheme="https://hy6xing.cn/tags/%E7%BE%8E%E5%8C%96/" />
             <category term="Rainmeter" scheme="https://hy6xing.cn/tags/Rainmeter/" />
-            <category term="主题" scheme="https://hy6xing.cn/tags/%E4%B8%BB%E9%A2%98/" />
             <category term="雨滴皮肤" scheme="https://hy6xing.cn/tags/%E9%9B%A8%E6%BB%B4%E7%9A%AE%E8%82%A4/" />
             <pubDate>Tue, 05 Apr 2022 00:14:35 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;simplux_2雨滴桌面皮肤&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#simplux_2雨滴桌面皮肤&#34;&gt;#&lt;/a&gt; simplux_2 雨滴桌面皮肤&lt;/h2&gt;

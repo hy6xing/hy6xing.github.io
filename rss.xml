@@ -19,8 +19,8 @@
             <title>AIMP本地音乐播放器-初音皮肤</title>
             <link>https://hy6xing.cn/2023/02/17/PC/AIMP%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/</link>
             <category term="笔记" scheme="https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/" />
-            <category term="PC" scheme="https://hy6xing.cn/categories/PC/" />
             <category term="手机" scheme="https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/" />
+            <category term="PC" scheme="https://hy6xing.cn/categories/PC/" />
             <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
             <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
             <category term="主题" scheme="https://hy6xing.cn/tags/%E4%B8%BB%E9%A2%98/" />
@@ -212,10 +212,10 @@
             <link>https://hy6xing.cn/2023/02/10/%E6%89%8B%E6%9C%BA/%E5%B0%8F%E7%B1%B3%E5%88%B7%E6%9C%BA%E5%B7%A5%E5%85%B7/</link>
             <category term="笔记" scheme="https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/" />
             <category term="手机" scheme="https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/" />
-            <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
-            <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
             <category term="小米手机" scheme="https://hy6xing.cn/tags/%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA/" />
             <category term="MIUI" scheme="https://hy6xing.cn/tags/MIUI/" />
+            <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
+            <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
             <pubDate>Fri, 10 Feb 2023 12:48:45 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;  为防止以后找不到，💻备份一下两款小米📱专用刷机工具&lt;mark&gt;闪米&lt;/mark&gt;&lt;sup&gt; (miflash)&lt;/sup&gt;&lt;br /&gt;
  1・miflash_pro   刷机工具更多，更全面。&lt;br /&gt;
@@ -242,10 +242,10 @@
             <link>https://hy6xing.cn/2023/02/09/%E6%89%8B%E6%9C%BA/MIUI%E5%85%B3%E9%97%AD%E7%B3%BB%E7%BB%9F%E5%B9%BF%E5%91%8A/</link>
             <category term="笔记" scheme="https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/" />
             <category term="手机" scheme="https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/" />
-            <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
-            <category term="教程" scheme="https://hy6xing.cn/tags/%E6%95%99%E7%A8%8B/" />
             <category term="小米手机" scheme="https://hy6xing.cn/tags/%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA/" />
             <category term="MIUI" scheme="https://hy6xing.cn/tags/MIUI/" />
+            <category term="教程" scheme="https://hy6xing.cn/tags/%E6%95%99%E7%A8%8B/" />
+            <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
             <pubDate>Thu, 09 Feb 2023 21:52:01 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;   最全面的小米 miui 系统广告关闭。可能有人会问，这么简单的还有必要写个教程出来？&lt;br /&gt;
 没错，对懂得人来说，再简单不过。&lt;br /&gt;
@@ -360,8 +360,8 @@
             <title>安卓AGC相机</title>
             <link>https://hy6xing.cn/2023/02/08/PC/AGC%E7%9B%B8%E6%9C%BA/</link>
             <category term="PC" scheme="https://hy6xing.cn/categories/PC/" />
-            <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
             <category term="教程" scheme="https://hy6xing.cn/tags/%E6%95%99%E7%A8%8B/" />
+            <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
             <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
             <pubDate>Wed, 08 Feb 2023 22:52:20 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;安卓端强大的第三方相机 AGC。&lt;br /&gt;
@@ -482,59 +482,58 @@ OBS-Studio-26.1.1-Full-Installer-x64.exe&lt;br /&gt;
 &lt;h3 id=&#34;pc酷我音乐v9112纯净高级版&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#pc酷我音乐v9112纯净高级版&#34;&gt;#&lt;/a&gt; PC 酷我音乐 v9.1.1.2 纯净高级版&lt;/h3&gt;
 &lt;img data-src=&#34;https://i.niupic.com/images/2023/02/18/akvk.png&#34; width=240px&gt;
 &lt;img data-src=&#34;https://i.niupic.com/images/2023/02/18/akvl.png&#34; width=240px&gt;
-&lt;ul&gt;
-&lt;li&gt;去除游戏美女秀直播等各种广告&lt;/li&gt;
-&lt;li&gt;无需登录也可正常使用&lt;/li&gt;
-&lt;li&gt;VIP 无损等直接听下载&lt;/li&gt;
-&lt;li&gt;蓝奏云：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lmWVYxMG56bG5qYw==&#34;&gt;https://hy6xing.lanzouw.com/ifYV10nzlnjc&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;安卓版请往下&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;hr /&gt;
-&lt;h2 id=&#34;手机&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#手机&#34;&gt;#&lt;/a&gt; 手机&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;apk 除单独链接外基本全部集合在一个百度盘文件夹链接里&lt;/span&gt;&lt;br /&gt;
-手机端只限安卓&lt;sup&gt; (没办法啊，条件不允许)&lt;/sup&gt;, 所有安装包过百兆的都放一个文件夹里，就不一一的放单独链接了。&lt;br /&gt;
-&lt;mark&gt;过百兆的 app 百度盘链接&lt;/mark&gt;：&lt;br /&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMVVJMTVTQ2wtYTRnV29IMlVuWFJ1cGc/cHdkPXFxZGM=&#34;&gt;https://pan.baidu.com/s/1UI15SCl-a4gWoH2UnXRupg?pwd=qqdc&lt;/span&gt;&lt;br /&gt;
- 不过百的也在里面&lt;br /&gt;
-提取码：&lt;mark&gt;qqdc&lt;/mark&gt;&lt;br /&gt;
- 下面只陈述文件夹分享里的内容。&lt;/p&gt;
-&lt;h3 id=&#34;百度地图_10210&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#百度地图_10210&#34;&gt;#&lt;/a&gt; 百度地图_10.21.0&lt;/h3&gt;
-&lt;p&gt;小米 10S 提取版本，可登录，干净无广告。&lt;br /&gt;
-蓝奏云：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lrQ3NNMG5nOTQwZA==&#34;&gt;https://hy6xing.lanzouw.com/ikCsM0ng940d&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;酷我音乐10160&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#酷我音乐10160&#34;&gt;#&lt;/a&gt; 酷我音乐 —10.1.6.0&lt;/h3&gt;
-&lt;p&gt;这个不用介绍了吧，就是出 “ &lt;mark&gt;bug&lt;/mark&gt; ” 了。可以无限制 ** 咳咳～&lt;br /&gt;
- 度盘：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMVVJMTVTQ2wtYTRnV29IMlVuWFJ1cGc/cHdkPXFxZGM=&#34;&gt;https://pan.baidu.com/s/1UI15SCl-a4gWoH2UnXRupg?pwd=qqdc&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;PC 版请网上翻&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&#34;note danger&#34;&gt;
-&lt;p&gt;安卓版已失效・寻找可用版本中・PC 正常&lt;/p&gt;
-&lt;/div&gt;
-&lt;h3 id=&#34;李跳跳-派大星201&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#李跳跳-派大星201&#34;&gt;#&lt;/a&gt; 李跳跳 - 派大星 2.01&lt;/h3&gt;
-&lt;p&gt;跳过启动广告申请，支持安卓 12.&lt;br /&gt;
- 蓝奏云：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2llSVlHMG16cXNoZQ==&#34;&gt;https://hy6xing.lanzouw.com/ieIYG0mzqshe&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;ps-cc_99sup横屏sup以及ps-touch177sup横竖都行sup&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ps-cc_99sup横屏sup以及ps-touch177sup横竖都行sup&#34;&gt;#&lt;/a&gt; PS CC_9.9&lt;sup&gt;(横屏)&lt;/sup&gt;以及 PS Touch1.7.7&lt;sup&gt;(横竖都行)&lt;/sup&gt;&lt;/h3&gt;
-&lt;p&gt;这两个支持安卓 12.&lt;br /&gt;
-PS cc: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lyUVFnMG16cjdjag==&#34;&gt;https://hy6xing.lanzouw.com/irQQg0mzr7cj&lt;/span&gt;&lt;br /&gt;
-PS Touch: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lYNlFsMG16cjd0Zw==&#34;&gt;https://hy6xing.lanzouw.com/iX6Ql0mzr7tg&lt;/span&gt;&lt;br /&gt;
- 安卓 9 及以下请下载这里链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMUtHVEo1dWVYdWpocWFjRHZJMWpVM0E/cHdkPW04b2E=&#34;&gt;https://pan.baidu.com/s/1KGTJ5ueXujhqacDvI1jU3A?pwd=m8oa&lt;/span&gt;&lt;br /&gt;
- 提取码：m8oa&lt;/p&gt;
-&lt;h3 id=&#34;mx-player-14812&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mx-player-14812&#34;&gt;#&lt;/a&gt; MX Player-1.48.12&lt;/h3&gt;
-&lt;p&gt;一款强大的本地视频播放器，解析力强。如果你手机相册里播放 4k8k 视频卡顿或者声音跟不上画面可以用它。&lt;br /&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lHSllXMG16cjZ1Yg==&#34;&gt;https://hy6xing.lanzouw.com/iGJYW0mzr6ub&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;tor-browser_10221-release1156&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#tor-browser_10221-release1156&#34;&gt;#&lt;/a&gt; Tor Browser_102.2.1-Release（11.5.6）&lt;/h3&gt;
-&lt;p&gt;无介绍・・・・・・・・・・・・・&lt;/p&gt;
-&lt;h3 id=&#34;待更新~&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#待更新~&#34;&gt;#&lt;/a&gt; 待更新～&lt;/h3&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg9.doubanio.com%2Fview%2Fgroup_topic%2Fraw%2Fpublic%2Fp281812384.jpg&amp;amp;refer=http%3A%2F%2Fimg9.doubanio.com&amp;amp;app=2002&amp;amp;size=f9999,10000&amp;amp;q=a80&amp;amp;n=0&amp;amp;g=0n&amp;amp;fmt=auto?sec=1678872874&amp;amp;t=a5b0587da2559da9029c5ae1fff0d352&#34; alt=&#34;&#34; width=&#34;270&#34; /&gt;&lt;br /&gt;
-&lt;img data-src=&#34;https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg1.doubanio.com%2Fview%2Fgroup_topic%2Fraw%2Fpublic%2Fp281812147.jpg&amp;amp;refer=http%3A%2F%2Fimg1.doubanio.com&amp;amp;app=2002&amp;amp;size=f9999,10000&amp;amp;q=a80&amp;amp;n=0&amp;amp;g=0n&amp;amp;fmt=auto?sec=1678872851&amp;amp;t=c0040838fa1983502b24b7283f2037fb&#34; alt=&#34;&#34; width=&#34;200&#34; /&gt;&lt;/p&gt;
+- 去除游戏美女秀直播等各种广告
+- 无需登录也可正常使用
+- VIP无损等直接听下载  
+- 蓝奏云：https://hy6xing.lanzouw.com/ifYV10nzlnjc
+- 安卓版请往下
+:::danger
+已失效·寻找可用版本中
+:::
+---
+***
+## 手机  
+[apk除单独链接外基本全部集合在一个百度盘文件夹链接里]{.rainbow}
+手机端只限安卓^(没办法啊，条件不允许)^,所有安装包过百兆的都放一个文件夹里，就不一一的放单独链接了。  
+==过百兆的app百度盘链接==：  
+https://pan.baidu.com/s/1UI15SCl-a4gWoH2UnXRupg?pwd=qqdc   
+不过百的也在里面
+提取码：==qqdc==  
+下面只陈述文件夹分享里的内容。
+### 百度地图_10.21.0
+小米10S提取版本，可登录，干净无广告。   
+蓝奏云：https://hy6xing.lanzouw.com/ikCsM0ng940d
+### 酷我音乐—10.1.6.0
+ 这个不用介绍了吧，就是出 “ ==bug== ” 了。可以无限制**咳咳~  
+ 度盘：https://pan.baidu.com/s/1UI15SCl-a4gWoH2UnXRupg?pwd=qqdc
+ - PC版请网上翻
+:::danger
+安卓版已失效·寻找可用版本中
+:::
+### 李跳跳-派大星2.01
+跳过启动广告申请，支持安卓12.  
+蓝奏云：https://hy6xing.lanzouw.com/ieIYG0mzqshe
+### PS CC_9.9&lt;sup&gt;(横屏)&lt;/sup&gt;以及PS Touch1.7.7&lt;sup&gt;(横竖都行)&lt;/sup&gt;
+这两个支持安卓12.  
+PS cc: https://hy6xing.lanzouw.com/irQQg0mzr7cj  
+PS Touch: https://hy6xing.lanzouw.com/iX6Ql0mzr7tg  
+安卓9及以下请下载这里链接：https://pan.baidu.com/s/1KGTJ5ueXujhqacDvI1jU3A?pwd=m8oa   
+提取码：m8oa
+### MX Player-1.48.12
+一款强大的本地视频播放器，解析力强。如果你手机相册里播放4k8k视频卡顿或者声音跟不上画面可以用它。  
+https://hy6xing.lanzouw.com/iGJYW0mzr6ub
+### Tor Browser_102.2.1-Release（11.5.6）  
+无介绍·············
+### 待更新~
+***  
+![](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg9.doubanio.com%2Fview%2Fgroup_topic%2Fraw%2Fpublic%2Fp281812384.jpg&amp;refer=http%3A%2F%2Fimg9.doubanio.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto?sec=1678872874&amp;t=a5b0587da2559da9029c5ae1fff0d352){width=270}  
+![](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg1.doubanio.com%2Fview%2Fgroup_topic%2Fraw%2Fpublic%2Fp281812147.jpg&amp;refer=http%3A%2F%2Fimg1.doubanio.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto?sec=1678872851&amp;t=c0040838fa1983502b24b7283f2037fb){width=200}  
 &lt;h2 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; ！&lt;/h2&gt;
 &lt;h2 id=&#34;最后更新&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#最后更新&#34;&gt;#&lt;/a&gt; 最后更新&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;2023-02-05&lt;/li&gt;
 &lt;li&gt;2023-02-09&lt;/li&gt;
-&lt;li&gt;2023-02-18 更新酷我音乐 PC&lt;/li&gt;
+&lt;li&gt;2023-02-18&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
@@ -543,8 +542,8 @@ PS Touch: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxh
             <title>资源分享</title>
             <link>https://hy6xing.cn/2022/08/07/%E6%89%8B%E6%9C%BA/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/</link>
             <category term="手机" scheme="https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/" />
-            <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
             <category term="教程" scheme="https://hy6xing.cn/tags/%E6%95%99%E7%A8%8B/" />
+            <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
             <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
             <pubDate>Sun, 07 Aug 2022 13:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;最新资源分享&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#最新资源分享&#34;&gt;#&lt;/a&gt; 最新资源分享&lt;/h2&gt;
@@ -555,9 +554,9 @@ PS Touch: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxh
 &lt;p&gt;去广告，去更新，试听所有歌曲&lt;/p&gt;
 &lt;p&gt;夸克链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4ucXVhcmsuY24vcy80MWFlMzc3OTc0NzI=&#34;&gt;https://pan.quark.cn/s/41ae37797472&lt;/span&gt;&lt;/p&gt;
 &lt;div class=&#34;note danger&#34;&gt;
-&lt;p&gt;安卓版已失效・寻找可用版本中・PC 正常&lt;/p&gt;
+&lt;p&gt;已失效・寻找可用版本中・&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;请转到置顶文字静态资源帖&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;请转到・置顶文章・静态资源・帖&lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&#34;网易云音乐&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网易云音乐&#34;&gt;#&lt;/a&gt; 网易云音乐&lt;/h2&gt;
 &lt;p&gt;网易 - 8.8.06-8008006 修改版&lt;/p&gt;
 &lt;p&gt;夸克链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4ucXVhcmsuY24vcy84NWUxOWEzMGFiNTU=&#34;&gt;https://pan.quark.cn/s/85e19a30ab55&lt;/span&gt;&lt;/p&gt;

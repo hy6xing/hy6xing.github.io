@@ -19,8 +19,8 @@
             <title>AIMP本地音乐播放器-初音皮肤</title>
             <link>https://hy6xing.cn/2023/02/17/PC/AIMP%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/</link>
             <category term="笔记" scheme="https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/" />
-            <category term="手机" scheme="https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/" />
             <category term="PC" scheme="https://hy6xing.cn/categories/PC/" />
+            <category term="手机" scheme="https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/" />
             <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
             <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
             <category term="主题" scheme="https://hy6xing.cn/tags/%E4%B8%BB%E9%A2%98/" />
@@ -213,9 +213,9 @@
             <category term="笔记" scheme="https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/" />
             <category term="手机" scheme="https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/" />
             <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
+            <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
             <category term="小米手机" scheme="https://hy6xing.cn/tags/%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA/" />
             <category term="MIUI" scheme="https://hy6xing.cn/tags/MIUI/" />
-            <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
             <pubDate>Fri, 10 Feb 2023 12:48:45 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;  为防止以后找不到，💻备份一下两款小米📱专用刷机工具&lt;mark&gt;闪米&lt;/mark&gt;&lt;sup&gt; (miflash)&lt;/sup&gt;&lt;br /&gt;
  1・miflash_pro   刷机工具更多，更全面。&lt;br /&gt;
@@ -243,9 +243,9 @@
             <category term="笔记" scheme="https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/" />
             <category term="手机" scheme="https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/" />
             <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
+            <category term="教程" scheme="https://hy6xing.cn/tags/%E6%95%99%E7%A8%8B/" />
             <category term="小米手机" scheme="https://hy6xing.cn/tags/%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA/" />
             <category term="MIUI" scheme="https://hy6xing.cn/tags/MIUI/" />
-            <category term="教程" scheme="https://hy6xing.cn/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 09 Feb 2023 21:52:01 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;   最全面的小米 miui 系统广告关闭。可能有人会问，这么简单的还有必要写个教程出来？&lt;br /&gt;
 没错，对懂得人来说，再简单不过。&lt;br /&gt;
@@ -519,10 +519,10 @@
 &lt;li&gt;无需登录也可正常使用&lt;/li&gt;
 &lt;li&gt;VIP 无损等直接听下载&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;9.1.1.2 版&lt;span class=&#34;rainbow&#34;&gt;已失效・・・&lt;/span&gt;蓝奏云：&lt;s&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lmWVYxMG56bG5qYw==&#34;&gt;https://hy6xing.lanzouw.com/ifYV10nzlnjc&lt;/span&gt;&lt;/s&gt;&lt;/p&gt;
-&lt;div class=&#34;note danger&#34;&gt;
-&lt;p&gt;已失效・寻找可用版本中・・・&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;9.1.1.2 版&lt;span class=&#34;rainbow&#34;&gt;已更新・・・&lt;/span&gt;&lt;span class=&#34;label success&#34;&gt;✔️可用&lt;/span&gt;&lt;/p&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;下载链接&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lmWVYxMG56bG5qYw==&#34;&gt;蓝奏云&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
 &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;安卓版请往下翻&lt;/span&gt;&lt;/p&gt;
 &lt;hr /&gt;
 &lt;hr /&gt;
@@ -596,11 +596,22 @@
 &lt;hr /&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg9.doubanio.com%2Fview%2Fgroup_topic%2Fraw%2Fpublic%2Fp281812384.jpg&amp;amp;refer=http%3A%2F%2Fimg9.doubanio.com&amp;amp;app=2002&amp;amp;size=f9999,10000&amp;amp;q=a80&amp;amp;n=0&amp;amp;g=0n&amp;amp;fmt=auto?sec=1678872874&amp;amp;t=a5b0587da2559da9029c5ae1fff0d352&#34; alt=&#34;&#34; width=&#34;270&#34; /&gt;&lt;br /&gt;
 &lt;img data-src=&#34;https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg1.doubanio.com%2Fview%2Fgroup_topic%2Fraw%2Fpublic%2Fp281812147.jpg&amp;amp;refer=http%3A%2F%2Fimg1.doubanio.com&amp;amp;app=2002&amp;amp;size=f9999,10000&amp;amp;q=a80&amp;amp;n=0&amp;amp;g=0n&amp;amp;fmt=auto?sec=1678872851&amp;amp;t=c0040838fa1983502b24b7283f2037fb&#34; alt=&#34;&#34; width=&#34;200&#34; /&gt;&lt;/p&gt;
-&lt;h2 id=&#34;最后更新&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#最后更新&#34;&gt;#&lt;/a&gt; 最后更新&lt;/h2&gt;
+&lt;h2 id=&#34;更新记录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#更新记录&#34;&gt;#&lt;/a&gt; 更新记录&lt;/h2&gt;
+&lt;details class=&#34;info&#34;&gt;&lt;summary&gt;更新内容&lt;/summary&gt;&lt;div&gt;
+&lt;ul&gt;
+&lt;li&gt;2023-02-16 更换失效酷我音乐安卓版本&lt;/li&gt;
+&lt;li&gt;2023-02-18 转移百度网盘酷我音乐安卓版链接至 123 网盘加速下载&lt;/li&gt;
+&lt;li&gt;2023-02-19 酷我音乐 PC 版恢复正常&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;最后更新时间&lt;/p&gt;
+&lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;2023-02-05&lt;/li&gt;
 &lt;li&gt;2023-02-09&lt;/li&gt;
 &lt;li&gt;2023-02-18&lt;/li&gt;
+&lt;li&gt;2023-02-19&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>

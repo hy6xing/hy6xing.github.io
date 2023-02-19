@@ -590,6 +590,8 @@
 &lt;h2 id=&#34;更新记录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#更新记录&#34;&gt;#&lt;/a&gt; 更新记录&lt;/h2&gt;
 &lt;details class=&#34;info&#34;&gt;&lt;summary&gt;更新内容&lt;/summary&gt;&lt;div&gt;
 &lt;ul&gt;
+&lt;li&gt;2023-02-04 创建长期资源&lt;/li&gt;
+&lt;li&gt;2023-02-09 转移 100M 以下安卓应用至蓝奏云&lt;/li&gt;
 &lt;li&gt;2023-02-16 更换失效酷我音乐安卓版本&lt;/li&gt;
 &lt;li&gt;2023-02-18 转移百度网盘酷我音乐安卓版链接至 123 网盘加速下载&lt;/li&gt;
 &lt;li&gt;2023-02-19 酷我音乐 PC 版恢复正常&lt;/li&gt;
@@ -757,8 +759,8 @@
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s&#34;&gt;Deployment&lt;/span&gt;&lt;/p&gt;
 </content>
-        <category term="日记" scheme="https://hy6xing.cn/categories/%E6%97%A5%E8%AE%B0/" />
         <category term="笔记" scheme="https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/" />
+        <category term="日记" scheme="https://hy6xing.cn/categories/%E6%97%A5%E8%AE%B0/" />
         <category term="介绍" scheme="https://hy6xing.cn/tags/%E4%BB%8B%E7%BB%8D/" />
         <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
         <category term="站点" scheme="https://hy6xing.cn/tags/%E7%AB%99%E7%82%B9/" />

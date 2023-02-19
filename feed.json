@@ -7,6 +7,19 @@
     "home_page_url": "https://hy6xing.cn",
     "items": [
         {
+            "id": "https://hy6xing.cn/2023/02/19/%E7%AC%94%E8%AE%B0/%E7%94%B5%E8%84%91%E5%89%AF%E5%B1%8Fspacedesk/",
+            "url": "https://hy6xing.cn/2023/02/19/%E7%AC%94%E8%AE%B0/%E7%94%B5%E8%84%91%E5%89%AF%E5%B1%8Fspacedesk/",
+            "title": "spacedesk",
+            "date_published": "2023-02-19T13:18:35.000Z",
+            "content_html": "<p>  <span class=\"label primary\">spacedesk</span> 可以将我们的手机当做电脑副屏来使用，这里提供的是<span class=\"label warning\"> Windws 10/11 (64-bit)</span> 版本。<br />\n以及安卓的 0.91.3 汉化版，PC 官方原本，未汉化，别问为什么，问就是不会。<br />\n也没啥需要设置，打开就能用，下面有拍照翻译图。<br />\n<img data-src=\"https://s2.loli.net/2023/02/19/qfI41P5JEGx8evL.jpg\" alt=\"spacedesk.jpg\" /></p>\n<div class=\"note info\">\n<p>使用方法</p>\n</div>\n<ul>\n<li>安装好 PC 与安卓端</li>\n<li>打开好两端软件接入同一个局域网（WiFi）</li>\n<li>在手机上连接</li>\n<li>电脑好确认即可</li>\n<li>电脑打开<span class=\"label info\">显示设置</span> 在<span class=\"label info\">屏幕</span>里设置好就 OK 啦</li>\n</ul>\n<div class=\"note warning\">\n<p>注意：安卓汉化是用 mt 管理器改完签名打包的，提示默认签名安装可能会报毒，报毒的话忽略就好，但我安装时并未报毒。</p>\n</div>\n<details class=\"primary\"><summary>下载链接</summary><div>\n<ul>\n<li><span class=\"exturl\" data-url=\"aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2IwNDdxeWQ0ag==\">蓝奏云</span></li>\n<li>密码: <code>2pyl</code></li>\n</ul>\n</div></details>\n<p><span class=\"label info\">spacedesk 官方网站☞</span><span class=\"label danger\"><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuc3BhY2VkZXNrLm5ldC8=\">https://www.spacedesk.net/</span></span><br />\n<span class=\"label danger\"> 注意</span> <span class=\"rainbow\">需要科学上网才能访问～</span></p>\n",
+            "tags": [
+                "笔记",
+                "站点",
+                "资源分享",
+                "彩蛋"
+            ]
+        },
+        {
             "id": "https://hy6xing.cn/2023/02/17/PC/AIMP%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/",
             "url": "https://hy6xing.cn/2023/02/17/PC/AIMP%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/",
             "title": "AIMP本地音乐播放器-初音皮肤",
@@ -180,8 +193,8 @@
             "date_published": "2022-04-01T14:40:01.000Z",
             "content_html": "<p>This is your very first post. Check <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv\">documentation</span> for more info. If you get any problems when using Hexo, you can find the answer in <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=\">troubleshooting</span> or you can ask me on <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==\">GitHub</span>.</p>\n<h2 id=\"quick-start\"><a class=\"anchor\" href=\"#quick-start\">#</a> Quick Start</h2>\n<h3 id=\"create-a-new-post\"><a class=\"anchor\" href=\"#create-a-new-post\">#</a> Create a new post</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo new <span class=\"string\">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s\">Writing</span></p>\n<h3 id=\"run-server\"><a class=\"anchor\" href=\"#run-server\">#</a> Run server</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo server</span><br></pre></td></tr></table></figure>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=\">Server</span></p>\n<h3 id=\"generate-static-files\"><a class=\"anchor\" href=\"#generate-static-files\">#</a> Generate static files</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo generate</span><br></pre></td></tr></table></figure>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s\">Generating</span></p>\n<h3 id=\"deploy-to-remote-sites\"><a class=\"anchor\" href=\"#deploy-to-remote-sites\">#</a> Deploy to remote sites</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo deploy</span><br></pre></td></tr></table></figure>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s\">Deployment</span></p>\n",
             "tags": [
-                "笔记",
                 "日记",
+                "笔记",
                 "介绍",
                 "笔记",
                 "站点"

@@ -8,9 +8,45 @@
     <author>
       <name>零躺躺&amp;夜灵</name>
     </author>
-    <updated>2023-02-17T12:18:11.000Z</updated>
+    <updated>2023-02-19T13:18:35.000Z</updated>
     <category term="六星虚拟网络，hy6xing" />
     <category term="零躺躺，六星，博客，博客网站，个人博客，win10美化，雨滴，雨滴桌面，雨滴皮肤，教程" />
+    <entry>
+        <id>https://hy6xing.cn/2023/02/19/%E7%AC%94%E8%AE%B0/%E7%94%B5%E8%84%91%E5%89%AF%E5%B1%8Fspacedesk/</id>
+        <title>spacedesk</title>
+        <link rel="alternate" href="https://hy6xing.cn/2023/02/19/%E7%AC%94%E8%AE%B0/%E7%94%B5%E8%84%91%E5%89%AF%E5%B1%8Fspacedesk/"/>
+        <content type="html">&lt;p&gt;  &lt;span class=&#34;label primary&#34;&gt;spacedesk&lt;/span&gt; 可以将我们的手机当做电脑副屏来使用，这里提供的是&lt;span class=&#34;label warning&#34;&gt; Windws 10/11 (64-bit)&lt;/span&gt; 版本。&lt;br /&gt;
+以及安卓的 0.91.3 汉化版，PC 官方原本，未汉化，别问为什么，问就是不会。&lt;br /&gt;
+也没啥需要设置，打开就能用，下面有拍照翻译图。&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/19/qfI41P5JEGx8evL.jpg&#34; alt=&#34;spacedesk.jpg&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;使用方法&lt;/p&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;安装好 PC 与安卓端&lt;/li&gt;
+&lt;li&gt;打开好两端软件接入同一个局域网（WiFi）&lt;/li&gt;
+&lt;li&gt;在手机上连接&lt;/li&gt;
+&lt;li&gt;电脑好确认即可&lt;/li&gt;
+&lt;li&gt;电脑打开&lt;span class=&#34;label info&#34;&gt;显示设置&lt;/span&gt; 在&lt;span class=&#34;label info&#34;&gt;屏幕&lt;/span&gt;里设置好就 OK 啦&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;note warning&#34;&gt;
+&lt;p&gt;注意：安卓汉化是用 mt 管理器改完签名打包的，提示默认签名安装可能会报毒，报毒的话忽略就好，但我安装时并未报毒。&lt;/p&gt;
+&lt;/div&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;下载链接&lt;/summary&gt;&lt;div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2IwNDdxeWQ0ag==&#34;&gt;蓝奏云&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;密码: &lt;code&gt;2pyl&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;p&gt;&lt;span class=&#34;label info&#34;&gt;spacedesk 官方网站☞&lt;/span&gt;&lt;span class=&#34;label danger&#34;&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc3BhY2VkZXNrLm5ldC8=&#34;&gt;https://www.spacedesk.net/&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;label danger&#34;&gt; 注意&lt;/span&gt; &lt;span class=&#34;rainbow&#34;&gt;需要科学上网才能访问～&lt;/span&gt;&lt;/p&gt;
+</content>
+        <category term="笔记" scheme="https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/" />
+        <category term="站点" scheme="https://hy6xing.cn/tags/%E7%AB%99%E7%82%B9/" />
+        <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
+        <category term="彩蛋" scheme="https://hy6xing.cn/tags/%E5%BD%A9%E8%9B%8B/" />
+        <updated>2023-02-19T13:18:35.000Z</updated>
+    </entry>
     <entry>
         <id>https://hy6xing.cn/2023/02/17/PC/AIMP%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/</id>
         <title>AIMP本地音乐播放器-初音皮肤</title>
@@ -759,8 +795,8 @@
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s&#34;&gt;Deployment&lt;/span&gt;&lt;/p&gt;
 </content>
-        <category term="笔记" scheme="https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/" />
         <category term="日记" scheme="https://hy6xing.cn/categories/%E6%97%A5%E8%AE%B0/" />
+        <category term="笔记" scheme="https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/" />
         <category term="介绍" scheme="https://hy6xing.cn/tags/%E4%BB%8B%E7%BB%8D/" />
         <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
         <category term="站点" scheme="https://hy6xing.cn/tags/%E7%AB%99%E7%82%B9/" />

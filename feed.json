@@ -31,9 +31,9 @@
                 "手机",
                 "笔记",
                 "资源分享",
-                "美化",
                 "主题",
-                "彩蛋"
+                "彩蛋",
+                "美化"
             ]
         },
         {
@@ -168,9 +168,9 @@
             "content_html": "<h2 id=\"simplux_2雨滴桌面皮肤\"><a class=\"anchor\" href=\"#simplux_2雨滴桌面皮肤\">#</a> simplux_2 雨滴桌面皮肤</h2>\n<ul>\n<li>封面主题</li>\n</ul>\n<p><img data-src=\"https://s2.loli.net/2023/02/05/ojQ31yaRubh9EIv.png\" alt=\"simplux_2.png\" /></p>\n<p>下载地址：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lqMExTMDJtaWJrag==\">蓝奏云</span></p>\n<ul>\n<li>时钟音普可视化插件</li>\n</ul>\n<p><img data-src=\"https://s2.loli.net/2023/02/07/TEkIj7Amo85BSqf.gif\" alt=\"shizhong.gif\" /></p>\n<p>下载地址：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lRekZLMDJtaTBvaA==\">蓝奏云</span></p>\n<p>其他插件:</p>\n<ul>\n<li>\n<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2l1OXpRMDJtaTB2ZQ==\">卡布娘，阿狸，风之铃</span></p>\n<p>解压后为 rmskin 后缀可直接安装，为文件夹类型自行移动至雨滴皮肤目录刷新皮肤即可。</p>\n</li>\n</ul>\n",
             "tags": [
                 "PC",
+                "主题",
                 "美化",
                 "Rainmeter",
-                "主题",
                 "雨滴皮肤"
             ]
         },
@@ -193,8 +193,8 @@
             "date_published": "2022-04-01T14:40:01.000Z",
             "content_html": "<p>This is your very first post. Check <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv\">documentation</span> for more info. If you get any problems when using Hexo, you can find the answer in <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=\">troubleshooting</span> or you can ask me on <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==\">GitHub</span>.</p>\n<h2 id=\"quick-start\"><a class=\"anchor\" href=\"#quick-start\">#</a> Quick Start</h2>\n<h3 id=\"create-a-new-post\"><a class=\"anchor\" href=\"#create-a-new-post\">#</a> Create a new post</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo new <span class=\"string\">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s\">Writing</span></p>\n<h3 id=\"run-server\"><a class=\"anchor\" href=\"#run-server\">#</a> Run server</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo server</span><br></pre></td></tr></table></figure>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=\">Server</span></p>\n<h3 id=\"generate-static-files\"><a class=\"anchor\" href=\"#generate-static-files\">#</a> Generate static files</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo generate</span><br></pre></td></tr></table></figure>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s\">Generating</span></p>\n<h3 id=\"deploy-to-remote-sites\"><a class=\"anchor\" href=\"#deploy-to-remote-sites\">#</a> Deploy to remote sites</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo deploy</span><br></pre></td></tr></table></figure>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s\">Deployment</span></p>\n",
             "tags": [
-                "日记",
                 "笔记",
+                "日记",
                 "介绍",
                 "笔记",
                 "站点"

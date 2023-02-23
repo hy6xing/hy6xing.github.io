@@ -247,6 +247,27 @@
   </url>
   
   <url>
+    <loc>https://hy6xing.cn/tags/%E5%A5%87%E8%91%A9%E4%BA%8B%E4%BB%B6/</loc>
+    <lastmod>2023-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hy6xing.cn/tags/%E6%96%B0%E9%97%BB/</loc>
+    <lastmod>2023-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hy6xing.cn/tags/%E7%81%B5%E5%BC%82%E4%BA%8B%E4%BB%B6/</loc>
+    <lastmod>2023-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://hy6xing.cn/tags/%E4%B8%BB%E9%A2%98/</loc>
     <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -337,38 +358,17 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://hy6xing.cn/tags/%E5%A5%87%E8%91%A9%E4%BA%8B%E4%BB%B6/</loc>
-    <lastmod>2023-02-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hy6xing.cn/tags/%E6%96%B0%E9%97%BB/</loc>
-    <lastmod>2023-02-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hy6xing.cn/tags/%E7%81%B5%E5%BC%82%E4%BA%8B%E4%BB%B6/</loc>
-    <lastmod>2023-02-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
-    <loc>https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://hy6xing.cn/categories/%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hy6xing.cn/categories/%E6%97%A5%E8%AE%B0/</loc>
+    <loc>https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -382,14 +382,14 @@
   </url>
   
   <url>
-    <loc>https://hy6xing.cn/categories/PC/</loc>
+    <loc>https://hy6xing.cn/categories/%E6%96%B0%E9%97%BB/</loc>
     <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hy6xing.cn/categories/%E6%96%B0%E9%97%BB/</loc>
+    <loc>https://hy6xing.cn/categories/PC/</loc>
     <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

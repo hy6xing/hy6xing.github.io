@@ -176,9 +176,9 @@
         <category term="手机" scheme="https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/" />
         <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
         <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
+        <category term="美化" scheme="https://hy6xing.cn/tags/%E7%BE%8E%E5%8C%96/" />
         <category term="主题" scheme="https://hy6xing.cn/tags/%E4%B8%BB%E9%A2%98/" />
         <category term="彩蛋" scheme="https://hy6xing.cn/tags/%E5%BD%A9%E8%9B%8B/" />
-        <category term="美化" scheme="https://hy6xing.cn/tags/%E7%BE%8E%E5%8C%96/" />
         <updated>2023-02-17T12:18:11.000Z</updated>
     </entry>
     <entry>
@@ -302,61 +302,61 @@
 &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;涉及应用&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/aFou5DY7er8JMKP.jpg&#34; alt=&#34;&#34; width=&#34;300px&#34; /&gt;&lt;/p&gt;
-&lt;h4 id=&#34;天气&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#天气&#34;&gt;#&lt;/a&gt; 天气&lt;/h4&gt;
-&lt;div class=&#34;note primary&#34;&gt;
-&lt;p&gt;天气&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;打开天气 - 右上角 3 个点里➡️选择&lt;mark&gt;设置&lt;/mark&gt;➡️下拉到&lt;mark&gt;用户体验计划&lt;/mark&gt;➡️关闭右边开关&lt;br /&gt;
-&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/mod6ORZ1QGYBlWy.jpg&#34; alt=&#34;天气.jpg&#34; /&gt;&lt;/p&gt;
-&lt;h4 id=&#34;日历&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#日历&#34;&gt;#&lt;/a&gt; 日历&lt;/h4&gt;
-&lt;div class=&#34;note primary&#34;&gt;
-&lt;p&gt;日历&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;同上操作：打开日历➡️右上角&lt;mark&gt;设置&lt;/mark&gt;➡️&lt;mark&gt;用户体验计划&lt;/mark&gt;➡️关掉开关&lt;br /&gt;
-&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/KZPnWSAmjQc6X7F.png&#34; alt=&#34;日历.png&#34; /&gt;&lt;/p&gt;
-&lt;h4 id=&#34;手机管家&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#手机管家&#34;&gt;#&lt;/a&gt; 手机管家&lt;/h4&gt;
-&lt;div class=&#34;note primary&#34;&gt;
-&lt;p&gt;手机管家&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;打开手机管家 ➡️ 右上角&lt;mark&gt;设置&lt;/mark&gt;➡️下拉到 &lt;mark&gt;内容推荐设置&lt;/mark&gt; ➡️ 关掉开关。&lt;br /&gt;
-点击 ➡️ &lt;mark&gt;垃圾清理&lt;/mark&gt; 下拉到&lt;mark&gt;内容推荐设置&lt;/mark&gt; ➡️ 关掉开关。&lt;br /&gt;
-&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/NhuR516pdj3oXec.png&#34; alt=&#34;管家.png&#34; /&gt;&lt;/p&gt;
-&lt;h4 id=&#34;下载管理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#下载管理&#34;&gt;#&lt;/a&gt; 下载管理&lt;/h4&gt;
-&lt;div class=&#34;note primary&#34;&gt;
-&lt;p&gt;下载管理&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;打开&lt;mark&gt;下载管理&lt;/mark&gt;&lt;sup&gt; (在桌面的 == 系统工具 == 文件夹里)&lt;/sup&gt; ➡️ 右上角&lt;mark&gt;设置&lt;/mark&gt; ➡️ &lt;mark&gt;信息流设置&lt;/mark&gt; 3 个全部关掉&lt;br /&gt;
-&lt;img data-src=&#34;https://s2.loli.net/2023/02/10/AHr9BapPh1VniwW.png&#34; alt=&#34;下载.png&#34; /&gt;&lt;/p&gt;
-&lt;h4 id=&#34;应用安装器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用安装器&#34;&gt;#&lt;/a&gt; 应用安装器&lt;/h4&gt;
-&lt;div class=&#34;note primary&#34;&gt;
-&lt;p&gt;应用安装器&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;安装应用的时候如果有广告，就点右上角 &lt;mark&gt;⚙&lt;/mark&gt; 设置里关掉推荐&lt;br /&gt;
-&lt;img data-src=&#34;https://s2.loli.net/2023/02/13/GgZhXU6vr4udwF5.jpg&#34; alt=&#34;应该安装界面.jpg&#34; /&gt;&lt;/p&gt;
-&lt;h4 id=&#34;应用商店&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用商店&#34;&gt;#&lt;/a&gt; 应用商店&lt;/h4&gt;
-&lt;div class=&#34;note primary&#34;&gt;
-&lt;p&gt;应用商店&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;打开应用商店 ➡️右下角&lt;mark&gt;我的&lt;/mark&gt; ➡️ 右上角&lt;mark&gt;⚙&lt;/mark&gt;设置 ➡️&lt;mark&gt;通知设置&lt;/mark&gt;看你的喜好选择性关掉&lt;br /&gt;
-同样设置界面下拉→&lt;mark&gt;功能设置&lt;/mark&gt; 关掉福利活动&lt;br /&gt;
-&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/zY2gJXRnZV9xmsE.png&#34; alt=&#34;应用商店.png&#34; /&gt;&lt;/p&gt;
-&lt;h4 id=&#34;自带浏览器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自带浏览器&#34;&gt;#&lt;/a&gt; 自带浏览器&lt;/h4&gt;
-&lt;div class=&#34;note primary&#34;&gt;
-&lt;p&gt;浏览器&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;打开浏览器右下角&lt;mark&gt;菜单&lt;/mark&gt; ➡️&lt;mark&gt;⚙&lt;/mark&gt; ➡️ &lt;mark&gt;信息通知管理&lt;/mark&gt; ➡️ 可全部关掉&lt;br /&gt;
-&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/o8RHizJX4fWq2Lw.png&#34; alt=&#34;浏览器.png&#34; /&gt;&lt;br /&gt;
- 同样的&lt;mark&gt;⚙&lt;/mark&gt;设置里面上面的&lt;mark&gt;主页设置&lt;/mark&gt;  选中 &lt;mark&gt;简洁版&lt;/mark&gt; 即可，所有的&lt;mark&gt;推送&lt;/mark&gt;全部关掉&lt;br /&gt;
-就可以得到下图简洁的浏览器界面&lt;/p&gt;
-&lt;p&gt;浏览器界面&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/aJxh1Y2uQZTNbXi.jpg&#34; alt=&#34;&#34; width=&#34;180&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/aFou5DY7er8JMKP.jpg&#34; width=&#34;300px&#34;&gt;
+#### 天气
+:::primary
+天气
+:::
+打开天气-右上角3个点里➡️选择==设置==➡️下拉到==用户体验计划==➡️关闭右边开关
+![天气.jpg](https://s2.loli.net/2023/02/09/mod6ORZ1QGYBlWy.jpg)
+#### 日历
+:::primary
+日历
+:::
+同上操作：打开日历➡️右上角==设置==➡️==用户体验计划==➡️关掉开关
+![日历.png](https://s2.loli.net/2023/02/09/KZPnWSAmjQc6X7F.png)
+#### 手机管家
+:::primary
+手机管家
+:::
+ 打开手机管家 ➡️ 右上角==设置==➡️下拉到 ==内容推荐设置== ➡️ 关掉开关。
+ 点击 ➡️ ==垃圾清理== 下拉到==内容推荐设置== ➡️ 关掉开关。
+![管家.png](https://s2.loli.net/2023/02/09/NhuR516pdj3oXec.png)
+#### 下载管理
+:::primary
+下载管理
+:::
+打开==下载管理==^(在桌面的==系统工具==文件夹里)^ ➡️ 右上角==设置== ➡️ ==信息流设置== 3个全部关掉
+![下载.png](https://s2.loli.net/2023/02/10/AHr9BapPh1VniwW.png)  
+#### 应用安装器 
+:::primary
+应用安装器
+::: 
+安装应用的时候如果有广告，就点右上角 ==⚙== 设置里关掉推荐  
+![应该安装界面.jpg](https://s2.loli.net/2023/02/13/GgZhXU6vr4udwF5.jpg)
+#### 应用商店
+:::primary
+应用商店
+:::
+打开应用商店 ➡️右下角==我的== ➡️ 右上角==⚙==设置 ➡️==通知设置==看你的喜好选择性关掉  
+同样设置界面下拉→==功能设置== 关掉福利活动
+![应用商店.png](https://s2.loli.net/2023/02/09/zY2gJXRnZV9xmsE.png)
+#### 自带浏览器
+:::primary
+浏览器
+:::
+打开浏览器右下角==菜单== ➡️==⚙== ➡️ ==信息通知管理== ➡️ 可全部关掉
+![浏览器.png](https://s2.loli.net/2023/02/09/o8RHizJX4fWq2Lw.png)
+同样的==⚙==设置里面上面的==主页设置==  选中 ==简洁版== 即可，所有的==推送==全部关掉
+就可以得到下图简洁的浏览器界面
+&lt;p&gt;浏览器界面&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/aJxh1Y2uQZTNbXi.jpg&#34; width=180&gt;&lt;/p&gt;
 &lt;h4 id=&#34;下拉类通知面广告&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#下拉类通知面广告&#34;&gt;#&lt;/a&gt; 下拉类通知面广告&lt;/h4&gt;
 &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;状态栏下拉&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;除去系统之外你也会遇到一些 &lt;mark&gt;下拉通知栏&lt;/mark&gt; （图下图）的第三方应用推送的广告。&lt;br /&gt;
 每次都要点❌   关键是点完下次还会有。&lt;br /&gt;
-&lt;img data-src=&#34;https://i.niupic.com/images/2023/02/10/ajXk.jpg&#34; alt=&#34;下拉图例&#34; width=&#34;200&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://i.niupic.com/images/2023/02/10/ajXk.jpg&#34; width=200&gt;&lt;br /&gt;
 处理起来也很简单 &lt;mark&gt;长按&lt;/mark&gt; 你要管理的条条 弹出 &lt;mark&gt;更多设置&lt;/mark&gt; 通知类别 &lt;mark&gt;运营信息&lt;/mark&gt; 全部关掉或者选择性关掉。除了&lt;mark&gt;运营信息&lt;/mark&gt;外也还可能有别的 也可以选择性关闭。以后就不会再弹啦😁&lt;br /&gt;
 &lt;img data-src=&#34;https://s2.loli.net/2023/02/09/zeU7gPtXWKOhQq6.png&#34; alt=&#34;下拉.png&#34; /&gt;&lt;/p&gt;
 &lt;h4 id=&#34;关闭指定应用通知广告的推送&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#关闭指定应用通知广告的推送&#34;&gt;#&lt;/a&gt; 关闭指定应用通知广告的推送&lt;/h4&gt;
@@ -447,7 +447,7 @@
         <link rel="alternate" href="https://hy6xing.cn/2023/02/05/PC/%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/"/>
         <content type="html">&lt;p&gt;  前提说明一下，因为有些网盘有文件格式限制或者不支持分享，所以这里大多还是以百度网盘为主。&lt;br /&gt;
 大家也不用怕下载慢，&lt;br /&gt;
-有很多下载工具都可以跑 &lt;s&gt;慢速&lt;/s&gt; 满速 下载 &lt;img data-src=&#34;https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg3.doubanio.com%2Fview%2Fgroup_topic%2Fraw%2Fpublic%2Fp442720751.jpg&amp;amp;refer=http%3A%2F%2Fimg3.doubanio.com&amp;amp;app=2002&amp;amp;size=f9999,10000&amp;amp;q=a80&amp;amp;n=0&amp;amp;g=0n&amp;amp;fmt=auto?sec=1678873661&amp;amp;t=a9a5e0ab71822635ad2fb16822129cf1&#34; alt=&#34;&#34; width=&#34;40px&#34; /&gt;&lt;/p&gt;
+有很多下载工具都可以跑 &lt;s&gt;慢速&lt;/s&gt; 满速 下载 &lt;img data-src=&#34;https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg3.doubanio.com%2Fview%2Fgroup_topic%2Fraw%2Fpublic%2Fp442720751.jpg&amp;refer=http%3A%2F%2Fimg3.doubanio.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto?sec=1678873661&amp;t=a9a5e0ab71822635ad2fb16822129cf1&#34; width=&#34;40px&#34;&gt;&lt;/p&gt;
 &lt;p&gt;链接有失效过期的都可以联系我。&lt;/p&gt;
 &lt;h2 id=&#34;目录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#目录&#34;&gt;#&lt;/a&gt; 目录&lt;/h2&gt;
 &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;点击下面可跳至指定位置&lt;/span&gt;&lt;/p&gt;
@@ -507,11 +507,11 @@
 &lt;h3 id=&#34;geek&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#geek&#34;&gt;#&lt;/a&gt; geek&lt;/h3&gt;
 &lt;p&gt;geek 是我比较喜欢的 PC 端卸载工具。双击&lt;span class=&#34;label info&#34;&gt; geek.exe&lt;/span&gt; 即可运行无需安装。&lt;br /&gt;
 打开 Geek Uninstaller 后，就显示了你电脑上当前安装的桌面软件：&lt;br /&gt;
-&lt;img data-src=&#34;https://i.niupic.com/images/2023/02/09/ajSO.webp&#34; alt=&#34;&#34; width=&#34;240px&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;https://i.niupic.com/images/2023/02/09/ajSO.webp&#34; width=240px&gt;&lt;/p&gt;
 &lt;p&gt;在软件条目上右键点击，即可卸载该软件：&lt;br /&gt;
-&lt;img data-src=&#34;https://i.niupic.com/images/2023/02/09/ajSS.webp&#34; alt=&#34;&#34; width=&#34;240px&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://i.niupic.com/images/2023/02/09/ajSS.webp&#34; width=240px&gt;&lt;br /&gt;
 卸载完成后，Geek Uninstaller 会自动扫描残留文件与注册表：&lt;br /&gt;
-&lt;img data-src=&#34;https://i.niupic.com/images/2023/02/09/ajSX.jpg&#34; alt=&#34;&#34; width=&#34;240px&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://i.niupic.com/images/2023/02/09/ajSX.jpg&#34; width=240px&gt;&lt;br /&gt;
 点击&lt;span class=&#34;label success&#34;&gt;完成&lt;/span&gt;即可清理掉这些残留垃圾。&lt;/p&gt;
 &lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;下载链接&lt;/summary&gt;&lt;div&gt;
 &lt;ul&gt;
@@ -524,7 +524,7 @@
 &lt;li&gt;IObit Unlocker 在解决 “无法删除文件”，“访问被拒绝”，&lt;/li&gt;
 &lt;li&gt;“文件正被另一个程序或用户使用” 或 “存在共享冲突” 问题方面表现良好。&lt;/li&gt;
 &lt;li&gt;使用 IObit 解锁器，您可以按照自己的方式管理所有文件。&lt;br /&gt;
-&lt;img data-src=&#34;https://i.niupic.com/images/2023/02/09/ajSJ.JPG&#34; alt=&#34;&#34; width=&#34;370&#34; /&gt;&lt;/li&gt;
+&lt;img data-src=&#34;https://i.niupic.com/images/2023/02/09/ajSJ.JPG&#34; width=370&gt;&lt;/li&gt;
 &lt;li&gt;找到 “无法删除文件” 后，只需将它们拖放到 IObit 解锁器即可。然后，您可以根据需要快速解锁，重命名，复制或移动它们。无需复杂的操作。&lt;/li&gt;
 &lt;li&gt;官网：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaW9iaXQuY29tL2VuL2lvYml0LXVubG9ja2VyLnBocA==&#34;&gt;https://www.iobit.com/en/iobit-unlocker.php&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;下载速度慢可以用站长准备好的&lt;/li&gt;
@@ -614,8 +614,8 @@
 下载链接：&lt;span class=&#34;label info&#34;&gt;集合&lt;/span&gt;&lt;a href=&#34;#%E6%89%8B%E6%9C%BA&#34;&gt;百度网盘&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;待更新~&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#待更新~&#34;&gt;#&lt;/a&gt; 待更新～&lt;/h3&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg9.doubanio.com%2Fview%2Fgroup_topic%2Fraw%2Fpublic%2Fp281812384.jpg&amp;amp;refer=http%3A%2F%2Fimg9.doubanio.com&amp;amp;app=2002&amp;amp;size=f9999,10000&amp;amp;q=a80&amp;amp;n=0&amp;amp;g=0n&amp;amp;fmt=auto?sec=1678872874&amp;amp;t=a5b0587da2559da9029c5ae1fff0d352&#34; alt=&#34;&#34; width=&#34;270&#34; /&gt;&lt;br /&gt;
-&lt;img data-src=&#34;https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg1.doubanio.com%2Fview%2Fgroup_topic%2Fraw%2Fpublic%2Fp281812147.jpg&amp;amp;refer=http%3A%2F%2Fimg1.doubanio.com&amp;amp;app=2002&amp;amp;size=f9999,10000&amp;amp;q=a80&amp;amp;n=0&amp;amp;g=0n&amp;amp;fmt=auto?sec=1678872851&amp;amp;t=c0040838fa1983502b24b7283f2037fb&#34; alt=&#34;&#34; width=&#34;200&#34; /&gt;&lt;/p&gt;
+&lt;img data-src=&#34;https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg9.doubanio.com%2Fview%2Fgroup_topic%2Fraw%2Fpublic%2Fp281812384.jpg&amp;refer=http%3A%2F%2Fimg9.doubanio.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto?sec=1678872874&amp;t=a5b0587da2559da9029c5ae1fff0d352&#34; width=200&gt;  
+&lt;img data-src=&#34;https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg1.doubanio.com%2Fview%2Fgroup_topic%2Fraw%2Fpublic%2Fp281812147.jpg&amp;refer=http%3A%2F%2Fimg1.doubanio.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto?sec=1678872851&amp;t=c0040838fa1983502b24b7283f2037fb&#34; width=200&gt;  
 &lt;h2 id=&#34;更新记录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#更新记录&#34;&gt;#&lt;/a&gt; 更新记录&lt;/h2&gt;
 &lt;details class=&#34;info&#34;&gt;&lt;summary&gt;更新内容&lt;/summary&gt;&lt;div&gt;
 &lt;ul&gt;
@@ -748,9 +748,9 @@
 &lt;/ul&gt;
 </content>
         <category term="PC" scheme="https://hy6xing.cn/categories/PC/" />
-        <category term="主题" scheme="https://hy6xing.cn/tags/%E4%B8%BB%E9%A2%98/" />
         <category term="美化" scheme="https://hy6xing.cn/tags/%E7%BE%8E%E5%8C%96/" />
         <category term="Rainmeter" scheme="https://hy6xing.cn/tags/Rainmeter/" />
+        <category term="主题" scheme="https://hy6xing.cn/tags/%E4%B8%BB%E9%A2%98/" />
         <category term="雨滴皮肤" scheme="https://hy6xing.cn/tags/%E9%9B%A8%E6%BB%B4%E7%9A%AE%E8%82%A4/" />
         <updated>2022-04-04T16:14:35.000Z</updated>
     </entry>

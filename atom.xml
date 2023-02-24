@@ -9,8 +9,19 @@
       <name>零躺躺&amp;夜灵</name>
     </author>
     <updated>2023-02-19T13:18:35.000Z</updated>
-    <category term="六星虚拟网络，hy6xing" />
-    <category term="零躺躺，六星，博客，博客网站，个人博客，win10美化，雨滴，雨滴桌面，雨滴皮肤，教程" />
+    <category term="六星虚拟网络" />
+    <category term="hy6xing" />
+    <category term="零躺躺" />
+    <category term="六星" />
+    <category term="博客" />
+    <category term="博客网站" />
+    <category term="个人博客" />
+    <category term="win10美化" />
+    <category term="雨滴" />
+    <category term="雨滴桌面" />
+    <category term="雨滴皮肤" />
+    <category term="教程" />
+    <category term="酷我音乐" />
     <entry>
         <id>https://hy6xing.cn/2023/02/19/%E7%AC%94%E8%AE%B0/%E7%94%B5%E8%84%91%E5%89%AF%E5%B1%8Fspacedesk/</id>
         <title>spacedesk</title>
@@ -42,8 +53,8 @@
 &lt;span class=&#34;label danger&#34;&gt; 注意&lt;/span&gt; &lt;span class=&#34;rainbow&#34;&gt;需要科学上网才能访问～&lt;/span&gt;&lt;/p&gt;
 </content>
         <category term="笔记" scheme="https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/" />
-        <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
         <category term="站点" scheme="https://hy6xing.cn/tags/%E7%AB%99%E7%82%B9/" />
+        <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
         <category term="彩蛋" scheme="https://hy6xing.cn/tags/%E5%BD%A9%E8%9B%8B/" />
         <updated>2023-02-19T13:18:35.000Z</updated>
     </entry>
@@ -171,8 +182,8 @@
 &lt;h1 id=&#34;完~&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#完~&#34;&gt;#&lt;/a&gt; 完～😁&lt;/h1&gt;
 &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;我这毅力可以吧？写了这么多翻译。&lt;/span&gt; 😁😁&lt;/p&gt;
 </content>
-        <category term="PC" scheme="https://hy6xing.cn/categories/PC/" />
         <category term="笔记" scheme="https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/" />
+        <category term="PC" scheme="https://hy6xing.cn/categories/PC/" />
         <category term="手机" scheme="https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/" />
         <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
         <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
@@ -574,10 +585,14 @@
 &lt;h3 id=&#34;酷我音乐&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#酷我音乐&#34;&gt;#&lt;/a&gt; 酷我音乐&lt;/h3&gt;
 &lt;p&gt;💔 酷我音乐 10.1.6.0 版本&lt;span class=&#34;rainbow&#34;&gt;已失效・・・&lt;/span&gt;&lt;br /&gt;
 💔度盘：&lt;s&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMVVJMTVTQ2wtYTRnV29IMlVuWFJ1cGc/cHdkPXFxZGM=&#34;&gt;https://pan.baidu.com/s/1UI15SCl-a4gWoH2UnXRupg?pwd=qqdc&lt;/span&gt;&lt;/s&gt;&lt;/p&gt;
-&lt;p&gt;💔酷我音乐 10.3.4.6 版本&lt;span class=&#34;rainbow&#34;&gt;已失效・・・&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;💔酷我音乐 10.3.4.6 版本&lt;span class=&#34;rainbow&#34;&gt;已失效・・・&lt;/span&gt;&lt;br /&gt;
+💔123 云盘：&lt;s&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuMTIzcGFuLmNvbS9zLzRqcjdWdi1ZYnhxZA==&#34;&gt;https://www.123pan.com/s/4jr7Vv-Ybxqd&lt;/span&gt;&lt;/s&gt;&lt;/p&gt;
+&lt;p&gt;酷我音乐 10.1.1.3 旧版&lt;span class=&#34;label success&#34;&gt;✔️可用&lt;/span&gt;&lt;/p&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;下载链接&lt;/summary&gt;&lt;div&gt;
 &lt;ul&gt;
-&lt;li&gt;123 云盘：&lt;s&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuMTIzcGFuLmNvbS9zLzRqcjdWdi1ZYnhxZA==&#34;&gt;https://www.123pan.com/s/4jr7Vv-Ybxqd&lt;/span&gt;&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lyaGdOMG9nMmJ6ZQ==&#34;&gt;酷我音乐 10.1.1.3 蓝奏云&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/div&gt;&lt;/details&gt;
 &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;PC 版请往上翻&lt;/span&gt;&lt;/p&gt;
 &lt;h3 id=&#34;李跳跳-派大星201&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#李跳跳-派大星201&#34;&gt;#&lt;/a&gt; 李跳跳 - 派大星 2.01&lt;/h3&gt;
 &lt;ul&gt;
@@ -637,8 +652,8 @@
 &lt;/ul&gt;
 </content>
         <category term="PC" scheme="https://hy6xing.cn/categories/PC/" />
-        <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
         <category term="站点" scheme="https://hy6xing.cn/tags/%E7%AB%99%E7%82%B9/" />
+        <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
         <category term="彩蛋" scheme="https://hy6xing.cn/tags/%E5%BD%A9%E8%9B%8B/" />
         <category term="（｡ò ∀ ó｡）" scheme="https://hy6xing.cn/tags/%EF%BC%88%EF%BD%A1o-%E2%88%80-o%EF%BD%A1%EF%BC%89/" />
         <updated>2023-02-05T05:23:35.000Z</updated>
@@ -790,8 +805,8 @@
 </content>
         <category term="日记" scheme="https://hy6xing.cn/categories/%E6%97%A5%E8%AE%B0/" />
         <category term="笔记" scheme="https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/" />
-        <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
         <category term="介绍" scheme="https://hy6xing.cn/tags/%E4%BB%8B%E7%BB%8D/" />
+        <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
         <category term="站点" scheme="https://hy6xing.cn/tags/%E7%AB%99%E7%82%B9/" />
         <updated>2022-04-01T14:40:01.000Z</updated>
     </entry>

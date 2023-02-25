@@ -187,9 +187,9 @@
         <category term="手机" scheme="https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/" />
         <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
         <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
-        <category term="美化" scheme="https://hy6xing.cn/tags/%E7%BE%8E%E5%8C%96/" />
         <category term="主题" scheme="https://hy6xing.cn/tags/%E4%B8%BB%E9%A2%98/" />
         <category term="彩蛋" scheme="https://hy6xing.cn/tags/%E5%BD%A9%E8%9B%8B/" />
+        <category term="美化" scheme="https://hy6xing.cn/tags/%E7%BE%8E%E5%8C%96/" />
         <updated>2023-02-17T12:18:11.000Z</updated>
     </entry>
     <entry>
@@ -394,44 +394,67 @@
         <category term="笔记" scheme="https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/" />
         <category term="手机" scheme="https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/" />
         <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
-        <category term="教程" scheme="https://hy6xing.cn/tags/%E6%95%99%E7%A8%8B/" />
         <category term="小米手机" scheme="https://hy6xing.cn/tags/%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA/" />
         <category term="MIUI" scheme="https://hy6xing.cn/tags/MIUI/" />
+        <category term="教程" scheme="https://hy6xing.cn/tags/%E6%95%99%E7%A8%8B/" />
         <updated>2023-02-09T13:52:01.000Z</updated>
     </entry>
     <entry>
-        <id>https://hy6xing.cn/2023/02/08/PC/AGC%E7%9B%B8%E6%9C%BA/</id>
+        <id>https://hy6xing.cn/2023/02/08/%E6%89%8B%E6%9C%BA/AGC%E7%9B%B8%E6%9C%BA/</id>
         <title>安卓AGC相机</title>
-        <link rel="alternate" href="https://hy6xing.cn/2023/02/08/PC/AGC%E7%9B%B8%E6%9C%BA/"/>
-        <content type="html">&lt;p&gt;安卓端强大的第三方相机 AGC。&lt;br /&gt;
-链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMXQ5VzJRSkFrRm9GUzhKZ3U0TUd2MVE/cHdkPWpjeWg=&#34;&gt;https://pan.baidu.com/s/1t9W2QJAkFoFS8Jgu4MGv1Q?pwd=jcyh&lt;/span&gt;&lt;br /&gt;
+        <link rel="alternate" href="https://hy6xing.cn/2023/02/08/%E6%89%8B%E6%9C%BA/AGC%E7%9B%B8%E6%9C%BA/"/>
+        <content type="html">&lt;h2 id=&#34;安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装&#34;&gt;#&lt;/a&gt; 安装&lt;/h2&gt;
+&lt;p&gt;安卓端强大的第三方相机&lt;span class=&#34;label success&#34;&gt; AGC&lt;/span&gt;&lt;br /&gt;
+ 链接： &lt;code&gt;https://pan.baidu.com/s/1t9W2QJAkFoFS8Jgu4MGv1Q?pwd=jcyh&lt;/code&gt; &lt;br /&gt;
  提取码在后面&lt;br /&gt;
-下载安装软件后将配置文件 超级长焦 v1.agc&lt;br /&gt;
- 移动至 /storage/emulated/0/Download/AGC.8.4/configs 文件夹下即可&lt;br /&gt;
- /storage/emulated/0/Download 即是指 “手机内部存储 根目录” 有个 “下载” 文件夹，英文名 Download）&lt;br /&gt;
-如果没有 AGC.8.4/configs 自己创建一下。&lt;br /&gt;
-安装完打开软件也会自动生成 AGC.8.4 文件夹，但不会 /configs 还是要手动创建一下。&lt;br /&gt;
-&lt;img data-src=&#34;https://i.niupic.com/images/2023/02/08/ajP9.gif&#34; alt=&#34;动画教程&#34; /&gt;&lt;br /&gt;
-视频教程可能会失效&lt;br /&gt;
-&lt;img data-src=&#34;https://i.niupic.com/images/2023/02/08/ajP8.mp4&#34; alt=&#34;视频教程&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;嫌麻烦也可以移动整个 AGC 文件夹到 /storage/emulated/0/Download 下即可&lt;/p&gt;
+&lt;span class=&#34;rainbow&#34;&gt;尾页已更新不限速 123 云盘 (新)，但还是建议百度云备份以下，点击 apk 加载还是很快的&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;下载安装软件后将配置文件 &lt;span class=&#34;label info&#34;&gt;超级长焦 v1.agc&lt;/span&gt;&lt;br /&gt;
+ 移动至 &lt;code&gt;/storage/emulated/0/&lt;/code&gt;   &lt;code&gt;Download/&lt;/code&gt;   &lt;code&gt;AGC.8.4/&lt;/code&gt;   &lt;code&gt;configs&lt;/code&gt;  文件夹下即可&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;/storage/emulated/0/&lt;/code&gt;   &lt;code&gt;Download/&lt;/code&gt;  即是指  &lt;code&gt;“手机内部存储 根目录”&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;有个  &lt;code&gt;“下载”&lt;/code&gt;  文件夹，英文名 &lt;code&gt;Download&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如果没有 &lt;code&gt;AGC.8.4/configs&lt;/code&gt;  自己创建一下。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;安装完打开软件也会自动生成 &lt;code&gt;AGC.8.4&lt;/code&gt;  文件夹，但不会 &lt;code&gt;/configs&lt;/code&gt;  还是要手动创建一下。&lt;br /&gt;
+&lt;img data-src=&#34;https://i.niupic.com/images/2023/02/25/al5O.jpg&#34; width=300&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;嫌麻烦也可以移动整个下载好多的&lt;span class=&#34;label info&#34;&gt; AGC 文件夹&lt;/span&gt;到 /storage/emulated/0/Download 下即可&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;移动配置文件后重新打开软件再设置里加载即可&lt;br /&gt;
-&lt;img data-src=&#34;https://i.niupic.com/images/2023/02/08/ajPb.jpg&#34; alt=&#34;1&#34; /&gt;&lt;br /&gt;
-&lt;img data-src=&#34;https://i.niupic.com/images/2023/02/08/ajPc.jpg&#34; alt=&#34;2&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;下面是小米 10S 的拍照&lt;br /&gt;
-夜景效果&lt;br /&gt;
+&lt;img data-src=&#34;https://i.niupic.com/images/2023/02/25/al5V.jpg&#34; width=300&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;下面是小米10s的拍照&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#下面是小米10s的拍照&#34;&gt;#&lt;/a&gt; 下面是小米 10S 的拍照&lt;/h2&gt;
+&lt;p&gt;夜景效果&lt;br /&gt;
 &lt;img data-src=&#34;https://s2.loli.net/2023/02/08/RySqian1mg9JhcD.jpg&#34; alt=&#34;夜景1.jpg&#34; /&gt;&lt;br /&gt;
 &lt;img data-src=&#34;https://s2.loli.net/2023/02/08/NDMaJjYIZsEb3e5.jpg&#34; alt=&#34;夜景2.jpg&#34; /&gt;&lt;br /&gt;
  图三奶茶店拍的&lt;br /&gt;
 &lt;img data-src=&#34;https://s2.loli.net/2023/02/08/urIWUOBeQoGC7zs.jpg&#34; alt=&#34;奶茶店.jpg&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;百度网盘提取码：jcyh&lt;/p&gt;
-&lt;p&gt;如果觉得百度网盘下载慢的，&lt;br /&gt;
-可以用置顶文章里推荐的工具 antdownload2&lt;sup&gt; (PC 端的)&lt;/sup&gt; 1.0.6&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;百度网盘提取码： &lt;code&gt;jcyh&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;不限速下载链接&lt;/summary&gt;&lt;div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuMTIzcGFuLmNvbS9zLzRqcjdWdi1SaXhxZC5odG1s&#34;&gt;123 云盘&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;提取码:  &lt;code&gt;5200&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/details&gt;
 </content>
-        <category term="PC" scheme="https://hy6xing.cn/categories/PC/" />
+        <category term="手机" scheme="https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/" />
         <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
-        <category term="教程" scheme="https://hy6xing.cn/tags/%E6%95%99%E7%A8%8B/" />
         <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
+        <category term="教程" scheme="https://hy6xing.cn/tags/%E6%95%99%E7%A8%8B/" />
+        <category term="手机" scheme="https://hy6xing.cn/tags/%E6%89%8B%E6%9C%BA/" />
         <updated>2023-02-08T14:52:20.000Z</updated>
     </entry>
     <entry>
@@ -679,8 +702,8 @@
 </content>
         <category term="手机" scheme="https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/" />
         <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
-        <category term="教程" scheme="https://hy6xing.cn/tags/%E6%95%99%E7%A8%8B/" />
         <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
+        <category term="教程" scheme="https://hy6xing.cn/tags/%E6%95%99%E7%A8%8B/" />
         <updated>2022-08-07T05:00:00.000Z</updated>
     </entry>
     <entry>
@@ -763,9 +786,9 @@
 &lt;/ul&gt;
 </content>
         <category term="PC" scheme="https://hy6xing.cn/categories/PC/" />
+        <category term="主题" scheme="https://hy6xing.cn/tags/%E4%B8%BB%E9%A2%98/" />
         <category term="美化" scheme="https://hy6xing.cn/tags/%E7%BE%8E%E5%8C%96/" />
         <category term="Rainmeter" scheme="https://hy6xing.cn/tags/Rainmeter/" />
-        <category term="主题" scheme="https://hy6xing.cn/tags/%E4%B8%BB%E9%A2%98/" />
         <category term="雨滴皮肤" scheme="https://hy6xing.cn/tags/%E9%9B%A8%E6%BB%B4%E7%9A%AE%E8%82%A4/" />
         <updated>2022-04-04T16:14:35.000Z</updated>
     </entry>

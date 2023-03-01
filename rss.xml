@@ -324,52 +324,52 @@
 &lt;p&gt;涉及应用&lt;/p&gt;
 &lt;/div&gt;
 &lt;img data-src=&#34;https://s2.loli.net/2023/02/09/aFou5DY7er8JMKP.jpg&#34; width=&#34;300px&#34;&gt;
-#### 天气
-:::primary
-天气
-:::
-打开天气-右上角3个点里➡️选择==设置==➡️下拉到==用户体验计划==➡️关闭右边开关
-![天气.jpg](https://s2.loli.net/2023/02/09/mod6ORZ1QGYBlWy.jpg)
-#### 日历
-:::primary
-日历
-:::
-同上操作：打开日历➡️右上角==设置==➡️==用户体验计划==➡️关掉开关
-![日历.png](https://s2.loli.net/2023/02/09/KZPnWSAmjQc6X7F.png)
-#### 手机管家
-:::primary
-手机管家
-:::
- 打开手机管家 ➡️ 右上角==设置==➡️下拉到 ==内容推荐设置== ➡️ 关掉开关。
- 点击 ➡️ ==垃圾清理== 下拉到==内容推荐设置== ➡️ 关掉开关。
-![管家.png](https://s2.loli.net/2023/02/09/NhuR516pdj3oXec.png)
-#### 下载管理
-:::primary
-下载管理
-:::
-打开==下载管理==^(在桌面的==系统工具==文件夹里)^ ➡️ 右上角==设置== ➡️ ==信息流设置== 3个全部关掉
-![下载.png](https://s2.loli.net/2023/02/10/AHr9BapPh1VniwW.png)  
-#### 应用安装器 
-:::primary
-应用安装器
-::: 
-安装应用的时候如果有广告，就点右上角 ==⚙== 设置里关掉推荐  
-![应该安装界面.jpg](https://s2.loli.net/2023/02/13/GgZhXU6vr4udwF5.jpg)
-#### 应用商店
-:::primary
-应用商店
-:::
-打开应用商店 ➡️右下角==我的== ➡️ 右上角==⚙==设置 ➡️==通知设置==看你的喜好选择性关掉  
-同样设置界面下拉→==功能设置== 关掉福利活动
-![应用商店.png](https://s2.loli.net/2023/02/09/zY2gJXRnZV9xmsE.png)
-#### 自带浏览器
-:::primary
-浏览器
-:::
-打开浏览器右下角==菜单== ➡️==⚙== ➡️ ==信息通知管理== ➡️ 可全部关掉
-![浏览器.png](https://s2.loli.net/2023/02/09/o8RHizJX4fWq2Lw.png)
-同样的==⚙==设置里面上面的==主页设置==  选中 ==简洁版== 即可，所有的==推送==全部关掉
-就可以得到下图简洁的浏览器界面
+&lt;h4 id=&#34;天气&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#天气&#34;&gt;#&lt;/a&gt; 天气&lt;/h4&gt;
+&lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;天气&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;打开天气 - 右上角 3 个点里➡️选择&lt;mark&gt;设置&lt;/mark&gt;➡️下拉到&lt;mark&gt;用户体验计划&lt;/mark&gt;➡️关闭右边开关&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/mod6ORZ1QGYBlWy.jpg&#34; alt=&#34;天气.jpg&#34; /&gt;&lt;/p&gt;
+&lt;h4 id=&#34;日历&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#日历&#34;&gt;#&lt;/a&gt; 日历&lt;/h4&gt;
+&lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;日历&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;同上操作：打开日历➡️右上角&lt;mark&gt;设置&lt;/mark&gt;➡️&lt;mark&gt;用户体验计划&lt;/mark&gt;➡️关掉开关&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/KZPnWSAmjQc6X7F.png&#34; alt=&#34;日历.png&#34; /&gt;&lt;/p&gt;
+&lt;h4 id=&#34;手机管家&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#手机管家&#34;&gt;#&lt;/a&gt; 手机管家&lt;/h4&gt;
+&lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;手机管家&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;打开手机管家 ➡️ 右上角&lt;mark&gt;设置&lt;/mark&gt;➡️下拉到 &lt;mark&gt;内容推荐设置&lt;/mark&gt; ➡️ 关掉开关。&lt;br /&gt;
+点击 ➡️ &lt;mark&gt;垃圾清理&lt;/mark&gt; 下拉到&lt;mark&gt;内容推荐设置&lt;/mark&gt; ➡️ 关掉开关。&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/NhuR516pdj3oXec.png&#34; alt=&#34;管家.png&#34; /&gt;&lt;/p&gt;
+&lt;h4 id=&#34;下载管理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#下载管理&#34;&gt;#&lt;/a&gt; 下载管理&lt;/h4&gt;
+&lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;下载管理&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;打开&lt;mark&gt;下载管理&lt;/mark&gt;&lt;sup&gt; (在桌面的 == 系统工具 == 文件夹里)&lt;/sup&gt; ➡️ 右上角&lt;mark&gt;设置&lt;/mark&gt; ➡️ &lt;mark&gt;信息流设置&lt;/mark&gt; 3 个全部关掉&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/10/AHr9BapPh1VniwW.png&#34; alt=&#34;下载.png&#34; /&gt;&lt;/p&gt;
+&lt;h4 id=&#34;应用安装器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用安装器&#34;&gt;#&lt;/a&gt; 应用安装器&lt;/h4&gt;
+&lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;应用安装器&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;安装应用的时候如果有广告，就点右上角 &lt;mark&gt;⚙&lt;/mark&gt; 设置里关掉推荐&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/13/GgZhXU6vr4udwF5.jpg&#34; alt=&#34;应该安装界面.jpg&#34; /&gt;&lt;/p&gt;
+&lt;h4 id=&#34;应用商店&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用商店&#34;&gt;#&lt;/a&gt; 应用商店&lt;/h4&gt;
+&lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;应用商店&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;打开应用商店 ➡️右下角&lt;mark&gt;我的&lt;/mark&gt; ➡️ 右上角&lt;mark&gt;⚙&lt;/mark&gt;设置 ➡️&lt;mark&gt;通知设置&lt;/mark&gt;看你的喜好选择性关掉&lt;br /&gt;
+同样设置界面下拉→&lt;mark&gt;功能设置&lt;/mark&gt; 关掉福利活动&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/zY2gJXRnZV9xmsE.png&#34; alt=&#34;应用商店.png&#34; /&gt;&lt;/p&gt;
+&lt;h4 id=&#34;自带浏览器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自带浏览器&#34;&gt;#&lt;/a&gt; 自带浏览器&lt;/h4&gt;
+&lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;浏览器&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;打开浏览器右下角&lt;mark&gt;菜单&lt;/mark&gt; ➡️&lt;mark&gt;⚙&lt;/mark&gt; ➡️ &lt;mark&gt;信息通知管理&lt;/mark&gt; ➡️ 可全部关掉&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/o8RHizJX4fWq2Lw.png&#34; alt=&#34;浏览器.png&#34; /&gt;&lt;br /&gt;
+ 同样的&lt;mark&gt;⚙&lt;/mark&gt;设置里面上面的&lt;mark&gt;主页设置&lt;/mark&gt;  选中 &lt;mark&gt;简洁版&lt;/mark&gt; 即可，所有的&lt;mark&gt;推送&lt;/mark&gt;全部关掉&lt;br /&gt;
+就可以得到下图简洁的浏览器界面&lt;/p&gt;
 &lt;p&gt;浏览器界面&lt;img data-src=&#34;https://s2.loli.net/2023/02/09/aJxh1Y2uQZTNbXi.jpg&#34; width=180&gt;&lt;/p&gt;
 &lt;h4 id=&#34;下拉类通知面广告&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#下拉类通知面广告&#34;&gt;#&lt;/a&gt; 下拉类通知面广告&lt;/h4&gt;
 &lt;div class=&#34;note primary&#34;&gt;

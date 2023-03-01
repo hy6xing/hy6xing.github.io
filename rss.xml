@@ -290,9 +290,9 @@
             <category term="笔记" scheme="https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/" />
             <category term="手机" scheme="https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/" />
             <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
+            <category term="教程" scheme="https://hy6xing.cn/tags/%E6%95%99%E7%A8%8B/" />
             <category term="小米手机" scheme="https://hy6xing.cn/tags/%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA/" />
             <category term="MIUI" scheme="https://hy6xing.cn/tags/MIUI/" />
-            <category term="教程" scheme="https://hy6xing.cn/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 09 Feb 2023 21:52:01 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;   最全面的小米 miui 系统广告关闭。可能有人会问，这么简单的还有必要写个教程出来？&lt;br /&gt;
 没错，对懂得人来说，再简单不过。&lt;br /&gt;
@@ -815,8 +815,8 @@
             <guid isPermalink="true">https://hy6xing.cn/2022/04/01/hello-world/</guid>
             <title>Hello World</title>
             <link>https://hy6xing.cn/2022/04/01/hello-world/</link>
-            <category term="日记" scheme="https://hy6xing.cn/categories/%E6%97%A5%E8%AE%B0/" />
             <category term="笔记" scheme="https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/" />
+            <category term="日记" scheme="https://hy6xing.cn/categories/%E6%97%A5%E8%AE%B0/" />
             <category term="介绍" scheme="https://hy6xing.cn/tags/%E4%BB%8B%E7%BB%8D/" />
             <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
             <category term="站点" scheme="https://hy6xing.cn/tags/%E7%AB%99%E7%82%B9/" />

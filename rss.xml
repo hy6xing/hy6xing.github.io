@@ -68,10 +68,10 @@
             <category term="笔记" scheme="https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/" />
             <category term="PC" scheme="https://hy6xing.cn/categories/PC/" />
             <category term="手机" scheme="https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/" />
-            <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
-            <category term="彩蛋" scheme="https://hy6xing.cn/tags/%E5%BD%A9%E8%9B%8B/" />
             <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
+            <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
             <category term="主题" scheme="https://hy6xing.cn/tags/%E4%B8%BB%E9%A2%98/" />
+            <category term="彩蛋" scheme="https://hy6xing.cn/tags/%E5%BD%A9%E8%9B%8B/" />
             <category term="美化" scheme="https://hy6xing.cn/tags/%E7%BE%8E%E5%8C%96/" />
             <pubDate>Fri, 17 Feb 2023 20:18:11 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;初音aimp-pc皮肤&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#初音aimp-pc皮肤&#34;&gt;#&lt;/a&gt; 初音 AIMP - PC 皮肤&lt;/h1&gt;
@@ -259,8 +259,8 @@
             <link>https://hy6xing.cn/2023/02/10/%E6%89%8B%E6%9C%BA/%E5%B0%8F%E7%B1%B3%E5%88%B7%E6%9C%BA%E5%B7%A5%E5%85%B7/</link>
             <category term="笔记" scheme="https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/" />
             <category term="手机" scheme="https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/" />
-            <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
             <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
+            <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
             <category term="小米手机" scheme="https://hy6xing.cn/tags/%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA/" />
             <category term="MIUI" scheme="https://hy6xing.cn/tags/MIUI/" />
             <pubDate>Fri, 10 Feb 2023 12:48:45 +0800</pubDate>
@@ -407,8 +407,8 @@
             <title>安卓AGC相机</title>
             <link>https://hy6xing.cn/2023/02/08/%E6%89%8B%E6%9C%BA/AGC%E7%9B%B8%E6%9C%BA/</link>
             <category term="手机" scheme="https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/" />
-            <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
             <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
+            <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
             <category term="教程" scheme="https://hy6xing.cn/tags/%E6%95%99%E7%A8%8B/" />
             <category term="手机" scheme="https://hy6xing.cn/tags/%E6%89%8B%E6%9C%BA/" />
             <pubDate>Wed, 08 Feb 2023 22:52:20 +0800</pubDate>
@@ -488,9 +488,19 @@
             <category term="彩蛋" scheme="https://hy6xing.cn/tags/%E5%BD%A9%E8%9B%8B/" />
             <category term="（｡ò ∀ ó｡）" scheme="https://hy6xing.cn/tags/%EF%BC%88%EF%BD%A1o-%E2%88%80-o%EF%BD%A1%EF%BC%89/" />
             <pubDate>Sun, 05 Feb 2023 13:23:35 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;  前提说明一下，因为有些网盘有文件格式限制或者不支持分享，所以这里大多还是以百度网盘为主。&lt;br /&gt;
+            <description><![CDATA[ &lt;p&gt;  前提说明一下，因为有些网盘有文件格式限制或者不支持分享，所以这里大多还是以 &lt;code&gt;百度网盘&lt;/code&gt; 为主。&lt;br /&gt;
 大家也不用怕下载慢，&lt;br /&gt;
 有很多下载工具都可以跑 &lt;s&gt;慢速&lt;/s&gt; 满速 下载 &lt;img data-src=&#34;https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg3.doubanio.com%2Fview%2Fgroup_topic%2Fraw%2Fpublic%2Fp442720751.jpg&amp;refer=http%3A%2F%2Fimg3.doubanio.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=auto?sec=1678873661&amp;t=a9a5e0ab71822635ad2fb16822129cf1&#34; width=&#34;40px&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;note primary&#34;&gt;
+&lt;p&gt;internet Download Manager 互联网下载管理器 （IDM 下载器) &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lISFVmMHAyZ2xiZw==&#34;&gt;蓝奏云下载&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;details class=&#34;info&#34;&gt;&lt;summary&gt;idm设置中文方法&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;1、首先打开软件，进入主界面。&lt;br /&gt;
+2、然后选择最上方的&lt;span class=&#34;label success&#34;&gt; View&lt;/span&gt; 选项。&lt;br /&gt;
+3、在&lt;span class=&#34;label success&#34;&gt; view&lt;/span&gt; 中点击&lt;span class=&#34;label success&#34;&gt; language&lt;/span&gt;。&lt;br /&gt;
+4、接着再点击&lt;span class=&#34;label success&#34;&gt;简体中文&lt;/span&gt;。&lt;br /&gt;
+5、最后重启就可以成功设置成中文了。&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
 &lt;p&gt;链接有失效过期的都可以联系我。&lt;/p&gt;
 &lt;h2 id=&#34;目录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#目录&#34;&gt;#&lt;/a&gt; 目录&lt;/h2&gt;
 &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;点击下面可跳至指定位置&lt;/span&gt;&lt;/p&gt;
@@ -532,11 +542,11 @@
 &lt;/ul&gt;
 &lt;/div&gt;&lt;/details&gt;
 &lt;h3 id=&#34;adobe全家桶win系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#adobe全家桶win系统&#34;&gt;#&lt;/a&gt; Adobe 全家桶 Win 系统&lt;/h3&gt;
-&lt;p&gt;目前只有 PS 更新至 2022，2023 有 bug。暂时没录，当然你也可以支持正版解决问题&lt;/p&gt;
+&lt;p&gt;目前只有 PS 更新至 2022，2023 有 *。当然你也可以支持正版解决问题&lt;/p&gt;
 &lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;下载链接&lt;/summary&gt;&lt;div&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYWxpeXVuZHJpdmUuY29tL3MvTG5aY3lidXY1bVQ=&#34;&gt;阿里云盘&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;提取码:  &lt;code&gt;92uf&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYWxpeXVuZHJpdmUuY29tL3MvTG5aY3lidXY1bVQ=&#34;&gt;Adobe 全家桶阿里云盘&lt;/span&gt; 提取码:  &lt;code&gt;92uf&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMW84bndiWEw5WGczQkJhUWVKZXFveEE/cHdkPTgxdWM=&#34;&gt;PS2023 百度盘&lt;/span&gt; 提取码： &lt;code&gt;81uc&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;&lt;/details&gt;
 &lt;h3 id=&#34;视频播放器pot_player&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#视频播放器pot_player&#34;&gt;#&lt;/a&gt; 视频播放器 Pot_Player&lt;/h3&gt;
@@ -545,6 +555,8 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMThxUXdpX0dyM0VOWDF3Q01MT2o1cXc/cHdkPXZsYW4=&#34;&gt;百度网盘&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;提取码： &lt;code&gt;vlan&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2IwNDdzbHpoaQ==&#34;&gt;蓝奏云&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;密码: &lt;code&gt;f3ik&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;&lt;/details&gt;
 &lt;h3 id=&#34;geek&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#geek&#34;&gt;#&lt;/a&gt; geek&lt;/h3&gt;
@@ -619,11 +631,11 @@
 💔度盘：&lt;s&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMVVJMTVTQ2wtYTRnV29IMlVuWFJ1cGc/cHdkPXFxZGM=&#34;&gt;https://pan.baidu.com/s/1UI15SCl-a4gWoH2UnXRupg?pwd=qqdc&lt;/span&gt;&lt;/s&gt;&lt;/p&gt;
 &lt;p&gt;💔酷我音乐 10.3.4.6 版本&lt;span class=&#34;rainbow&#34;&gt;已失效・・・&lt;/span&gt;&lt;br /&gt;
 💔123 云盘：&lt;s&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuMTIzcGFuLmNvbS9zLzRqcjdWdi1ZYnhxZA==&#34;&gt;https://www.123pan.com/s/4jr7Vv-Ybxqd&lt;/span&gt;&lt;/s&gt;&lt;/p&gt;
-&lt;p&gt;酷我音乐 10.1.1.3 旧版&lt;span class=&#34;rainbow&#34;&gt;已失效・・・&lt;/span&gt;&lt;br /&gt;
+&lt;p&gt;酷我音乐 10.1.1.3 旧版&lt;span class=&#34;rainbow&#34;&gt;已失效・・・&lt;/span&gt;蓝奏云 &lt;s&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lyaGdOMG9nMmJ6ZQ==&#34;&gt;https://hy6xing.lanzouw.com/irhgN0og2bze&lt;/span&gt;&lt;/s&gt;&lt;br /&gt;
 &lt;span class=&#34;label success&#34;&gt;✔️可用&lt;/span&gt; = 寻找中・・・・&lt;/p&gt;
 &lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;下载链接&lt;/summary&gt;&lt;div&gt;
 &lt;ul&gt;
-&lt;li&gt;酷我音乐 10.1.1.3 蓝奏云 &lt;s&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lyaGdOMG9nMmJ6ZQ==&#34;&gt;https://hy6xing.lanzouw.com/irhgN0og2bze&lt;/span&gt;&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;暂无&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;&lt;/details&gt;
 &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;PC 版请往上翻&lt;/span&gt;&lt;/p&gt;
@@ -672,6 +684,7 @@
 &lt;li&gt;2023-02-16 更换失效酷我音乐安卓版本&lt;/li&gt;
 &lt;li&gt;2023-02-18 转移百度网盘酷我音乐安卓版链接至 123 网盘加速下载&lt;/li&gt;
 &lt;li&gt;2023-02-19 酷我音乐 PC 版恢复正常&lt;/li&gt;
+&lt;li&gt;2023-03-02 更新 idm 下载器&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;&lt;/details&gt;
 &lt;div class=&#34;note primary&#34;&gt;
@@ -682,6 +695,7 @@
 &lt;li&gt;2023-02-09&lt;/li&gt;
 &lt;li&gt;2023-02-18&lt;/li&gt;
 &lt;li&gt;2023-02-19&lt;/li&gt;
+&lt;li&gt;2023-03-02&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
@@ -690,8 +704,8 @@
             <title>资源分享</title>
             <link>https://hy6xing.cn/2022/08/07/%E6%89%8B%E6%9C%BA/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/</link>
             <category term="手机" scheme="https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/" />
-            <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
             <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
+            <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
             <category term="教程" scheme="https://hy6xing.cn/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Sun, 07 Aug 2022 13:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;最新资源分享&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#最新资源分享&#34;&gt;#&lt;/a&gt; 最新资源分享&lt;/h2&gt;
@@ -715,8 +729,8 @@
             <title>好玩的微信代码</title>
             <link>https://hy6xing.cn/2022/04/26/%E6%89%8B%E6%9C%BA/%E5%BE%AE%E4%BF%A1%E4%BB%A3%E7%A0%81/</link>
             <category term="手机" scheme="https://hy6xing.cn/categories/%E6%89%8B%E6%9C%BA/" />
-            <category term="微信" scheme="https://hy6xing.cn/tags/%E5%BE%AE%E4%BF%A1/" />
             <category term="教程" scheme="https://hy6xing.cn/tags/%E6%95%99%E7%A8%8B/" />
+            <category term="微信" scheme="https://hy6xing.cn/tags/%E5%BE%AE%E4%BF%A1/" />
             <pubDate>Tue, 26 Apr 2022 21:45:20 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;好玩的微信代码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#好玩的微信代码&#34;&gt;#&lt;/a&gt; 好玩的微信代码&lt;/h2&gt;
 &lt;h2 id=&#34;有趣的微信代码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#有趣的微信代码&#34;&gt;#&lt;/a&gt; 有趣的微信代码&lt;/h2&gt;
@@ -815,11 +829,11 @@
             <guid isPermalink="true">https://hy6xing.cn/2022/04/01/hello-world/</guid>
             <title>Hello World</title>
             <link>https://hy6xing.cn/2022/04/01/hello-world/</link>
-            <category term="笔记" scheme="https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/" />
             <category term="日记" scheme="https://hy6xing.cn/categories/%E6%97%A5%E8%AE%B0/" />
-            <category term="站点" scheme="https://hy6xing.cn/tags/%E7%AB%99%E7%82%B9/" />
+            <category term="笔记" scheme="https://hy6xing.cn/categories/%E7%AC%94%E8%AE%B0/" />
             <category term="介绍" scheme="https://hy6xing.cn/tags/%E4%BB%8B%E7%BB%8D/" />
             <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
+            <category term="站点" scheme="https://hy6xing.cn/tags/%E7%AB%99%E7%82%B9/" />
             <pubDate>Fri, 01 Apr 2022 22:40:01 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;

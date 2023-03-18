@@ -1,7 +1,7 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "从零开始",
-    "subtitle": "动态笔记·个人网站",
+    "title": "六星虚拟网络",
+    "subtitle": "动态笔记·博客网站",
     "icon": "https://hy6xing.cn/images/favicon.ico",
     "description": "我这个人呢，还不错，除了长的帅点以外，也没什么缺点了！我有时觉得，自己其实不太帅。但有一天，我被一群女孩子围住，她们说我帅，我不承认，她们就打我，还说我虚伪。(ಡωಡ)",
     "home_page_url": "https://hy6xing.cn",
@@ -30,10 +30,10 @@
                 "PC",
                 "shouji",
                 "笔记",
-                "美化",
-                "主题",
                 "资源分享",
-                "彩蛋"
+                "主题",
+                "彩蛋",
+                "美化"
             ]
         },
         {
@@ -76,9 +76,9 @@
                 "biji",
                 "shouji",
                 "笔记",
-                "教程",
                 "小米手机",
-                "MIUI"
+                "MIUI",
+                "教程"
             ]
         },
         {
@@ -90,8 +90,8 @@
             "tags": [
                 "shouji",
                 "笔记",
-                "教程",
                 "资源分享",
+                "教程",
                 "手机"
             ]
         },
@@ -106,6 +106,19 @@
                 "奇葩事件",
                 "新闻",
                 "灵异事件"
+            ]
+        },
+        {
+            "id": "https://hy6xing.cn/2023/02/05/PC/jingtaiziyuan/",
+            "url": "https://hy6xing.cn/2023/02/05/PC/jingtaiziyuan/",
+            "title": "收藏夹",
+            "date_published": "2023-02-05T05:23:35.000Z",
+            "content_html": "<h2 id=\"前言\"><a class=\"anchor\" href=\"#前言\">#</a> 前言</h2>\n<p>  前提说明一下，因为有些网盘有文件格式限制或者不支持分享，所以这里大多还是以 <code>百度网盘</code> 为主。<br />\n大家也不用怕下载慢，<br />\n有很多下载工具都可以跑 <s>慢速</s> 满速 下载 <img data-src=\"https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg3.doubanio.com%2Fview%2Fgroup_topic%2Fraw%2Fpublic%2Fp442720751.jpg&refer=http%3A%2F%2Fimg3.doubanio.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1678873661&t=a9a5e0ab71822635ad2fb16822129cf1\" width=\"40px\"></p>\n<div class=\"note primary\">\n<p>internet Download Manager 互联网下载管理器 （IDM 下载器）<span class=\"exturl\" data-url=\"aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lISFVmMHAyZ2xiZw==\">蓝奏云点我下载</span></p>\n</div>\n<details class=\"info\"><summary>idm设置中文方法</summary><div>\n<p>1、首先打开软件，进入主界面。<br />\n2、然后选择最上方的<span class=\"label success\"> View</span> 选项。<br />\n3、在<span class=\"label success\"> view</span> 中点击<span class=\"label success\"> language</span>。<br />\n4、接着再点击<span class=\"label success\">简体中文</span>。<br />\n5、最后重启就可以成功设置成中文了。</p>\n</div></details>\n<p>链接有失效过期的都可以  <span class=\"exturl\" data-url=\"aHR0cDovL21haWwucXEuY29tL2NnaS1iaW4vcW1fc2hhcmU/dD1xbV9tYWlsbWUmYW1wO2VtYWlsPWNSa0lSd2tZSHhZeEFBQmZFaDRj\">联系我</span> 。</p>\n<h2 id=\"目录\"><a class=\"anchor\" href=\"#目录\">#</a> 目录</h2>\n<p><span class=\"rainbow\">点击下面可跳至指定位置</span></p>\n<p><a href=\"#%E8%A7%86%E9%A2%91%E5%BD%95%E5%88%B6\">pc 录屏软件</a><br />\n<a href=\"#%E8%BF%85%E9%9B%B7%E7%BB%BF%E8%89%B2%E6%9C%AC%E5%9C%B0%E7%89%88%E6%9C%AC\"> pc 迅雷绿色版</a><br />\n<a href=\"#adobe%E5%85%A8%E5%AE%B6%E6%A1%B6win%E7%B3%BB%E7%BB%9F\"> Adobe 全家桶 Win 系统</a><br />\n<a href=\"#%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8pot_player\"> pc 视频播放器 Pot_Player</a><br />\n<a href=\"#geek\">pc 强大的卸载软件</a><br />\n<a href=\"#%E6%96%87%E4%BB%B6%E8%A7%A3%E9%94%81%E5%B7%A5%E5%85%B7-iobit-unlocker\">文件解锁工具 IObit Unlocker</a><br />\n<a href=\"#pc%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90v%E7%BA%AF%E5%87%80%E9%AB%98%E7%BA%A7%E7%89%88\">PC 酷我音乐 v 高级版</a><br />\n<a href=\"#%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE_10210\">📱百度地图</a><br />\n<a href=\"#%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90\">📱酷我音乐 vip 版</a><br />\n<a href=\"#%E5%AE%89%E5%8D%93%E7%89%88ps\">📱PS</a><br />\n<a href=\"#mx-player-14812\">📱MX Player</a><br />\n<a href=\"#tor-browser_10221-release1156\">📱洋葱浏览器</a></p>\n<hr />\n<hr />\n<h2 id=\"pc\"><a class=\"anchor\" href=\"#pc\">#</a> PC</h2>\n<h3 id=\"视频录制\"><a class=\"anchor\" href=\"#视频录制\">#</a> 视频录制</h3>\n<p>  OBS  录制和直播一体化神器，各大平台主播好像都喜欢用这个。<br />\n也可单独做为录屏使用。</p>\n<ul>\n<li>OBS-Studio-26.1.1-Full-Installer-x64.exe</li>\n</ul>\n<details class=\"primary\"><summary>下载链接</summary><div>\n<ul>\n<li>阿里云盘：<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYWxpeXVuZHJpdmUuY29tL3MvTWJLb1I1dG5XNlQ=\">点我下载</span></li>\n<li>提取码:  <code>92uf</code></li>\n</ul>\n</div></details>\n<h3 id=\"迅雷绿色本地版本\"><a class=\"anchor\" href=\"#迅雷绿色本地版本\">#</a> 迅雷绿色本地版本</h3>\n<ul>\n<li>迅雷 11_v11.1.8.1418_本地 SVIP 绿色精.exe</li>\n</ul>\n<details class=\"primary\"><summary>下载链接</summary><div>\n<ul>\n<li>阿里云盘：<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYWxpeXVuZHJpdmUuY29tL3MvRlR2Y2dqRWgzU0w=\">点我下载</span></li>\n<li>提取码:  <code>92uf</code></li>\n</ul>\n</div></details>\n<h3 id=\"adobe全家桶win系统\"><a class=\"anchor\" href=\"#adobe全家桶win系统\">#</a> Adobe 全家桶 Win 系统</h3>\n<p>目前只有 PS 更新至 2022，2023 有 *。当然你也可以支持正版解决问题</p>\n<details class=\"primary\"><summary>下载链接</summary><div>\n<ul>\n<li>Adobe 全家桶阿里云盘：<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYWxpeXVuZHJpdmUuY29tL3MvTG5aY3lidXY1bVQ=\">点我下载</span> 提取码:  <code>92uf</code></li>\n<li>PS2023 百度盘：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMW84bndiWEw5WGczQkJhUWVKZXFveEE/cHdkPTgxdWM=\">点我下载</span> 提取码： <code>81uc</code></li>\n</ul>\n</div></details>\n<h3 id=\"视频播放器pot_player\"><a class=\"anchor\" href=\"#视频播放器pot_player\">#</a> 视频播放器 Pot_Player</h3>\n<p>是比较有名也很好用的本地视频播放软件，解压后也是免安装</p>\n<details class=\"primary\"><summary>下载链接</summary><div>\n<ul>\n<li>百度网盘：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMThxUXdpX0dyM0VOWDF3Q01MT2o1cXc/cHdkPXZsYW4=\">点我下载</span>   提取码： <code>vlan</code></li>\n<li>蓝奏云盘:<span class=\"exturl\" data-url=\"aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2IwNDdzbHpoaQ==\"> 点我下载</span>  密码： <code>f3ik</code></li>\n</ul>\n</div></details>\n<h3 id=\"geek\"><a class=\"anchor\" href=\"#geek\">#</a> geek</h3>\n<p>geek 是我比较喜欢的 PC 端卸载工具。双击<span class=\"label info\"> geek.exe</span> 即可运行无需安装。<br />\n打开 Geek Uninstaller 后，就显示了你电脑上当前安装的桌面软件：<br />\n<img data-src=\"https://i.niupic.com/images/2023/02/09/ajSO.webp\" width=240px></p>\n<p>在软件条目上右键点击，即可卸载该软件：<br />\n<img data-src=\"https://i.niupic.com/images/2023/02/09/ajSS.webp\" width=240px><br />\n卸载完成后，Geek Uninstaller 会自动扫描残留文件与注册表：<br />\n<img data-src=\"https://i.niupic.com/images/2023/02/09/ajSX.jpg\" width=240px><br />\n点击<span class=\"label success\">完成</span>即可清理掉这些残留垃圾。</p>\n<details class=\"primary\"><summary>下载链接</summary><div>\n<ul>\n<li>蓝奏云盘：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2l2M2d0MG16czZnZA==\">点我下载</span></li>\n</ul>\n</div></details>\n<h3 id=\"文件解锁工具-iobit-unlocker\"><a class=\"anchor\" href=\"#文件解锁工具-iobit-unlocker\">#</a> 文件解锁工具 IObit Unlocker</h3>\n<ul>\n<li>\n<p>更好地解锁顽固文件</p>\n</li>\n<li>\n<p>IObit Unlocker 在解决  <code>无法删除文件</code>  ， <code>访问被拒绝</code> ，</p>\n</li>\n<li>\n<p><code>文件正被另一个程序或用户使用</code>  或  <code>存在共享冲突</code>  问题方面表现良好。</p>\n</li>\n<li>\n<p>使用 IObit 解锁器，您可以按照自己的方式管理所有文件。<br />\n<img data-src=\"https://i.niupic.com/images/2023/02/09/ajSJ.JPG\" width=370></p>\n</li>\n<li>\n<p>找到  <code>无法删除文件</code>  后，只需将它们拖放到 IObit 解锁器即可。然后，您可以根据需要快速解锁，重命名，复制或移动它们。无需复杂的操作。</p>\n</li>\n<li>\n<p>官网：<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuaW9iaXQuY29tL2VuL2lvYml0LXVubG9ja2VyLnBocA==\">https://www.iobit.com/en/iobit-unlocker.php</span></p>\n</li>\n<li>\n<p>下载速度慢可以用站长准备好的</p>\n</li>\n</ul>\n<details class=\"primary\"><summary>下载链接</summary><div>\n<ul>\n<li>蓝奏云: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2luZmlJMG16dDdrag==\">点我下载</span></li>\n</ul>\n</div></details>\n<h3 id=\"pc酷我音乐v纯净高级版\"><a class=\"anchor\" href=\"#pc酷我音乐v纯净高级版\">#</a> PC 酷我音乐 v 纯净高级版</h3>\n<img data-src=\"https://i.niupic.com/images/2023/02/18/akvk.png\" width=240px>\n<img data-src=\"https://i.niupic.com/images/2023/02/18/akvl.png\" width=240px>\n<ul>\n<li>去除游戏美女秀直播等各种广告</li>\n<li>无需登录也可正常使用</li>\n<li>VIP 无损等直接听下载</li>\n</ul>\n<p>9.1.1.2 版<span class=\"rainbow\">已更新・・・</span><span class=\"label success\">✔️可用</span></p>\n<details class=\"primary\"><summary>下载链接</summary><div>\n<p>蓝奏云:<span class=\"exturl\" data-url=\"aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lmWVYxMG56bG5qYw==\"> 点我下载</span></p>\n</div></details>\n<p><span class=\"rainbow\">安卓版请往下翻</span></p>\n<hr />\n<hr />\n<h2 id=\"手机\"><a class=\"anchor\" href=\"#手机\">#</a> 手机</h2>\n<p><span class=\"rainbow\">apk 除单独链接外基本全部集合在一个百度盘文件夹链接里</span><br />\n手机端只限安卓<sup> (没办法啊，条件不允许)</sup>, 所有 <code>安装包过百兆</code> 的都放 <code>一个文件夹</code> 里，就不一一的放单独链接了。</p>\n<ul>\n<li>过百兆的 app 百度盘链接，不过百的也在里面。</li>\n<li><span class=\"label info\">集合</span>文件夹</li>\n</ul>\n<details class=\"primary\"><summary>下载链接</summary><div>\n<ul>\n<li>百度文件夹网盘：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMVVJMTVTQ2wtYTRnV29IMlVuWFJ1cGc/cHdkPXFxZGM=\">点我下载</span></li>\n<li>提取码： <code>qqdc</code></li>\n</ul>\n</div></details>\n<h3 id=\"百度地图_10210\"><a class=\"anchor\" href=\"#百度地图_10210\">#</a> 百度地图_10.21.0</h3>\n<ul>\n<li>小米 10S 提取版本，可登录，干净无广告。</li>\n</ul>\n<details class=\"primary\"><summary>下载链接</summary><div>\n<ul>\n<li>蓝奏云：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lrQ3NNMG5nOTQwZA==\">点我下载</span></li>\n</ul>\n</div></details>\n<h3 id=\"酷我音乐\"><a class=\"anchor\" href=\"#酷我音乐\">#</a> 酷我音乐</h3>\n<p>💔 酷我音乐 10.1.6.0 版本<span class=\"rainbow\">已失效・・・</span><br />\n💔度盘：<s><span class=\"exturl\" data-url=\"aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMVVJMTVTQ2wtYTRnV29IMlVuWFJ1cGc/cHdkPXFxZGM=\">https://pan.baidu.com/s/1UI15SCl-a4gWoH2UnXRupg?pwd=qqdc</span></s></p>\n<p>💔酷我音乐 10.3.4.6 版本<span class=\"rainbow\">已失效・・・</span><br />\n💔123 云盘：<s><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuMTIzcGFuLmNvbS9zLzRqcjdWdi1ZYnhxZA==\">https://www.123pan.com/s/4jr7Vv-Ybxqd</span></s></p>\n<p>酷我音乐 10.1.1.3 旧版<span class=\"rainbow\">已失效・・・</span>蓝奏云 <s><span class=\"exturl\" data-url=\"aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lyaGdOMG9nMmJ6ZQ==\">https://hy6xing.lanzouw.com/irhgN0og2bze</span></s><br />\n<span class=\"label success\">✔️可用</span> = 寻找中・・・・</p>\n<details class=\"primary\"><summary>下载链接</summary><div>\n<ul>\n<li>暂无</li>\n</ul>\n</div></details>\n<p><span class=\"rainbow\">PC 版请往上翻</span></p>\n<h3 id=\"李跳跳-派大星201\"><a class=\"anchor\" href=\"#李跳跳-派大星201\">#</a> 李跳跳 - 派大星 2.01</h3>\n<ul>\n<li>跳过启动开屏广告，支持安卓 12.</li>\n</ul>\n<details class=\"primary\"><summary>下载链接</summary><div>\n<ul>\n<li>蓝奏云：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2llSVlHMG16cXNoZQ==\">点我下载</span></li>\n</ul>\n</div></details>\n<h3 id=\"安卓版ps\"><a class=\"anchor\" href=\"#安卓版ps\">#</a> 安卓版 PS</h3>\n<ul>\n<li>这两个支持安卓 12 一个只能横屏，一个横竖屏都可以。</li>\n</ul>\n<details class=\"primary\"><summary>下载链接</summary><div>\n<ul>\n<li>横屏版 PS CC 蓝奏云盘：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lyUVFnMG16cjdjag==\">点我下载</span></li>\n<li>PS  Touch  蓝奏云盘：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lYNlFsMG16cjd0Zw==\">点我下载</span></li>\n</ul>\n</div></details>\n<ul>\n<li>安卓 9 及以下请下载这里百度网盘链接:<span class=\"exturl\" data-url=\"aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMUtHVEo1dWVYdWpocWFjRHZJMWpVM0E/cHdkPW04b2E=\"> 点我下载</span></li>\n<li>提取码： <code>m8oa</code></li>\n</ul>\n<h3 id=\"mx-player-14812\"><a class=\"anchor\" href=\"#mx-player-14812\">#</a> MX Player-1.48.12</h3>\n<p>一款强大的本地视频播放器，解析力强。如果你手机相册里播放 4k8k 视频卡顿或者声音跟不上画面可以用它。</p>\n<details class=\"primary\"><summary>下载链接</summary><div>\n<ul>\n<li>蓝奏云盘：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lHSllXMG16cjZ1Yg==\">点我下载</span></li>\n</ul>\n</div></details>\n<h3 id=\"tor-browser_10221-release1156\"><a class=\"anchor\" href=\"#tor-browser_10221-release1156\">#</a> Tor Browser_102.2.1-Release（11.5.6）</h3>\n<p>无介绍・・・・・・・・・・・・・<br />\n下载链接：<span class=\"label info\">集合</span><a href=\"#%E6%89%8B%E6%9C%BA\">百度网盘</a></p>\n<h3 id=\"待更新~\"><a class=\"anchor\" href=\"#待更新~\">#</a> 待更新～</h3>\n<hr />\n<img data-src=\"https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg9.doubanio.com%2Fview%2Fgroup_topic%2Fraw%2Fpublic%2Fp281812384.jpg&refer=http%3A%2F%2Fimg9.doubanio.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1678872874&t=a5b0587da2559da9029c5ae1fff0d352\" width=200>  \n<img data-src=\"https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg1.doubanio.com%2Fview%2Fgroup_topic%2Fraw%2Fpublic%2Fp281812147.jpg&refer=http%3A%2F%2Fimg1.doubanio.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1678872851&t=c0040838fa1983502b24b7283f2037fb\" width=200>  \n<h2 id=\"更新记录\"><a class=\"anchor\" href=\"#更新记录\">#</a> 更新记录</h2>\n<details class=\"info\"><summary>更新内容</summary><div>\n<ul>\n<li>2023-02-04 创建长期资源</li>\n<li>2023-02-09 转移 100M 以下安卓应用至蓝奏云</li>\n<li>2023-02-16 更换失效酷我音乐安卓版本</li>\n<li>2023-02-18 转移百度网盘酷我音乐安卓版链接至 123 网盘加速下载</li>\n<li>2023-02-19 酷我音乐 PC 版恢复正常</li>\n<li>2023-03-02 更新 idm 下载器</li>\n</ul>\n</div></details>\n<div class=\"note primary\">\n<p>最后更新时间</p>\n</div>\n<ul>\n<li>2023-02-05</li>\n<li>2023-02-09</li>\n<li>2023-02-18</li>\n<li>2023-02-19</li>\n<li>2023-03-02</li>\n</ul>\n",
+            "tags": [
+                "PC",
+                "站点",
+                "彩蛋",
+                "（｡ò ∀ ó｡）"
             ]
         },
         {
@@ -142,9 +155,9 @@
             "content_html": "<h2 id=\"simplux_2雨滴桌面皮肤\"><a class=\"anchor\" href=\"#simplux_2雨滴桌面皮肤\">#</a> simplux_2 雨滴桌面皮肤</h2>\n<ul>\n<li>封面主题</li>\n</ul>\n<p><img data-src=\"https://s2.loli.net/2023/02/05/ojQ31yaRubh9EIv.png\" alt=\"simplux_2.png\" /></p>\n<p>下载地址：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lqMExTMDJtaWJrag==\">蓝奏云</span></p>\n<ul>\n<li>时钟音普可视化插件</li>\n</ul>\n<p><img data-src=\"https://s2.loli.net/2023/02/07/TEkIj7Amo85BSqf.gif\" alt=\"shizhong.gif\" /></p>\n<p>下载地址：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2lRekZLMDJtaTBvaA==\">蓝奏云</span></p>\n<p>其他插件:</p>\n<ul>\n<li>\n<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly9oeTZ4aW5nLmxhbnpvdXcuY29tL2l1OXpRMDJtaTB2ZQ==\">卡布娘，阿狸，风之铃</span></p>\n<p>解压后为 rmskin 后缀可直接安装，为文件夹类型自行移动至雨滴皮肤目录刷新皮肤即可。</p>\n</li>\n</ul>\n",
             "tags": [
                 "PC",
+                "主题",
                 "美化",
                 "Rainmeter",
-                "主题",
                 "雨滴皮肤"
             ]
         },

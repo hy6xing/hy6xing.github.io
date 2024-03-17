@@ -3,12 +3,12 @@
     <channel>
         <title>六星虚拟网络</title>
         <subtitle>动态笔记·博客网站</subtitle>
-        <icon>https://hy6xing.github.io/images/favicon.ico</icon>
-        <link>https://hy6xing.github.io</link>
+        <icon>https://hy6xing.cn/images/favicon.ico</icon>
+        <link>https://hy6xing.cn</link>
         <author>
           <name>零躺躺&amp;夜灵</name>
         </author>
-        <description>我这个人呢，还不错，除了长的帅点以外，也没什么缺点了！我有时觉得，自己其实不太帅。但有一天，我被一群女孩子围住，她们说我帅，我不承认，她们就打我，还说我虚伪。(ಡωಡ)</description>
+        <description>您现在所访问的网站是部署在Github上的静态网站，原网站因无力维持服务器费用已永久关闭。</description>
         <language>zh-CN</language>
         <pubDate>Sun, 26 Mar 2023 19:23:35 +0800</pubDate>
         <lastBuildDate>Sun, 26 Mar 2023 19:23:35 +0800</lastBuildDate>
@@ -26,13 +26,13 @@
         <category term="教程" />
         <category term="酷我音乐" />
         <item>
-            <guid isPermalink="true">https://hy6xing.github.io/2023/03/26/PC/tinggeng/</guid>
+            <guid isPermalink="true">https://hy6xing.cn/2023/03/26/PC/tinggeng/</guid>
             <title>温馨提示</title>
-            <link>https://hy6xing.github.io/2023/03/26/PC/tinggeng/</link>
-            <category term="PC" scheme="https://hy6xing.github.io/categories/PC/" />
-            <category term="站点" scheme="https://hy6xing.github.io/tags/%E7%AB%99%E7%82%B9/" />
-            <category term="彩蛋" scheme="https://hy6xing.github.io/tags/%E5%BD%A9%E8%9B%8B/" />
-            <category term="（｡ò ∀ ó｡）" scheme="https://hy6xing.github.io/tags/%EF%BC%88%EF%BD%A1o-%E2%88%80-o%EF%BD%A1%EF%BC%89/" />
+            <link>https://hy6xing.cn/2023/03/26/PC/tinggeng/</link>
+            <category term="PC" scheme="https://hy6xing.cn/categories/PC/" />
+            <category term="站点" scheme="https://hy6xing.cn/tags/%E7%AB%99%E7%82%B9/" />
+            <category term="彩蛋" scheme="https://hy6xing.cn/tags/%E5%BD%A9%E8%9B%8B/" />
+            <category term="（｡ò ∀ ó｡）" scheme="https://hy6xing.cn/tags/%EF%BC%88%EF%BD%A1o-%E2%88%80-o%EF%BD%A1%EF%BC%89/" />
             <pubDate>Sun, 26 Mar 2023 19:23:35 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;marquee width=100% scrollamount=20 behavior=alternate direction=left align=middle&gt;&lt;font size=&#34;5&#34; color=&#34;red&#34;&gt;重要说明&lt;/font&gt;&lt;/marquee&gt;&lt;/p&gt;
 &lt;h1 id=&#34;新网站已搭建完毕&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#新网站已搭建完毕&#34;&gt;#&lt;/a&gt; 新网站已搭建完毕&lt;/h1&gt;
@@ -46,13 +46,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://hy6xing.github.io/2023/02/19/biji/spacedesk/</guid>
+            <guid isPermalink="true">https://hy6xing.cn/2023/02/19/biji/spacedesk/</guid>
             <title>电脑副屏spacedesk</title>
-            <link>https://hy6xing.github.io/2023/02/19/biji/spacedesk/</link>
-            <category term="biji" scheme="https://hy6xing.github.io/categories/biji/" />
-            <category term="站点" scheme="https://hy6xing.github.io/tags/%E7%AB%99%E7%82%B9/" />
-            <category term="资源分享" scheme="https://hy6xing.github.io/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
-            <category term="彩蛋" scheme="https://hy6xing.github.io/tags/%E5%BD%A9%E8%9B%8B/" />
+            <link>https://hy6xing.cn/2023/02/19/biji/spacedesk/</link>
+            <category term="biji" scheme="https://hy6xing.cn/categories/biji/" />
+            <category term="站点" scheme="https://hy6xing.cn/tags/%E7%AB%99%E7%82%B9/" />
+            <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
+            <category term="彩蛋" scheme="https://hy6xing.cn/tags/%E5%BD%A9%E8%9B%8B/" />
             <pubDate>Sun, 19 Feb 2023 21:18:35 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;  &lt;span class=&#34;label primary&#34;&gt;spacedesk&lt;/span&gt; 可以将我们的手机当做电脑副屏来使用，这里提供的是&lt;span class=&#34;label warning&#34;&gt; Windws 10/11 (64-bit)&lt;/span&gt; 版本。&lt;br /&gt;
 以及安卓的 0.91.3 汉化版，PC 官方原本，未汉化，别问为什么，问就是不会。&lt;br /&gt;
@@ -82,17 +82,17 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://hy6xing.github.io/2023/02/17/PC/AIMPmusic/</guid>
+            <guid isPermalink="true">https://hy6xing.cn/2023/02/17/PC/AIMPmusic/</guid>
             <title>AIMP本地音乐播放器-初音皮肤</title>
-            <link>https://hy6xing.github.io/2023/02/17/PC/AIMPmusic/</link>
-            <category term="biji" scheme="https://hy6xing.github.io/categories/biji/" />
-            <category term="shouji" scheme="https://hy6xing.github.io/categories/shouji/" />
-            <category term="PC" scheme="https://hy6xing.github.io/categories/PC/" />
-            <category term="笔记" scheme="https://hy6xing.github.io/tags/%E7%AC%94%E8%AE%B0/" />
-            <category term="资源分享" scheme="https://hy6xing.github.io/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
-            <category term="彩蛋" scheme="https://hy6xing.github.io/tags/%E5%BD%A9%E8%9B%8B/" />
-            <category term="主题" scheme="https://hy6xing.github.io/tags/%E4%B8%BB%E9%A2%98/" />
-            <category term="美化" scheme="https://hy6xing.github.io/tags/%E7%BE%8E%E5%8C%96/" />
+            <link>https://hy6xing.cn/2023/02/17/PC/AIMPmusic/</link>
+            <category term="biji" scheme="https://hy6xing.cn/categories/biji/" />
+            <category term="PC" scheme="https://hy6xing.cn/categories/PC/" />
+            <category term="shouji" scheme="https://hy6xing.cn/categories/shouji/" />
+            <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
+            <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
+            <category term="主题" scheme="https://hy6xing.cn/tags/%E4%B8%BB%E9%A2%98/" />
+            <category term="彩蛋" scheme="https://hy6xing.cn/tags/%E5%BD%A9%E8%9B%8B/" />
+            <category term="美化" scheme="https://hy6xing.cn/tags/%E7%BE%8E%E5%8C%96/" />
             <pubDate>Fri, 17 Feb 2023 20:18:11 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;初音aimp-pc皮肤&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#初音aimp-pc皮肤&#34;&gt;#&lt;/a&gt; 初音 AIMP - PC 皮肤&lt;/h1&gt;
 &lt;p&gt;  &lt;span class=&#34;rainbow&#34;&gt;AIMP 音乐播放 + 初音皮肤&lt;/span&gt;&lt;br /&gt;
@@ -216,15 +216,15 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://hy6xing.github.io/2023/02/10/diary/xuexiao2023-02-10/</guid>
+            <guid isPermalink="true">https://hy6xing.cn/2023/02/10/diary/xuexiao2023-02-10/</guid>
             <title>学校1小时之旅</title>
-            <link>https://hy6xing.github.io/2023/02/10/diary/xuexiao2023-02-10/</link>
-            <category term="diary" scheme="https://hy6xing.github.io/categories/diary/" />
-            <category term="笔记" scheme="https://hy6xing.github.io/tags/%E7%AC%94%E8%AE%B0/" />
-            <category term="日记" scheme="https://hy6xing.github.io/tags/%E6%97%A5%E8%AE%B0/" />
-            <category term="记录生活" scheme="https://hy6xing.github.io/tags/%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB/" />
-            <category term="手机摄影" scheme="https://hy6xing.github.io/tags/%E6%89%8B%E6%9C%BA%E6%91%84%E5%BD%B1/" />
-            <category term="学校" scheme="https://hy6xing.github.io/tags/%E5%AD%A6%E6%A0%A1/" />
+            <link>https://hy6xing.cn/2023/02/10/diary/xuexiao2023-02-10/</link>
+            <category term="diary" scheme="https://hy6xing.cn/categories/diary/" />
+            <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
+            <category term="日记" scheme="https://hy6xing.cn/tags/%E6%97%A5%E8%AE%B0/" />
+            <category term="记录生活" scheme="https://hy6xing.cn/tags/%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB/" />
+            <category term="手机摄影" scheme="https://hy6xing.cn/tags/%E6%89%8B%E6%9C%BA%E6%91%84%E5%BD%B1/" />
+            <category term="学校" scheme="https://hy6xing.cn/tags/%E5%AD%A6%E6%A0%A1/" />
             <pubDate>Fri, 10 Feb 2023 20:23:45 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;广西老家，2 月 10 号，天气：&lt;span class=&#34;orange&#34;&gt;小雨天&lt;/span&gt;&lt;br /&gt;
  &lt;span class=&#34;rainbow&#34;&gt;服务器国外的・・・图片加载有点慢&lt;/span&gt;&lt;br /&gt;
@@ -274,15 +274,15 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://hy6xing.github.io/2023/02/10/shouji/miflash/</guid>
+            <guid isPermalink="true">https://hy6xing.cn/2023/02/10/shouji/miflash/</guid>
             <title>小米线刷工具</title>
-            <link>https://hy6xing.github.io/2023/02/10/shouji/miflash/</link>
-            <category term="biji" scheme="https://hy6xing.github.io/categories/biji/" />
-            <category term="shouji" scheme="https://hy6xing.github.io/categories/shouji/" />
-            <category term="笔记" scheme="https://hy6xing.github.io/tags/%E7%AC%94%E8%AE%B0/" />
-            <category term="资源分享" scheme="https://hy6xing.github.io/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
-            <category term="小米手机" scheme="https://hy6xing.github.io/tags/%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA/" />
-            <category term="MIUI" scheme="https://hy6xing.github.io/tags/MIUI/" />
+            <link>https://hy6xing.cn/2023/02/10/shouji/miflash/</link>
+            <category term="biji" scheme="https://hy6xing.cn/categories/biji/" />
+            <category term="shouji" scheme="https://hy6xing.cn/categories/shouji/" />
+            <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
+            <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
+            <category term="小米手机" scheme="https://hy6xing.cn/tags/%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA/" />
+            <category term="MIUI" scheme="https://hy6xing.cn/tags/MIUI/" />
             <pubDate>Fri, 10 Feb 2023 12:48:45 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;  为防止以后找不到，💻备份一下两款小米📱专用刷机工具&lt;mark&gt;闪米&lt;/mark&gt;&lt;sup&gt; (miflash)&lt;/sup&gt;&lt;br /&gt;
  1・miflash_pro   刷机工具更多，更全面。&lt;br /&gt;
@@ -304,15 +304,15 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://hy6xing.github.io/2023/02/09/shouji/MIUIsystemguanggao/</guid>
+            <guid isPermalink="true">https://hy6xing.cn/2023/02/09/shouji/MIUIsystemguanggao/</guid>
             <title>最全面的关闭小米miui系统广告</title>
-            <link>https://hy6xing.github.io/2023/02/09/shouji/MIUIsystemguanggao/</link>
-            <category term="biji" scheme="https://hy6xing.github.io/categories/biji/" />
-            <category term="shouji" scheme="https://hy6xing.github.io/categories/shouji/" />
-            <category term="笔记" scheme="https://hy6xing.github.io/tags/%E7%AC%94%E8%AE%B0/" />
-            <category term="教程" scheme="https://hy6xing.github.io/tags/%E6%95%99%E7%A8%8B/" />
-            <category term="小米手机" scheme="https://hy6xing.github.io/tags/%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA/" />
-            <category term="MIUI" scheme="https://hy6xing.github.io/tags/MIUI/" />
+            <link>https://hy6xing.cn/2023/02/09/shouji/MIUIsystemguanggao/</link>
+            <category term="biji" scheme="https://hy6xing.cn/categories/biji/" />
+            <category term="shouji" scheme="https://hy6xing.cn/categories/shouji/" />
+            <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
+            <category term="教程" scheme="https://hy6xing.cn/tags/%E6%95%99%E7%A8%8B/" />
+            <category term="小米手机" scheme="https://hy6xing.cn/tags/%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA/" />
+            <category term="MIUI" scheme="https://hy6xing.cn/tags/MIUI/" />
             <pubDate>Thu, 09 Feb 2023 21:52:01 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;   最全面的小米 miui 系统广告关闭。可能有人会问，这么简单的还有必要写个教程出来？&lt;br /&gt;
 没错，对懂得人来说，再简单不过。&lt;br /&gt;
@@ -423,14 +423,14 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://hy6xing.github.io/2023/02/08/shouji/AGCcamera/</guid>
+            <guid isPermalink="true">https://hy6xing.cn/2023/02/08/shouji/AGCcamera/</guid>
             <title>安卓AGC相机</title>
-            <link>https://hy6xing.github.io/2023/02/08/shouji/AGCcamera/</link>
-            <category term="shouji" scheme="https://hy6xing.github.io/categories/shouji/" />
-            <category term="笔记" scheme="https://hy6xing.github.io/tags/%E7%AC%94%E8%AE%B0/" />
-            <category term="教程" scheme="https://hy6xing.github.io/tags/%E6%95%99%E7%A8%8B/" />
-            <category term="资源分享" scheme="https://hy6xing.github.io/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
-            <category term="手机" scheme="https://hy6xing.github.io/tags/%E6%89%8B%E6%9C%BA/" />
+            <link>https://hy6xing.cn/2023/02/08/shouji/AGCcamera/</link>
+            <category term="shouji" scheme="https://hy6xing.cn/categories/shouji/" />
+            <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
+            <category term="资源分享" scheme="https://hy6xing.cn/tags/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/" />
+            <category term="教程" scheme="https://hy6xing.cn/tags/%E6%95%99%E7%A8%8B/" />
+            <category term="手机" scheme="https://hy6xing.cn/tags/%E6%89%8B%E6%9C%BA/" />
             <pubDate>Wed, 08 Feb 2023 22:52:20 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;安装步骤&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装步骤&#34;&gt;#&lt;/a&gt; 安装步骤&lt;/h2&gt;
 &lt;p&gt;安卓端强大的第三方相机&lt;span class=&#34;label success&#34;&gt; AGC&lt;/span&gt;&lt;br /&gt;
@@ -483,13 +483,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://hy6xing.github.io/2023/02/05/xinwen/20230205/</guid>
+            <guid isPermalink="true">https://hy6xing.cn/2023/02/05/xinwen/20230205/</guid>
             <title>动物园里最奇怪的事情，老虎为什么不吃大熊猫</title>
-            <link>https://hy6xing.github.io/2023/02/05/xinwen/20230205/</link>
-            <category term="xinwen" scheme="https://hy6xing.github.io/categories/xinwen/" />
-            <category term="奇葩事件" scheme="https://hy6xing.github.io/tags/%E5%A5%87%E8%91%A9%E4%BA%8B%E4%BB%B6/" />
-            <category term="新闻" scheme="https://hy6xing.github.io/tags/%E6%96%B0%E9%97%BB/" />
-            <category term="灵异事件" scheme="https://hy6xing.github.io/tags/%E7%81%B5%E5%BC%82%E4%BA%8B%E4%BB%B6/" />
+            <link>https://hy6xing.cn/2023/02/05/xinwen/20230205/</link>
+            <category term="xinwen" scheme="https://hy6xing.cn/categories/xinwen/" />
+            <category term="奇葩事件" scheme="https://hy6xing.cn/tags/%E5%A5%87%E8%91%A9%E4%BA%8B%E4%BB%B6/" />
+            <category term="新闻" scheme="https://hy6xing.cn/tags/%E6%96%B0%E9%97%BB/" />
+            <category term="灵异事件" scheme="https://hy6xing.cn/tags/%E7%81%B5%E5%BC%82%E4%BA%8B%E4%BB%B6/" />
             <pubDate>Sun, 05 Feb 2023 15:30:11 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;经过一些网民的讨论，给出了三个理由。&lt;/p&gt;
 &lt;p&gt;理由 1 : 大熊猫受到了中国人的有效保护，并人工把老虎和熊猫隔离开来。小编认为这不是主要原因，因为大熊猫已经在地球上生活了至少 800 万年，既是国宝，也是活化石，而且在古代记录中也没有大熊猫被老虎吃掉的记录。&lt;/p&gt;
@@ -501,13 +501,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://hy6xing.github.io/2023/02/05/PC/jingtaiziyuan/</guid>
+            <guid isPermalink="true">https://hy6xing.cn/2023/02/05/PC/jingtaiziyuan/</guid>
             <title>收藏夹</title>
-            <link>https://hy6xing.github.io/2023/02/05/PC/jingtaiziyuan/</link>
-            <category term="PC" scheme="https://hy6xing.github.io/categories/PC/" />
-            <category term="站点" scheme="https://hy6xing.github.io/tags/%E7%AB%99%E7%82%B9/" />
-            <category term="彩蛋" scheme="https://hy6xing.github.io/tags/%E5%BD%A9%E8%9B%8B/" />
-            <category term="（｡ò ∀ ó｡）" scheme="https://hy6xing.github.io/tags/%EF%BC%88%EF%BD%A1o-%E2%88%80-o%EF%BD%A1%EF%BC%89/" />
+            <link>https://hy6xing.cn/2023/02/05/PC/jingtaiziyuan/</link>
+            <category term="PC" scheme="https://hy6xing.cn/categories/PC/" />
+            <category term="站点" scheme="https://hy6xing.cn/tags/%E7%AB%99%E7%82%B9/" />
+            <category term="彩蛋" scheme="https://hy6xing.cn/tags/%E5%BD%A9%E8%9B%8B/" />
+            <category term="（｡ò ∀ ó｡）" scheme="https://hy6xing.cn/tags/%EF%BC%88%EF%BD%A1o-%E2%88%80-o%EF%BD%A1%EF%BC%89/" />
             <pubDate>Sun, 05 Feb 2023 13:23:35 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h2&gt;
 &lt;p&gt;  前提说明一下，因为有些网盘有文件格式限制或者不支持分享，所以这里大多还是以 &lt;code&gt;百度网盘&lt;/code&gt; 为主。&lt;br /&gt;
@@ -734,12 +734,12 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://hy6xing.github.io/2022/04/26/shouji/weixindaima/</guid>
+            <guid isPermalink="true">https://hy6xing.cn/2022/04/26/shouji/weixindaima/</guid>
             <title>好玩的微信代码</title>
-            <link>https://hy6xing.github.io/2022/04/26/shouji/weixindaima/</link>
-            <category term="shouji" scheme="https://hy6xing.github.io/categories/shouji/" />
-            <category term="教程" scheme="https://hy6xing.github.io/tags/%E6%95%99%E7%A8%8B/" />
-            <category term="微信" scheme="https://hy6xing.github.io/tags/%E5%BE%AE%E4%BF%A1/" />
+            <link>https://hy6xing.cn/2022/04/26/shouji/weixindaima/</link>
+            <category term="shouji" scheme="https://hy6xing.cn/categories/shouji/" />
+            <category term="教程" scheme="https://hy6xing.cn/tags/%E6%95%99%E7%A8%8B/" />
+            <category term="微信" scheme="https://hy6xing.cn/tags/%E5%BE%AE%E4%BF%A1/" />
             <pubDate>Tue, 26 Apr 2022 21:45:20 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;好玩的微信代码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#好玩的微信代码&#34;&gt;#&lt;/a&gt; 好玩的微信代码&lt;/h2&gt;
 &lt;h2 id=&#34;有趣的微信代码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#有趣的微信代码&#34;&gt;#&lt;/a&gt; 有趣的微信代码&lt;/h2&gt;
@@ -763,14 +763,14 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://hy6xing.github.io/2022/04/23/PC/html5hzhuye/</guid>
+            <guid isPermalink="true">https://hy6xing.cn/2022/04/23/PC/html5hzhuye/</guid>
             <title>HTML主页源码</title>
-            <link>https://hy6xing.github.io/2022/04/23/PC/html5hzhuye/</link>
-            <category term="PC" scheme="https://hy6xing.github.io/categories/PC/" />
-            <category term="站点" scheme="https://hy6xing.github.io/tags/%E7%AB%99%E7%82%B9/" />
-            <category term="源码" scheme="https://hy6xing.github.io/tags/%E6%BA%90%E7%A0%81/" />
-            <category term="html" scheme="https://hy6xing.github.io/tags/html/" />
-            <category term="hexo" scheme="https://hy6xing.github.io/tags/hexo/" />
+            <link>https://hy6xing.cn/2022/04/23/PC/html5hzhuye/</link>
+            <category term="PC" scheme="https://hy6xing.cn/categories/PC/" />
+            <category term="站点" scheme="https://hy6xing.cn/tags/%E7%AB%99%E7%82%B9/" />
+            <category term="源码" scheme="https://hy6xing.cn/tags/%E6%BA%90%E7%A0%81/" />
+            <category term="html" scheme="https://hy6xing.cn/tags/html/" />
+            <category term="hexo" scheme="https://hy6xing.cn/tags/hexo/" />
             <pubDate>Sat, 23 Apr 2022 16:20:21 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;梦想创造可能，敢于想象，敢于创造。炫酷黑色系列 HTML 源码，主页源码，引导页，html 源码&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/02/05/BcD4aWJCVE3nvj7.gif&#34; alt=&#34;zhuye.gif&#34; /&gt;&lt;/p&gt;
@@ -790,14 +790,14 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://hy6xing.github.io/2022/04/05/PC/rainmeter-simplux_2/</guid>
+            <guid isPermalink="true">https://hy6xing.cn/2022/04/05/PC/rainmeter-simplux_2/</guid>
             <title>simplux主题及插件</title>
-            <link>https://hy6xing.github.io/2022/04/05/PC/rainmeter-simplux_2/</link>
-            <category term="PC" scheme="https://hy6xing.github.io/categories/PC/" />
-            <category term="主题" scheme="https://hy6xing.github.io/tags/%E4%B8%BB%E9%A2%98/" />
-            <category term="美化" scheme="https://hy6xing.github.io/tags/%E7%BE%8E%E5%8C%96/" />
-            <category term="Rainmeter" scheme="https://hy6xing.github.io/tags/Rainmeter/" />
-            <category term="雨滴皮肤" scheme="https://hy6xing.github.io/tags/%E9%9B%A8%E6%BB%B4%E7%9A%AE%E8%82%A4/" />
+            <link>https://hy6xing.cn/2022/04/05/PC/rainmeter-simplux_2/</link>
+            <category term="PC" scheme="https://hy6xing.cn/categories/PC/" />
+            <category term="主题" scheme="https://hy6xing.cn/tags/%E4%B8%BB%E9%A2%98/" />
+            <category term="美化" scheme="https://hy6xing.cn/tags/%E7%BE%8E%E5%8C%96/" />
+            <category term="Rainmeter" scheme="https://hy6xing.cn/tags/Rainmeter/" />
+            <category term="雨滴皮肤" scheme="https://hy6xing.cn/tags/%E9%9B%A8%E6%BB%B4%E7%9A%AE%E8%82%A4/" />
             <pubDate>Tue, 05 Apr 2022 00:14:35 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;simplux_2雨滴桌面皮肤&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#simplux_2雨滴桌面皮肤&#34;&gt;#&lt;/a&gt; simplux_2 雨滴桌面皮肤&lt;/h2&gt;
 &lt;ul&gt;
@@ -820,12 +820,12 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://hy6xing.github.io/2022/04/04/diary/2022-04-04/</guid>
+            <guid isPermalink="true">https://hy6xing.cn/2022/04/04/diary/2022-04-04/</guid>
             <title>第一篇日记</title>
-            <link>https://hy6xing.github.io/2022/04/04/diary/2022-04-04/</link>
-            <category term="diary" scheme="https://hy6xing.github.io/categories/diary/" />
-            <category term="笔记" scheme="https://hy6xing.github.io/tags/%E7%AC%94%E8%AE%B0/" />
-            <category term="日记" scheme="https://hy6xing.github.io/tags/%E6%97%A5%E8%AE%B0/" />
+            <link>https://hy6xing.cn/2022/04/04/diary/2022-04-04/</link>
+            <category term="diary" scheme="https://hy6xing.cn/categories/diary/" />
+            <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
+            <category term="日记" scheme="https://hy6xing.cn/tags/%E6%97%A5%E8%AE%B0/" />
             <pubDate>Mon, 04 Apr 2022 22:52:20 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;东莞：2022 年 4 月 4 日    晴   星期一&lt;/p&gt;
 &lt;p&gt;这算是我第一篇网络日记吧。此站点历时 8 个晚上的下班时间，终于做好了。日记也不是天天写，更应该没人看，纯属自己写着玩，记录一下有点意义的事。&lt;/p&gt;
@@ -835,14 +835,14 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://hy6xing.github.io/2022/04/01/hello-world/</guid>
+            <guid isPermalink="true">https://hy6xing.cn/2022/04/01/hello-world/</guid>
             <title>Hello World</title>
-            <link>https://hy6xing.github.io/2022/04/01/hello-world/</link>
-            <category term="diary" scheme="https://hy6xing.github.io/categories/diary/" />
-            <category term="biji" scheme="https://hy6xing.github.io/categories/biji/" />
-            <category term="介绍" scheme="https://hy6xing.github.io/tags/%E4%BB%8B%E7%BB%8D/" />
-            <category term="笔记" scheme="https://hy6xing.github.io/tags/%E7%AC%94%E8%AE%B0/" />
-            <category term="站点" scheme="https://hy6xing.github.io/tags/%E7%AB%99%E7%82%B9/" />
+            <link>https://hy6xing.cn/2022/04/01/hello-world/</link>
+            <category term="diary" scheme="https://hy6xing.cn/categories/diary/" />
+            <category term="biji" scheme="https://hy6xing.cn/categories/biji/" />
+            <category term="介绍" scheme="https://hy6xing.cn/tags/%E4%BB%8B%E7%BB%8D/" />
+            <category term="笔记" scheme="https://hy6xing.cn/tags/%E7%AC%94%E8%AE%B0/" />
+            <category term="站点" scheme="https://hy6xing.cn/tags/%E7%AB%99%E7%82%B9/" />
             <pubDate>Fri, 01 Apr 2022 22:40:01 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
@@ -861,17 +861,17 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://hy6xing.github.io/2022/03/30/PC/zhandianjieshao/</guid>
+            <guid isPermalink="true">https://hy6xing.cn/2022/03/30/PC/zhandianjieshao/</guid>
             <title>站点白话</title>
-            <link>https://hy6xing.github.io/2022/03/30/PC/zhandianjieshao/</link>
-            <category term="PC" scheme="https://hy6xing.github.io/categories/PC/" />
-            <category term="站点" scheme="https://hy6xing.github.io/tags/%E7%AB%99%E7%82%B9/" />
+            <link>https://hy6xing.cn/2022/03/30/PC/zhandianjieshao/</link>
+            <category term="PC" scheme="https://hy6xing.cn/categories/PC/" />
+            <category term="站点" scheme="https://hy6xing.cn/tags/%E7%AB%99%E7%82%B9/" />
             <pubDate>Wed, 30 Mar 2022 22:23:35 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;rainbow&#34;&gt;欢迎浏览本站，网站对接微信公众号：六星虚拟网络&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;本站所发布的所有东西均为网络收集（免费，也包括个人开发及原创）而来。如有侵权请及时联系本人&lt;/p&gt;
 &lt;p&gt;或者管理员小凌 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9xbS5xcS5jb20vY2dpLWJpbi9xbS9xcj9rPS02U3Raazc0TXhueVFGa09hV0QzV0dCZnBzdzFPTl9yJmFtcDtub3ZlcmlmeT0w&#34;&gt;QQ&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;反馈。收到信息后，我们会第一时间核实，如有存在该行为，会在第一时间做出删除处理。&lt;/p&gt;
-&lt;p&gt;反馈邮箱在 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oeTZ4aW5nLmNuL2Fib3V0Lw==&#34;&gt;关于&lt;/span&gt; 里。&lt;/p&gt;
+&lt;p&gt;反馈邮箱在 &lt;a href=&#34;https://hy6xing.cn/about/&#34;&gt;关于&lt;/a&gt; 里。&lt;/p&gt;
 &lt;p&gt;福利，如果你有幸搜索搜到 wifi 名为：&lt;br /&gt;
 &lt;span class=&#34;kbd blue&#34;&gt;六星虚拟网络&lt;/span&gt; &amp;amp; &lt;span class=&#34;kbd blue&#34;&gt;hy6xing&lt;/span&gt; &amp;amp; &lt;span class=&#34;kbd blue&#34;&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5oeTZ4aW5nLmNu&#34;&gt;www.hy6xing.cn&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
  等关键字眼的无线网。&lt;br /&gt;
@@ -885,10 +885,10 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://hy6xing.github.io/2022/03/30/tupian/</guid>
+            <guid isPermalink="true">https://hy6xing.cn/2022/03/30/tupian/</guid>
             <title>tupian测试</title>
-            <link>https://hy6xing.github.io/2022/03/30/tupian/</link>
-            <category term="biji" scheme="https://hy6xing.github.io/categories/biji/" />
+            <link>https://hy6xing.cn/2022/03/30/tupian/</link>
+            <category term="biji" scheme="https://hy6xing.cn/categories/biji/" />
             <pubDate>Wed, 30 Mar 2022 00:33:10 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;试一下图片&lt;img data-src=&#34;https://s2.loli.net/2023/02/05/8SmjcyZ9uCWLT3M.jpg&#34; alt=&#34;luotianyi.jpg&#34; /&gt;&lt;br /&gt;
  这可是第一篇 md 文章，怎么也得留着（｡ò ∀ ó｡）&lt;/p&gt;
